@@ -1,0 +1,38 @@
+1 98 Α PHILOSOPHIAE ’ NATURALIS [Mor. CORPOR-
+
+trapezio F G H Ι simile, et cujus anguli f, g, h, itangant rectas illas po-
+sitione datas A B, A D, B D, C E, singuli singulas dicto ordine. Dein
+circa hoc trapezium describatur trajectoria curvae lineae F G H I con-
+similis.
+
+Scholium.
+
+construi etiam potest hoc problema ut sequitur. Junctis F G, G H,
+H I, F I produc G F ad V, jungeque F H, I G,* et angulis F G H, '
+V F H fac angulos C A K,·D A L aequales. Concurrant A K, A L
+cum recta B D in· K et L, et inde agantur K M, L N, quarum K M con-
+stituat angulum A K M aequalem angulo G H I, sitque ad A K ut est
+H Ι ad G Η ; et L N constituat angulum A L N' aequalem angulo
+F H Ι, sitque ad A L ut H I ad F H. Ducantur autem A K,
+K M, A L, L N ad eas partes linearum A D, A K, A L, ut literae C A
+K M C, AL KA, D ALND, eodem ordine cumliteris FGHIF
+in orbem redeant 3 et acta M N occurrat rectae C E in i. Fac angulum
+iE P aequalem angulo I G F, sitque P E ad E i ut F G ad G I; et per
+P agatur P Q f, quae cum recta A D E contineat angulum P Q E aequa-
+lem angulo F I G, rectaeque A B· occurrat in f, et jungatur f i. Agantur
+autem P E et P Q ad eas partes linearum C E, P E, ut I
+literarum P E i P et P E Q P idem sit ordo circularis
+qui literarum F G H I F: et si super linea f i eodem
+quoque literarum ordine constituatur trapezium f g hi
+
+   
+
+trapezio F G H Ι simile, et circumscribatur trajectoria specie data, solve·
+tur problema. (Υ)
+
+(¹) Hoec nova constructio hoc praemisso Lem· Lemma. Si ex
+
+mate demonstratur puncto Α ‘³¹⁰5 triangulum
+
+F G H dato agatur ad angulum F rect-1 A F,
+

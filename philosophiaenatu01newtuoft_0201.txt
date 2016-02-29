@@ -1,0 +1,69 @@
+vLmtn Pinum] PRINCIPIA MATHEMATICA. 165
+
+Cas. 2. Dentur puncta qua-
+tuor B, C, D, P extra tan-
+gentem H I sita. Junge bina
+lineis B D, C P concurren-
+tibus in G, tangentique oc-
+currentibus in H et 1. Sece-
+tur tangens in A, ita ut sit
+H A ad Ι A, ut est rectan-
+gulum sub medi& proportion-
+ali inter C G et G P et me-
+di& proportionali inter B H '
+et H D, ad rectangulum
+sub medi& proportionali inter D G et G B et media proportionali
+inter P Ι et Ι (23 et erit A punctum contactus. Nam si rectae
+P Ι parallela H X trajectoriam secet in punctis quibusvis X et Y: erit
+(ex conicis) (³) punctum A ita locandum, ut fuerit H A quad. ad A I quad.
+’ in ratione composita ex ratione rectanguli X H Y ad rectangnlum B H D,
+seu rectanguli C G P ad rectangulmn D G B, et ex ratione rectan-
+guli B H D ad rectangulum P I C. Invento autem contactus puncto A,
+
+describetur trajectoria ut in casu primo. Q. e. f.
+
+rationi compositae ex ratione rect. C G P ad rect. H G convenientes in G, et sectionem conicum se-
+D G B et, ‘rect- B H D ad rect. P 1 C ideoque cannes in punctis quatuor C, P, D, 133 factum
+est H A ι ad A 1 ut μ C G P >< CGP><BHD‚e1·itadfactumDGB><PIC,
+ΜΒ HDadffDGBxffP Ι C, sed m danii-atione, nempein ratione H A²‚ ad
+A1²; Ducta. enim lineaH Y X li-
+neae 1 C P parallela, en‘t ut prius (per
+Lem. 111. de Conic. p. 117.) D G B:
+BHD=CGP2X HY=
+
+CGIE—{f—Bfi-Q, est vero H A ²:
+
+A 12=XHY(c G PDXGZH Β»
+ΡΙ C (per Cor. 5. ejusdem Lem.) ergo
+HA22A I ²=CGP><BHD2
+D G B >< Ρ 1 C.
+
+Quod si linea H Y X, extra sectionem
+cadat aut eam tangat, ex punem quovis h
+lineoe H A I, ducatur alia linea hy x li-
+neae I C P parallela quae sectioni oc·
+currat in x et y, et ducatur alia lx-
+. neahd b g*lineae H D Β G Parauela
+Radices quadratae illorum Rectangulorum sunt ita ut sectioni occurrat in detb, et lineaeP Cin
+ipsaemediae proportionales inter illorum latera; g, habebiturque ut priush A²: A 1²=Cg1³
+ErgooeeHAaaAJutestrect.nwnaediapr01›or- · ><bh d: d g b >< P Ι C· Sed cum ob
+tinnuli inter c Get G Pet media mportionali pamllelas G H, b h sit>(p‘er Lemma gum. de
+interBI-Iet HD adme. submediaqnoportio- Con. p. 117.) C g P: d g b= C G P:
+nali interDGetGBetnoedwpropm-tionaliivaer D G B, et (per Cor. 5. ejusd. Lem.)
+Pgetl C. SiitaqueHI inAseceturineii sithA22b hd=H A²=BHDsubstitutis
+ratione, habebitur punctum contactus. his ultimis rationibus loco priorum in proportione
+
+320. Corol. 1. Si ex punctis quibuslibet hA22A 1²=c ngb h d:d ab ><
+HetIrectaeHIsectIonem conicam tan- PICfietHA22A12=cGP><BHD
+gentis in> A, agantur duae quaevis rectae I {⁹3 = D G B >< Ρ Ι C ut prius. Unde satio
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

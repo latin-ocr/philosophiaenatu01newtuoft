@@ -1,0 +1,95 @@
+PRINCIPIA MATHEMATICA.
+
+Lmen Parmos] 59
+
+ad, ultimas quantitatum 'evanescentium summas et rationes, primasque na-
+scentium, id est, ad limites ( ⁰) summarum et rationum deoucere3 et
+>propterea limitum illorum demonstrationes qua potui brevitate praemittere.
+His enim idem praestatur quod per methodum indivisibilium 3 et princi-
+piis demonstratis jam tutius utemur. Proinde in sequentibus, si quando
+quantitates tanquam ex particulis constantes consideravero, vel si pro rec-
+tis usurpavero lineolas curvas 3 nolim indivisibilia, sed evanescentia divisi-
+bilia, non summas et rationes partium (Ρ) determinatarum, sed summa-
+rum et rationum limites semper intelligi ς vimque talium demonstrationum
+ad methodum praecedentium lemmatum semper revocari.
+
+Objectio est, quod quantitatum · evanescentium nulla sit ultima pro—
+portio3 quippe quae‚ antequam evanuerunt, non est ultima3 ubi evanue-
+runt, nulla est. Sed et eodem argumento aeque contendi posset nullam
+esse corporis ad certum locum, ubi motus finiatur, pervenientis (q) velo-
+citatem ultimam: hane enim, antequam corpus attingit locum, non esse
+ultimam3 ubi attingit, nullam esse. Et responsio facilis est: per veloci-
+tatem ultimam intelligi eam, qua corpus movetur, neque antequam attin-
+· git locum ultimum et motus cessat, neque postea, sed tunc cum attingit3
+id est, illam ipsam velocitatem quacum corpus attingit locum ultimum et
+
+res. Nam considerabant polygona circulis in- curatius procederet, loco indivisibilium evane-
+scripta tanquam composita ex infinitis numero at- scentia divisibilia substituit, et quantitates Ma-
+que infinite parvis seu evanescentibus lateribus3 thematim non ut ex partibus quam minimis
+
+manifestum autem est differentiam polvgoni in-
+scripti a circulo quavis data minorem componi ex
+infinitis numero atque infinite parvis seu evanes-
+centibus circuli segmentis quorum latera polygoe
+· ni sunt chordae; haec ver& seg-menta sunt mini-
+mae quantitates illae quas secundi ordinis infini-
+tesimas dicunt Recentiores. Hic pedem fixe-
+rant veteres primusque longius progredi ausus
+ωε celeberrimus Geometra Bonavemura Cavale-
+rius, qui anno 1635, indivisibilium methodum in
+geometriam introduxit. Hoc primum posuit
+suae methodi decretum, lineas nempe ex infini-
+tis punctis constare, superficies ex infinitis lineis,
+et solida ex infinitis superficiebus; deinde indi-
+visibilia illa elementa, totamque eorum summam
+comparat in unii magnitudine cum singulis ele-
+mentis eorumque summa in alia magnitudine,
+et sic duarum magnitudinum rationem determi-
+nat. Haee autem quantitatum indivisibilium
+hypothesis durior minusque geometrica szv'ro-
+ιῐο visa est.
+
+(¹¹) 137. Nzwroims, ut indirectas et per-
+plexas vitaret‘vcterum demonstrationes, earum
+tamen certitudinem et evidentiam conservaret,
+veterum principium lemmate primo generaliter
+expressit, illudque in lemmatis sequentibus ad
+curvas generatim applicavit, et inde directas
+perbrevesque demonstrationes in toto operis de-
+cursu deduxia2 ‘Ut autem methodi indivisibili-
+um brevitatem assequeretur, tutius tamen —et ac-
+
+constantes sed ut motu continuo descriptas con-
+siderat; supponit nimirum lineas describi ac de-
+scribendo generari non per appositionem panium,
+sed per motum continuum punctorum, superfi-
+cies per motum linearum, et solida per motum
+superficierum, angulos per rotatione· laterum,
+tempora per fluxum continuum, et sicin caeteris.
+
+(ο) 138. Ubi area curvilinea in parallelogram-
+ma rectilinea dividitur, et eorum numerus au-
+getur atque latitudo minuitur in infinitum, ho.
+rum parallelogrammorum summa (Lem. 2.),
+nunquam potest esse major area curvilinea, sed
+haec area est terminus ad quem parallelogram-
+morum decrescentium summa semper accedit et
+quem taudem attingit, ubi parallelogramma
+evanescunt aut nascuntur. Idem dicendum de
+evanescentibus curvarum chordis respectu peri-
+metri curvilineae.
+
+(ιτ) 1:39. Quantitates evanescentes concipi
+non debent velut determinatae aut determinabiles
+quaedam portiones quantitatum quae certam etde-
+finitam parvitatem obtineant. Quascumque enim
+portiunculae linearum, superficierum aut corpo-
+rum acceperimus aut designaverimus hae semper
+reipsa finitae erunt, non evanescentem itaque non
+sunt intra certos terminos quantumvis proximos
+coarctandae, unde hae quantitates semper ut de-
+crescentes ac perpetus) diminuendae accipi debent.
+
+(q) 140 Exempli causa, gravis sursum pro·
+jecti et ad altissimum locum pervenientis-
+

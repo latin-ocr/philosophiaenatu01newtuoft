@@ -1,0 +1,62 @@
+Limia Plumae] PRINCIPIA MATHEMATICA. 295
+
+PROPOSITIO L111. PROBLEMA XXXV.
+
+concessis figurarum camnine-arum quadraturis, invenire vires quibus corpora
+in datis cumis lineis oscillationes semper isochronas peragent.
+
+Oscilletur corpus T in curva quavis linea
+S T R Q, cujus axis sit A R transiens per
+virium centrum C. Agatur T X quae cur-
+vam illam in corporis loco T quovis contin-
+gat, inque hac tangente T X capiatur T Y
+aequalis arcui T R. Nam (f) longitudo
+arcus illius ex figurarum quadraturis, per ⁸
+methodos vulgareS‚ innotescit. De puncto
+Y educatur recta Y Z tangenti perpendicu-
+laris. Agatur C T perpendiculari illi oc-
+currens in Z, et erit vis centripeta propor-
+tionalis rectae T Ζ. Q. e. i.
+
+Nam si vis, qua corpus trahitur de T
+versus C, exponatur per rectam ‘1' Z cap-
+
+ 
+
+-112 mauu bugam em numm —821 = ffiafflnffisffiessfflaffl ¹⁰2⁸*
+220. 25. Est autem diameter circuli ad peri- ’
+
+pheriam ut 118, ad 855, quam proxime, et pm- A
+
+inde quadratum diametri ad quadratum periphe-
+
+riae ut 12769 ad 1260253 quase spatium uno
+
+minuto secundo descriptum a corpore gravi per-
+
+pendiculariter cadmte, est pedum Paris. 15.
+
+ἦ, quam proxim&- - ἃ
+
+472. emt. Quoniam prope tenuris superfi- Ι
+clem gmvium directio horizonti ad sensum per-
+pendicularis est gravitasque constans, atque adea
+V gravitas absoluta, et A C distantia a centro
+telluris data sum, in pendulis in cycloidem vul-
+garem aut etiam in exiguos arcus circuli (465)
+excurrenu'hu, tempus unius oscillationis (per
+(ιιι 2. ammovit unsaramma„ , tl
+ratione subduplicaui longitudinis penduli et pro- &a &sn
+inde longitudo penduli in ratione duplicata tem· b C B
+poris unius osculationis. ·''
+
+473. Corol. Numeri oscillationum {sochi-ona,- 474. Corol- Hinc si tempus unius oselllatio-
+rum a duobus pendulis A Β, a b, eodem tem· nis penduli A B, sit T, tempus unius 050111860-
+pore confectarum sunt reciproce ut tempora qui· ⁷ nis penduli a b, sit t, numeri oscillationum eo-
+bus singulo οεοὶΙΙαάοιιεε fiunt. Nomai pendu- dem tempore confectarum N. 1¹, ent T ² ἰ =
+lumahbisoscilletureotemporequo AB 11:1⁴1(473),etTT2tt=AB=ab(⁴72)
+seme1; ahqumoroudllationes absolvendum acpropoereann:NN=A13:ab. Datis
+A B duas conficit, et ita porro in aliis supposi- igitur tribus harum proportionum taminia quar-
+tionibus, ut patet. Quare numeri oscillationum tus datus est.
+isochmnarum eodem tempore ι duobus pendulisT 4 (f) 475 Nom longitudo arcus, &c- Curva
+

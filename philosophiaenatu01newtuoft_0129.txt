@@ -1,0 +1,130 @@
+Lama anusq PRINCIPIA-‚MATHEMATJCA.
+
+gentes in verticibus A, et D (per Lemma IV.)
+et inter se Parallelae.
+
+Dioo praeterea eas me equales, ducantur
+enim Par-nde ipsis
+fq χ qr =bi>< k i (per Lem· 1.) accedenti-
+busqne ordinatis nd Tangentoe fit tandem f q
+=FD, qr =RD; bi=BA‚ et ki=
+KA-estergoFDx RD=BA>< KA,sed
+estFD=DRetBA=KAergoFD²=
+Β A-2 et F D = B A=K A.. Undetandem
+cumTriangulaC A K etc D Fsintsimilimet
+sitCA: CD=KA: FDaetefiamCA==
+Tlteor. 11. Tertia proportionalis Digmetm
+transversae et Diametro conjugatae dicutur Latus
+Rectum ; est Diameter transversa ad Latus Reo-
+tum ut factum Abscismum ab unoque vertice
+sumpturum, ad quadratum Ordinntae ; hine
+ista curva brigantii sive exedens dicitur,
+quia quadratum ordinatas majus est facto
+lateris recti per abscissam a proximo ver-
+tice(Apol. Lib. Ι. Prop. XXI.) Coincidit
+verohaec Proposi tio cnm ista, est quadratum
+Diametri Transversae ad quad. Diametri
+eonjugatae ut factum abscissarum ad qua-
+dratum ordinatae.
+
+Demcmse. Sit ut prius Diameter trans-
+versa D A T, conjugata B A K et ordinata
+inter Asymptotas contenta Η Ρ 0 G N:
+sunt (per Lern. ΙΙ.) facta partium sumpta·
+rum in lineis D Ο, H N a puncto Hyper-
+bolze ad utramque Asymptotum, sicut facta
+partium earundem linearum a puncto con-
+cursus O, usque ad Hyperbolum sumptu-
+runnhocaetA C><A C: GNxGH
+=Ao><D02P0><GQ. Sed
+G N χ G H aequalis est quadrato semi-
+tangentis B A, sive semi-diametri conjugatae ;
+nam(perLem. Ι.) estGNx GH=b i ><ki
+(etper praeced. Dem. bi>( Ki=BA²) etoet
+P Ο = G 0 ideo proportio superior huc redit,
+Ac²= BA²=A0><D0:P0². Sit
+vero L latus rectum, est per ejus definitionem
+2AC: ΞΒ A=2BA: L‚ergoest2Ac=
+L=4 Ac²=4BA²=A C²=BA²
+
+ide6que2Ach=Ao><D02Po². ’
+
+ 
+
+ 
+
+Hinc deducitur quod P Ο ²= ιχέ Ξῖῡ o
+=Rg><L><A O;utergoD Oestsemper
+
+rna'or quzim A D, est etiam P O ² semper major
+quam L Χ Α Ο. Q. e. dg
+
+Theor. 111. Diameter illa quoe Asymptotorum
+Angulum bifariam* dividit est perpendicularis
+suis ordinatis (ut liquet ex Elem). ideoque est
+Axis Hyperbolae et ejus Diameter conjugata
+Axis conjugatus: si a centro feratur utrinque
+in Axem longitudo Asymptoti a centro ad ex-
+tremum Axis conjugati sumptae, puncta notata
+in Axi dicuntur foci Hyperbolae, et si a focis ad
+quodvis Hyperbola'e punctum ducanturlineae,
+earum differentia est semper Axi transverso
+aequalis. latus Rectum axis dicitur latus rec-
+
+proximaebiK, fqr: erit-
+
+9εῇ
+
+tum· PrIncipale, et tota lium ordinatim Axi ap·
+plicata in foco est aequalis illi lateri recto Princi- Δ.
+pali, quod erit majus quadruplo distantiae ver-
+ticis a foco, si denique bifariam dividatur An-
+gulus quem faciunt lineae ab utroque foco ad
+idem curvae punctum dnctae, linea eum angu-
+lum bisecang erit Tungens curvae in eo puncto.
+(Apol. lib.r 5. 51.) .
+Demonst- Dummr quaevis lium ex foco H,
+sumaturHI=DA, etducta I Sadalterum
+focum S, fiatISP=PISeritP1=Ps,
+ideoque differentia linearum H P, S P erit H 1
+=DAseu axi transverso, <sto hocposito, P
+ad Hypo-bolam pertinere. Centro P, radio P S,
+
+“describatur circulus Ι S G N habebitur haec
+
+proportio, H1=H S=H G: HN sumatur
+dimidium harum linearum manebit proportio,
+
+ 
+
+ἦ H S'= C S, ἑ H G
+emissa P 0 perpendi-
+t G= S Ο, ergo ᾗ H G =
+80=CO. Denique{HN={H I
+N= 1÷1P=R Pestergo HR:
+O ε R P ε componendo primum habe-
+:CS†HR=CO: RP÷CO
+et prioris rationis terminos terminis secundae
+
+BR: HR÷R P÷C4E÷CQ sive
+quiaH R= Ac=Dc,etcs= C Η est
+
+AC: CS†AC=DO:HP÷HO.
+At operationibus contrariis in eandem propor-
+tionem, H R: C S'= C O: R P factis, hoc est,
+dividendo et postea prioris rationis terminos e ter-
+minis secundae detrahendo, substitutionibus factis
+erit
+A ’ cs—A Οι- A02HP—Ho.
+mu catis ergo terminis utriusque proportionis
+erit
+AC²: CS²—AC²=A0><DO:
+H *P ² — H Ο ² sit autem perpendicularis A Β
+erecoe ab A usque ad Asymptotam C Β, est C B
+= cs,etCS2·-A c²=AB²;estetiam
+HP2-H02=Po²,estergo ’ ’
+A C²=AB²=A 0><D0=Po²‚sed
+
+HR„
+etd
+

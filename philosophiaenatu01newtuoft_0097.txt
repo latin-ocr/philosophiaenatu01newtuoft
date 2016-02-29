@@ -1,0 +1,73 @@
+Lmnn pamas] PRINCIPIA MATHEMATICA} σι
+
+constabit ex indivisibilibus, contra quam Euclides de incommensurabilibus, ν
+
+in libro decimo elementorum, demonstravit. Verum haec objectio falsae
+innititur hypothesi. Ultimae rationes fflae quibuscum quantitates evanes-
+cunt, revera non sunt rationes quantitatum (¹) ultimarum, sed limites
+ad quos quantitatum sine limite decrescentium rationes semper appropin-
+quant 3 et 'quas propius assequi possunt quam pro data quavis differentia,
+nunquam vero transgredi, neque prinis attingere quam quantitates dimi-
+nuuntur in infinitum. Res clarius intelligetur in infinite magnis„ Si
+quantitates duae, quarum data est differentia, augeantur in infinitum, da-
+bitur harum ultima ratio, minirum ratio aequalitatis, nec tamen ideo da-
+buntur quantitates ultimae seu maximae quarum ista est ratio. In sequenti-
+bus igitur, si quando facili rerum conceptui consulens, dixero quantitates
+quam minimas, vel evanescentes, vel ultimas3 cave intelligas quantitates
+magnitudine determinatim, sed cogita semper diminuendas sine limite.
+
+ 
+
+in punctis C, et c, nd'eo ut dum punctum c, eo.
+incidit cunfpuncto C, omnis velocitatis per E c,
+variatio expiret. Quare (Lem. Ι.) velocitates
+quibus fluentium incrementa eodem tempore
+, genita primo nascuntur, sunt uniformes. Q„ e. d.
+
+146. Cum ergo velocitates uniformes sint spa-
+tiis eodem tempore percurrendis proportionales
+(5), manifestum eet fluxiones (143) esse in ra·
+tione incrementorum eodem tempore genitorum,
+dum primo nascuntur vel ultimo {evanescunt 3
+adeoque ut fluxionum relatio inveniatur, sume-
+re oportet incrementa fluentium eodem tempore
+genita, et primam eorum incrementorum nascen-
+tium, vel ultimam evanescentium rationem consi-
+derare tanquam relationem fluxionum.
+
+147. Hinc summa fluxionum est ut summa in-
+crementorum nascentiumvel evanescentium, sum-
+ma vero incrementorum omnium nascentium est
+ipsa quantitas fluens; narn si tota area A c b di-
+visa intelligatur in parallelogramma ut B E, eo-
+rumque numeru‘s augeatur et latitudo B b
+minuatur in infinitum, summa omnium in-
+crementorum nascentium B b, ab A usque ad
+
+b, erit ipsa fluens A b, summa omnium incre-
+mentorum E c, ab A, nsque ad c, erit fluens
+b c, summa omnium C c, erit meus fluens A c, et
+summa omnium parallelogrammorum B E, erit
+area A c b fluens (106, 107); ergo summa
+fluxionum est ut ipsa quantitas fluens.
+
+148. Quoniam in figura superiori fluxio ali·
+qua, vel abscissae A B, vel ordinatae C B, aut
+arcus A C, ad arbitrium tanquam uniformis
+spectari possit, (Ex dictis 145.) patet ex pluribus
+fluxionibus unam tanquam constantem posse
+considerari et quantitate finita constanti exponi,
+dum aliae fluxiones varia ratione mutari qt quan.
+titatibus variabilibus exponi possunt.
+
+149. Quare cum quantitates vai-'ubiles suas
+habeant fluxiones quae rursus possunt esse vaxia-
+biles, liquet dari fluxiones fluxionum, ‚eeu varios,
+imo infinitos fluxionum ordines. Fluentium
+finitarum fluxiones dicuntur fluxiones primae;
+harum fluxiones primae dicuntur fluentium fini-
+tarum fluxiones secundae, et ita porro in infinitum.
+
+150. Ductii recta V T H, quae curvam tan-
+gat in C, ipsisque b c et B A productis occur..
+

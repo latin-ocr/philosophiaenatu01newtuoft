@@ -1,0 +1,133 @@
+18 PHILOSOPHIAE NATURALIS
+
+[AxioM. suut
+
+utraque feretur corpus illud >eodem tempore in diagonali ab A ad D. Nam
+(b) quoniam vis N agit secundum lineam A C ipsi B D parallelam, haec ’
+vis, per Legem 11. nihil mutabit velocitatem accedendi ad lineam illam 'B D
+a vi> altera genitam. ‚ Accedet igitur corpus eodem tempore ad lineam B D,
+sive vis N imprimatur, sive non, (⁰) atque ideo in fine illius temporis re-
+
+ambiguitas, nihil aliu-d per hanc legem intellec-
+tum volumus, nisi aequales fieri in corpore agente
+ct patiente statiis mutationes; cum enim nulla
+possit esse aetio corporis in aliud corpuS, quin
+mutua fiat horumce corporum collisio (8), mu-
+tatio status aequaliter in utroque corpore recipi
+debet; unde licet actioni aequalis semper sit et
+contraria reactio, non ichrco tamen inter corpus
+agens et patiens fieri debet aequilibrium, idque
+Newtoniano exemplo manifestum est ; si equi
+lapidem trahentis conatus seu vis activa major sit
+vi quii lapis per gravitatem suam, plani scabriti-
+em, mediique resistentiam, equo trahenti reluc-
+tatur, equus lapidem trahet cum ea totius suae
+vis parte, quae post superatam lapidis gravitatem,
+plani scabritiem, mediique resistentiam, ipsi re-
+sidua est3 si autem totus trahentis equi conatus
+hisce tribus resistentiis minor sit, vel si ipsis sit
+aequalis, equus lapidem non movebit. Quare
+totus ac integer lapidis renixus qui componitur
+ex ipsius gravitate, plani scabritie, resistentia
+medii et inertia quae lapidi etiam omnibus aliis
+viribus destituto inest, actioni equi lapidem tra-
+hentis est semper aequalis,
+
+(b) 33. Quoniam vis N. agit secundum line-
+am A C, ipsi B D, parallelam, haec vis, (per
+Leg 2.) nihil nisi velocitatem secundum lineam
+ipsi B D, parallelam producet, ac proinde non
+mutabit velocitatem accedendi ad lineam illam
+B D, a vi altera genitam3 cum corpus iners
+duabus hisce viribus ac directionibus simul obse-
+qui possit, et (per leg. 1.), debeat, atque hic sup-
+ponatur vires M, et IV, in mobile eodem modo
+
+simul agere ac sisingulae seorsim in illud qui· A B
+
+escens imprimerentur.
+
+(c) 34. Idcirco cum in fine ejusdem tempo-
+ris, corpus quod hic tanquam punctum conside-
+ratur, simul esse debeat in utraque linea C D,
+et B D, in utriusque lineae concursu D reperi.
+atur, necesse cst 3 quia autem initio et fine tem-
+poris dati corpus reperitur in recta A D, nempe
+primum in A, et deinde in D, toto tempore dato
+motum fuit per lineam A D, nam ex duobus
+punctis A, et D, datis, recta. A D, positione
+data est3 et corpus quibuslibet viribus impulsum,
+cessante virium actione, movetur uniformiter in
+directum secundum ultimam directionem ex
+viribus impressis resultantem, (per Leg. 1. et 9.)
+
+55. Motus compositus per diagonalem A D,
+motibus per latera A B, AC, disjunctis non
+est aequalis, sed tantum aequipollet. Nam cum
+eadem sit corporis massa, motus quantitates per
+diagonalem et per latera sunt ut velocitates unifor-
+mes(6) seu ut spatia A D, A B, A C. eodem tem-
+ppreAperEul-xslaaff) ; gggauffin εΧωὸηα laterum A B
+
+, or o 1 ς er ο summa
+quantitatum :ilotfis per latera, major {st quanti-
+
+tate motus per diagonalem. Verum quia idem
+est motus, sive mobile per diagonalem A D,
+celeritate aequabili ut A D, ex vi unica impressa
+feratur, sive viribus conjunctis per latera A B,
+A C, impellatur, liquet motum per diagonalem,
+motibus per latera disjunctis aequivalere.
+
+Si mobile a pluribus quam duabus viribus in
+loco A, simul impressis impellatur, inveniri
+semper poterit unica directio et velocitas ex om.
+nibus separatis composita ipsisque aequipollens,
+quae media directio dicitur3 duarum enim viri.
+um media directio reperiatur (per coroll. 1.
+Nevit->3 deinde diagonalis illa tanquam spati-
+um vi unica percursum consideretur, et cum
+spatio tertia vi descripto pari ratione componatur,
+sicque vires omnes ad unicam reducentur.
+
+57. Motus omnis in quotcumque alios latera,
+les ipsi aequipollentes resolvi potest3 nam motus
+per A D, aequabilis3 facto triangulo quocumque
+A B D, resolvitur in motus per latera A B, Ac,
+motui per diagonalem A D, aequipollentoe (35).
+Eadem ratione motus per A B, in duos quoscum-
+que alios, descripto circa latus A B triangulo
+resolvitur, idemque de motu per A C, et de
+aliis quibuscumque motibus dici debet.
+
+38. Si corpus aliquod A, duplici vi per A C,
+et per A F, ita urgeatur, ut motus in eadem
+ratione acceleretur vel retardetur, sive quod
+idem est, si spatia A Β, et A D, Ac, et Δ F,
+iisdem temporibus percursa, semper sint in con-
+stanti ratione, motu composito parallelogrammi
+diagonalem A G, describet . . . .
+
+C
+
+  
+
+Dem.... Ductis DE ad A B, et ΒΕ ad
+A D, paralleli& corpus conjunctis viribus motum,
+re
+E B, (54) adeoque in earum intersectione E,
+similiter ductis F G, ad A C, et C G. ad Δ F,
+parallelis, patet corpus motu composito eodem
+tempore reperiri in G, quo motibus disjunctis
+attingeret puncta C, et F ; cum igitur (ex hyp.)
+
+simundanseunautaaadacmu ’
+
+F G, recta A E, producta transit per puncum
+G; ergo corpus per diagonalem rectam A G,
+incedet. Q. e. d.
+
+39. Si spatia secundum unam directionem
+
+periri debet simul in utraque linea D E, et x
+

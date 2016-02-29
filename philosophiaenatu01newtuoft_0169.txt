@@ -1,0 +1,38 @@
+*ann Primus] PRINCIPIA MATHEMATICA. 133
+
+L aequale fuerit 2 S P 41- 2 K P, longitudo P H infinita erit3 e't prop-
+terea figura erit parabola axem habens S H parallelum lineae P K, et
+inde dabitur, Quod si corpus maiori adhue cum velocitate de loco suo
+
+ 
+
+P exeat, capienda erit longitudo P H ad alteram partem tangentis3 ideo-
+que tangente inter umbilicos pergente, figura erit hyperbola axem habens
+principalem aequalem differentiae linearum S P et P H, et inde dabitur.
+Nam si corpus in his casibus revolvatur in conica sectione sic inventa,-
+demonstratum est in Prop. XI, XII, et XIII, quod vis centripeta erit ut
+quadratum distantiae corporis a centro virium S reciproce 3 ideoque linea
+P Q recte exhibetur, quam corpus tali vi describet, de loco dato P, cum
+data velocitate, secundum rectam positione datam P R egrediens. Q. e. «f.
+
+Corol. l. Hinc in omni coni sectione ex dato vertice principali D,
+latere recto L, et umbilico S, datur umbilicus alter H capiendo D H ad
+D S ut est latus rectum ad differentiam inter latus rectum et 4 D S.
+
+(d) Nam proportio S P -Ι- PHad P Hut2 SP 4 2 Κ P'ad Lincasu
+
+' ’ hujus corollarii, 'fit D S ÷ D H ad D H ut 4 D S ad L, et divisim D S
+
+adDHut4DS-LadL.
+
+Corol. 2. Unde si datur corporis velocitas in vertice principali D, inve-
+nietur orbita expedite, capiendo scilicet latus rectum ejus ad duplam dis-
+tantiam D S, in duplicata ratione velocitatis hujus datae ad velocitatem
+corporis in circulo ad distantiam D S gyrantis (per Corol. 3. Prop. XVI.);
+
+(ἢ) 289. In casu hujus corollarii punctum P omni sectione conica est D H, ad D S, ut latus
+cadit in D, punctum K cadit in S, fitque P K rectum ad differentiam inter latus rectum et
+=Ds=nsP,etPH,=DH. Quarein 4Ds.
+
+13
+

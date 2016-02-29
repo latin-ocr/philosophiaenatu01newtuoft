@@ -1,0 +1,54 @@
+178 PHILOSOPHIAE NATURALIS [Mo'r. Conroa.
+
+et Q ductae, concurrent ad rectam A C B per centrum figurae et puncta
+contactuum A, B transeuntem.
+
+LEMMA XXV.
+
+&parallelogrammi latera quatuor infinite producta tangant sectionem quam· ’
+cunque eonioam, et abscindantur ad tangentem quamvis quintam ‚· sumantur
+autem laterum quorumvis duorum conterminorum abscissae terminatae ad
+,angulos oppositos parallelogrammi: dico quod abscissa alterutra sit ad
+latus illud a quo est abscissa, ut pars lateris alterius contermini inter
+punctum contactus et latus tertium est ad abscissamm alteram.
+
+Tangant parallelogram- F M
+mi M L I K latera qua-
+tuorML, I K, KL‚MI
+sectionem conicam in A, B,
+C, D, et secet tangens
+quinta F Q haec latera in
+F, Q, H et E ; sumantur
+
+autem laterum M I,
+K Ι abscissae M E, K Q,
+
+abscissae K H, M Fi dico 11.
+
+vel laterum K L, M L,
+
+quod sit M Ead MI utB KadKQ3 etKH·ad KLut
+A Μ adM F. Nam pe] corollarium primum lemmatis superioris est
+MEadEIutAMseuB K ad B Q, et componendoMEadMIutBK
+adKQ. Q.e.d. ItemKHad HLut(¹) BKseuAMadAF,et
+dividendo K H ad K L ut A Mad M F. Q. e. d.
+
+Corol. 1. Hinc si datur parallelogrammum I K L M, circa datam sec-
+tionem conicam descriptum, dabitur rectangulum K Q >< Μ Ε, ut et
+huic aequale rectangulum K H Χ Μ F. AEquantur enim rectangula
+illa ob similitudinem triangulorum K Q H, M F E.
+
+  
+
+Corol. 2. Et si sexta ducatur tangens e q tangentibus K I, M I occur-
+rens in q et e; (Υ) rectangulum K Q >< Μ Ε aequabitur rectangulo K q
+Χ Μ e; eritque KQ adM e ut K q ad M E, et divisim ut Qq ’
+ad E e.
+
+A P : B G, est igitur B G = B g ac proinde mune sectionis conicae et parallelogrammi, (336)
+
+punctum g. cum G coincidit. ade6que erit A M = Β Κ. γ
+(¹) 0 Nam si puncta contactuum A, et B, (y) ⁸ Nam rectangula K Q >< ME. K q χ
+
+recta jungantur, haec transibit per centrum com- M e, aequantur rectiangulo M Ι >< Β Κ.
+

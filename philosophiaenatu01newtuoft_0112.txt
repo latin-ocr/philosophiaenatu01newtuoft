@@ -1,0 +1,146 @@
+76
+
+PHILOSOPHIAE NATURALIS
+
+[Mor. conpos.
+
+scholium.
+
+(b) Casus Corollarii sexti obtinet in corporibus coelestibus, (ut seorsum
+collegerunt etiam nostrates Wrennus, Hookius et Halleius) et propterea
+quae spectant ad vim centripetam decrescentem in duplicata ratione
+distantiarum a centris, decrevi fusius in sequentibus eXponere. Ι
+
+Porro praecedentis Propositionis et coronariorum ejus beneficio, colligi-
+tur etiam proportio vis centripetae ad vim quamlibet notam, qualis est ea
+
+gravitatis.
+
+Nam si corpus in circulo terrae concentrico vi gravitatis suae
+
+revolvatur, haec gravitas est ipsius vis centripeta. Datur autem cx de-
+scensu gravium, et tempus revolutionis unius, et arcus dato quovis tempore
+
+descriptus, per hujus Corol. IX.
+
+quo corpus vi illa centripeta continuo sollicita-
+tum per dimidium radium caderet (200). Ex
+data autem vi gravitatis seu ex dato spatio quod
+grave libere cadendo, dato quodam tempore
+percurrit, invenitur (27) spatium ab eodem
+gravi percursum co tempore quo corpus vi cen·
+tripeta sollicitatum per dimidium radium cadit,
+sed vires acceleratrices constantes rationem ha-
+bent spatiorum quae dato tempore percurrere
+faciunt (50) est ergo vis ea centripeta ad vim
+gravitatis, ut dimidius circuli radius ad spatium
+id quod grave percurreret eo tempore quo corpus
+vi centripeta sollicitatum dimidium illum radium
+percurrit.
+
+Exempli causa. Corpus M, ope fili M S
+clavo in S alligati, circa centrum Suniformiter
+describat circulum M N D E, in plano hori-
+zontali positum, eaque sit corporis revolventis
+celeritasquae acquiritura gravi per altitudinem
+M B cadente, quaeritur ratio vis centripetae in
+circulo ad vim vitatis. Tempus quo grave
+cadit per altitudinem M B, dicatur T, et velo-
+citas in B acquisita, qufi (ex hyp.) corpus M
+circuli peripheriam uniformiter describit, erit
+
+T
+
+tempus periodicum in circulo sit aequale periphe-
+riae ad velocitatem 2 ξ Β applicatae (5) erit id
+P Χ Τ
+
+ 
+
+(30), peripheria circuli dicatur p, et cum
+
+ 
+
+· jam vero est pe-
+
+ 
+
+tempus periodicum 2 Μ Β ,
+
+ripheria ad radium (200) ut tempus periodicum
+ad tempus quo corpus M, solii vi centripeta con-
+stante sollicitatum, dimidium radium M S per-
+
+P><T
+
+currit, sive p: MS=2MB ad tempusper
+
+dimidium radium quod est ideo 32?{WIXIBS.
+
+ 
+
+. Cum autem grave tempore T altitudine-n M B
+
+Et (⁰) hujusmodi propositionibus
+
+sit emensum, et in motu uniformiter accelerato
+spatia percursa sint ut quadrata temporum qui..
+
+bus percurruntur (27) erit T ² ad Ἢὲ
+
+seu4MB²ad Μὸ1 ut spatiumMB tem-
+pore T percursum ad spatium percursum tem-
+
+T >< Μ S . . ⁴
+, quo corpus, M, vi centripeta per.
+
+2 M B
+currit dimidium radium, quod erit ΜἭὸἒΙχἜ-Βῌ
+
+= ἢ est igitur (13) vis centripeta in circu-p
+
+MS Ms²
+2 4MB
+
+ 
+
+pore
+
+, sive ut'
+
+ 
+
+‚ad
+
+ 
+
+lo ad vim gravitatis ut
+
+2 Μ Β ad M S. v ·
+
+( b ) 203. Ex observationibus colligunt asum·
+nomi planetas secundarios, ut sunt J ovis vel Sus
+turni Satellites, radiis ad suum planetam primn-
+rium ductis, areas describere temporibus propor-
+fionalae, eorumque tempora periodica esse in
+ratione sesquiplicata distantiarum aeeutm plane·-
+tae primarii; planetas vex-6 primm-ios radiis ad
+solem ductis, areas describere temporibus pro-
+portionales, eorumque tempora periodica esse in
+ratione sesquiplicatzi radiorum. Quare rcasus
+Corollarii VI. in corporibus coeloetibusobtinet,
+id est, planetarum velocitates sunt reciproce in
+ratione subduplicaffi radiorum, etviresoenn-ipetae
+sunt reciproce ut quadrata radiorum.
+
+( c ) 204. Hugenius ad calcem tractatus de
+horologio oscillavorio, de viribus centrifiigis in cir-
+culo earumque cum vi gravitatis proportione 13.
+Tbeoremata sine demonstratione proposuit. Eo-
+rum aliqua in Corollariis Propos. hujusce IV.
+demonstravit Nem-onus, viamque aperuit, cui
+insistendo caetera onmia facili negotio absolvi
+possunt, quod poste& perfecerunt multi insignes
+
+ι Mathematici.
+

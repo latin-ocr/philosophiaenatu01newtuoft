@@ -1,0 +1,111 @@
+396
+
+PHILOSOPHIAE NATURALIS
+
+[Mo'r. Conpon-
+
+Corol. 1. Unde si solidum cylindrus sit, parallelogrammo A D E B
+circa axem A B revoluto descriptus, et vires centripetae in singula ejus
+puncta tendentes sint reciproce ut quadrata distantiarum a punctis: (⁰)
+
+erit attractio corpusculi P in hunc
+
+cylindrum ut A B — P E -Ι- Ρ D.
+
+Nam ordinatim applicata F K
+
+(per Corol. l. Prop. XC.) erit ut
+P F
+
+1 — P-R.
+in longitudinem A B, describit
+
+aream 1 Χ Α B: et pars altera
+
+{PF-2¹ ducta in longitudinem P B,
+
+Hujus pars 1 ducta
+
+ 
+
+describit aream 1 in PE——TQ id quod ex curvae L K I quadratur&
+facile ostendi potest3 et similiter pars eadem ducta in longitudinem P A
+describit aream 1 in W, ductaque in ipsarum P B, P A differ-
+entiam A B describit arearum differentiam 1 in P E — P D. De con· .
+tento primo 1 Χ Α Β auferatur contentum postremum 1 in P E —— P 15,
+et restabit, area L A B I aequalis l in ΚἙ-ἶΡ-Ε-Ῑ-ΡΪΧ Ergo vis,
+huic areae proportionalis, est ut A B — P E ÷ P D.
+
+Corol. 2. Hinc etiam vis innotescit, qua sphaerois A G Β C attrahit
+corpus quodvis P, exterius in axe suo A B situm. (¹) Sit N K R M
+
+'PF 1 x
+
+- ——„ ——- n - 1
+² (y y -Ι- x Χ)“’9.“
+(per Cor. 2. Profl- 90.) Quare amad A F K L
+x x x
+
+¹²⁸² ” (y 54¹ ἣτ’
+
+et hujus fluens ut vis qufi corpusculum P in so-
+lidum D R S G trahitur. Data vero curvae
+D R E naturai, inveniendus est valor ordinatae
+y per abscissam x, et inde fluens determinanda.
+u) ⁴³ Erit attractio corpusculi P, διο. Si
+or inatim applicata F R, dicatur b, patet (429)
+areae A F K L, elementum fore ut d x —
+
+(ῖῆἷ-Ξ-ἑ-ἧὲ. Fiatbb÷xx=zz‚ eterit
+
+x d x= z d z, et proinde elementum praedictum
+utdx—dz. QuareAFKLeritutx-z
+-1- Q. et quoniam haec area evanescit, ubi P F,
+seux=PA,etPRseuz=PD,eritQ.-.=
+PD—PA‚ et area AFKL, seu attractio
+corpusculi P, in cylindrum D R S G. ut P F
+—PR4PD-PA= AF- *PR-{-
+PD=A13-PE÷PD,ubifitPF=
+P B, ct P R = P Ε.
+
+(¹) 542. Sit NKR M sectio conica cujus or-
+‹linaeim amdicata E R aequetur semper longim-
+
+ 
+
+fluxio erit ut
+
+ 
+
+ 
+
+dini P D, &c- sit A P= a, curvae date
+A C B cujus convolutione generatur sphaco&
+sitsemiaxisAs=b‚alversemiaxisSC=c,
+AE=x,eritPE=a-{-x,et(ex naturfi
+εηῑρεωεμιῑιΕυα--Ιξ-ζχεω-ὶη
+unde quadratum E R ordinate ad curvam
+NKRMsivePD2=PE²÷ED½3
+a²÷2ax†xx÷g—g><2bx—:-3xx;
+cum ergo haec aequatio ad curvam NK ΒΜ,
+
+ultra secundum gradum non oenum
+eam curvam esse ex Sectionibus eonius: erit au.
+
+ 
+
+tem ellipsissiquantimsxx—E-g-xx sit negati·
+
+va, quod evenit ubi S C (sive c) major est quim ’
+
+A S (sive b); Erit vero pmbola si ea quantita
+evanescat, ideoque si c = b quod evenit ubi
+curva A C Β est 'circulus3 Denique erit hyper-
+bola si ea quantitas sit positiva, hoc est, si A· S
+sit'longior axis. ⁷
+
+543. Sit A C B ellipsis cujus axis C S‘ sit
+major axi A S, quo casu curva N K R. M erit
+ellipsis, hac ratione eju-s curvae N K R Μ deter-
+minabuntur axes ct vertex. Dicatur ejus enip-
+

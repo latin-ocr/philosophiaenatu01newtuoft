@@ -1,0 +1,60 @@
+ann Primus] PRINCIPIA MATHEMATICA. 195
+
+in orbem redeant. Compleantur segmenta in circulos integros ; sit-
+que P centrum circuli prim'i F S G, et Q centrum secundi ⁷F T H.
+Jungatur et utrinque producatur P Q, et in ea capiatur Q R in ea ra-
+tione ad P Q quam habet B C ad A B. Capiatur autem Q R· ad eas
+partes puncti Q ut literarum P, Q, R idem sit ordo* atque literarum A,
+B, C ε centroque 'R ‘et intervalloR F describatur circulus quartus F N c
+secans circulum tertium F V I in c. Jungatur F c secans circulum pri-
+mum ina, et secundum in b. Agantur a G, b H, c I, et figurae a b c
+F G H I similis constitui potest figura A B C f g h i. Quo facto erit
+trapezium fg h i illud ipsum, quod constituere oportebat.
+
+Secent enim circuli duo primi F S G, F T H se mutuo in K. J un-
+
+gantur PK, Q K, R K, aK, b K, c K, et producatur Q P ad L.
+Anguli ad circumferentias F a K, F b K, F c K sunt semisses angu-
+lorum F P K, F Q K, F R K ad centra, ideoque angulorum illo-
+
+rum dimidiis L PK, L Q K, L R K aequales. (¹¹¹) Est ergofigura
+
+(m) fl Est enim angulus K a b = K P R, F, 1, H, G aequales, rectas A D, B K, C L,
+angulus K b a = K Q P, ac proinde trian- A C, tangant, per punctum quodvis i, rectae B K
+gulum a K b, simile triangulo P Q K, et si- agatur Si R, parallelis A D, B K, C L nor..
+militer patet triangulum b K c, esse simile tri- malis, iisque occurrens in S, et R, producatur
+angulo Q K R, adeoque totam figuram abc K, H 1, ad Ο, ut sit H I ad 1 O ut est R i adi S
+similem esse figurae P Q, R. Κ. jungamurque F 0; tum ex puncto i, agatur,
+i f, parallelam A D secans in f, ita ut sit angu-
+lus fi B seu i f D, aequalis angulo 1 F Ο, et
+‘urbam {ff sngfflszzrzzpeffizss
+
+⁷ ⁴ 2
+g agatur recta P Q ipsi A C parallela, egt tan-
+dem super recta A C, construatur figura similis
+figurae P Q h if g. Dico factum.
+
+Demonstrandum est angulum h esse in pa-
+rallelii C L; si punctum h, non est in linea
+C L producatur i h donec rectae C L occur-
+rant in t. et producatur t i, donec occurrat
+rectaeADin o et eritH121 O=hizio
+=Ri:iS,obfigurasoif h, Ο IFH,(per
+constr.) similes; sed ob similia triangula t i R,
+oiS,ti:i 0=Ri2iS‚erg(')hi:io=t-i:
+i o, atque adeo h i= t ῖς quare punctumt.
+cum h, coincidit.
+
+ 
+
+⁶ Si ex quatuor rectis positione datis duae vel
+tres fuerint parallelae manet eadem constructio.
+Potest tamen haec alia adhiberi quae etiam valet,
+ubi quatuor sunt parallelae. Datae sint tres
+parallelae A D, B K, C L quas quarta A C in
+A, B, C secat et oporteat describere trapezium
+
+simile trapezio F 1 H G et cujus anguli anguhsv 2
+
+ 
+

@@ -1,0 +1,66 @@
+· bendum indicat.
+
+Lam pamm] ancn’lA MATHEMATICA. ’ 219
+
+ceps determinabitur. Sume angulum T proportionalem tempori quo arcus
+B P descriptus est, seu motui medio (ut loquuntur) aequalem; et angulum
+V, primam medii motus aequationem, ad angulum Y, aequationem maximam
+
+primam, ut est sinus dupli anguli T ad radium3 atque angulum X, aequa-
+tionem secundam, ad angulum Z, aequationem maximam secundam, ut est
+
+cubus sinus anguli T ad cubum radii. Angulorum T, V, X vel summae T
+-Ι- Χ -Ι- V, si angulus T recto minor est, vel differentiae T -1- X — V, si
+is recto major est rectisque duobus minor, aequalem cape angulum B H P,
+motum medium aequatum3 et si H P occurrat ellipsi in P, acta > S P ab·
+scindet aream B S P tempori proportionalem quam proxime. Haec praxis
+satis expedita videtur, propterea quod angulorum perexiguorum V et X,
+in minutis secundis, si placet, positorum, figuras duas tresve primas ‘inve-
+nire sufficit. Sed et satis accurata est ad theoriam planetarum. Nam in
+orbe vel Martis ipsius, cujus aequatio centri maxima est graduum decem,
+error vix superabit minutum unum secundum. Invento autem angulo
+motus medii aequati B H P, angulus veri motus B S P et distantia S P
+in promptu sunt per methodum notissimam. (ἀ)
+
+Hactenus de motu corporum in lineis curvis. Fieri autem potest ut
+mobile recta descendat vel recta ascendat, et quae ad istiusmodi motus
+
+spectant, pergo jam exponere.
+
+(θ) 885. Ellipseos quam planeta describit sit M H sit semper minor 0 H distantia centn· a
+centrum O, umbilici S, H, et semines O B, foce, sitque P Hdistantia foci H ad punctum P
+O D; Sole in S posito umbilicus alter H erit ellipseoa exigua eie M H respectu H P, ideoque
+sere centrum medii motus planeta, (372) id est, minimus est angulus M Ρ H respectu anguli
+si ex umbilico H agatur linea H 1, quae cum
+lineaapsn dum OB, constituatangulum IHB
+anomaliae mediae aeq‚ualem recta illa H 1,
+fere transibit per locum planetae in orbita el-
+liptica parum excentrica revolventis, transeat
+antem H 1³, per locum verum planeta P et
+eritan lusPHI, anomaliaemediaeIH Β,
+adden us (vel detrahendus) ut motus medius
+aequatus B H P habeatur, et angulus P H I
+aut ipsi aequipollens dicetur equatio tota
+
+motus, quain in duas partes dividit γ
+Newtonus, quarum unam primam aequatio-.
+nem et alteram secundam aequationem vo-
+cat; determinat singulas ιιι iis punctis ubi
+maximae sunt, et rationem maximae sequa-
+tionis ad alium· m dato quovis puncto adhi-
+
+Praeoedentoe methodos illustrarunt de-
+monstrationibus et exemplis Keillius et Gre-
+gorius, hanc uon minus ingeniosam intae-
+tam reliquerunt, vestigiis Newtoni insistere cona· PMH, illum inquenegligit, ethuncsolum PMH
+bimur, et aperire quibus fundamentis nitatur ut aequationem totam considerat Newwnus.
+haec approximatio. Ducto vero ut superius expositum ωε, circulo
+
+586. Producam 1 Η in M donec occurrat B Q N A super maguum axem ellipseos A B,
+perpendiculo Ο M, a centro O in ipsam 1 H et ex P loco planetae ducta P R perpendiculari
+demisso jungaturque M P, erit angulus P H Ι in eum magnum axem eaque P R producta
+aequalis angulis P M H ct M P ΗΟ· ,quorum si- donec secet circulum B Q N A in Q; duea-
+nus erunt inter se sicut P Η ad M ii· scdcum tur T Q perpendicularis in O M (ideoque pa-
+
+ 
+

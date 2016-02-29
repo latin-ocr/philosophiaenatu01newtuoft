@@ -1,0 +1,71 @@
+72 * PfflLosoffllAE NATURALIS [Mor. eoam
+
+cum hi arcus sint ut arcus temporibus quibusvis aequalibus descripti, et
+diametri sint ut eorum radii3 vires erunt ut arcuum quorumvis simul de-
+scriptorum quadrata applicata ad radios circulorum. Q. e. d.
+
+Corol. 1. Cum arcus illi sint ut velocitates corporum, vires centripetae
+erunt in ratione composita} ex duplicat& ratione velocitatum directe, et
+ratione simplici radiorum inverse. (¹¹²) ⁹
+
+Corol. 2. (¹¹) Et, cum tempora periodica sint in ratione composita ex
+ratione radiorum directe, et ratione velocitatum inverse3 (⁰) vires centri-
+petae sunt in ratione compositfi ex ratione radiorum directe, et ratione du-
+plicat-‘21 temporum periodicorum inverse.
+
+Corol. 3. (P) Unde si tempora periodica aequentur, et propterea veloci-
+tates sint ut radii3 erunt etiam vires centripetae ut radii: et contra. Δ
+
+Corol. 4. (q) Si et tempora periodica, et velocitates sint in ratione sub-
+duplicata radiorum3 (⁸) aequales erunt vires centripetae inter se: et con—
+tra. Δ
+
+Corol. 5. (⁵) Si tempora periodica sint ut radii, et propterea velocitates
+aequales 3 vires centripetae erunt reciproce ut radii: et contra.
+
+( m) 183. Vis centn-ipeta quii corpus in peri· et propterea (184) velocitates sint ut radii, erunt
+pherifi circuli uniformiter incedens retinetur, est etiam vires centripetae ut radii, nam cum sit (185)
+in omnibus peripheria> punctis eadem, ut pote V : v = t ² R ι Τ ² r, si T ² = t2, erit V : v =
+semper proportionalis constantis velocitatis qua· R ι r.
+
+drato ad radium constantem applicato. Et contra si vires centripetae sint ut radii. tem-
+
+(¹¹ ) 184. Tempora periodica, hoc est, tempo· pora periodica aequantur. Cum enim sit (185)
+ra quibus integrae peripheriae describuntur, sunt V : v = t 2 R ε Τ 2 r, si ponatur V ι ν = R ε r,
+in ratione composite ex ratione radiorum directe erit R ε r = t2 R ε Τ 2 r, unde r t 2 R = R T2r,
+et ratione velocitatum inverse. Nam (5 ) velo- adeoque t ² = T ², et t= T.
+citates sunt ut peripheriae ad tempora periodica (⁴1 ) 187. Si tempora periodica sint in ratione
+applicatae, ‘sed peripheriae sunt ut radii, ergo ve- subduplicatfi radiorum, velocitates erunt in ea-
+
+locitates sunt ut radii ad tempora periodica ap· R
+
+plicati, ac proinde tempora periodica sunt ut ra· dem ratione. Nam (184) C : c = -T- z ¹— o-
+
+dii directe et velocitates inverse. Si corporum ⁸
+
+A et a, tempora periodica dicantur T et t, ce- 11² 2
+
+leritates C et c, radii A S, a S, dicantur R et r, deoque C 2 : c 2 = ‘'‘fz ι ’ᾖ . Unde si fuerit
+
+eritC t οτ--Ξι L ideoqueT: t=E:—r. T2t= R} ι Υὲαορτοίῐιᾶἑ T²: t²= R: r,
+'r t C c· eritc2=c2=R=r.
+
+(Ο) 185. Vires centripetae sunt reciproce ut Et conti-1¹2 si fuerit 0² : c² = R : r, erit
+
+quadrata temporum periodicorum applicata ad R, r 2 R r Δ
+circulorum radios; nam vires centripetae corpo- ...- , ...- = R: 1· , „dasque - = —‚ et
+rum A et a, dicantur V et v, erit (per Coroll. 1.) T ² ' t ² T ⁴² t ²
+C² c² Rt²=rT²‚und&T2:t²=R:r. ι x
+V ² V = — ² -2 “ed ‘lumfiam (184) C ι c = ( r ) 188. Si et tempora-periodica nic-proinde
+R Γ velocitates (187) sint in ratione subduth ra-
+R ¹· ΒΞ r²¹ · diorum, aequales erunt vires centn-ipetoe :pter se.
+Τ '2'' ’ΜΨ ‘³²²⁰‘ = Ἠ r* ”t 0¹:¹¹4& 52⁸2ss {3513212224’2231’5333
+2 ς V :z v. ·
+Εἴ ² οῖ ² -ΒΨ ἑ ‘'⁸‘’ ν’ '²4²2 - μΕἱιῖοῗῡῑᾞι-ῑ ¹2 ἒξ {³4:5⁵3 Vpssotnffg
+
+μ Ἠ ΤΖΞ με R·² τ’ ‘mr suntutmdii
+=t2R= T2r=—: ἶ. ( ι) 189. &tempora-pen ica . n-
+r et propterea (184) velocitates equales, vires ce
+
+(v) 186. Unde si tempora periodica aequentur uipetae erunt reciproce ut radii. Quonim
+

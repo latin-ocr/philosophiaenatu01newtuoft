@@ -1,0 +1,64 @@
+144 PHILOSOPHIAE NATURALIS [Mo'r. conrob-
+
+Cas. 2. Si duae ex tribus lineis, puta A Z et B Z, aequantur, ita age
+rectam T Z, ut bisecet rectam A 133 dein quaere triangulum A T Z ut
+supra.
+
+Cas. 3. Si omnes tres aequantur, locabitur punctum Z in centro circuli
+per puncta A, B, C transeuntis. Q. e. i. ’
+
+Solvitur etiam hoc lemma problematicum per librum Tacfionum Apol-
+lonii a Vieta restitutum.
+
+PROPOSITIO XXI. THEOREMA XIII.
+
+Trcfjectoriam circa datum umbilicum describere, quae transibit per puncta
+data et rectas positione datas continget.
+
+Detur umbilicus S, punctum P, et ΥΫ,
+tangens T R, et inveniendus sit umbi· ' '⁹
+licus alter H. Ad tangentem demitte
+perpendiculum S T, et produc idem ad
+Y, ut sit T Y aequalis S T, et erit Y H
+aequalis axii principali. Junge S P,
+H P, et erit S Pv differentia inter H P
+et axem principalem. (¹¹) Hoc modo si dentur plures tangentes T R,
+vel plura puncta P, devenietur semper ad lineas totidem Y H, vel P H,
+a dictis punctis Y vel P ad umbilicum H ductas, quae vel aequantur axibus,
+vel datis longitudinibus S P differunt ab iisdem, atque ideo quae vel
+aequantur sibijnvicem, vel datas habent differentias ; et inde, per lemma
+superius, datur umbilicus ille alter H. Habitis autem umbilicis una cum
+axis longitudine (quae vel est Y H; vel, si trajecto‘ria ellipsis est, ΡΗ
+-Ι- S P; sin hyperbola, P H —- S P) habetur &ajectori'a Q. e. i.
+
+     
+  
+
+ο '-
+·. ··.,
+*z ···
+. .
+'v
+
+(¹¹) 301. Si dentur tres tangentes, da-
+buntur tria puncta ut Y, ex quibus ad R
+umbilicum H, inflectendae erunt tros ree- s
+tae aequales ut Y H, quod fit. per Cas. 3.
+Lemmatis superioris. Si duae dentur
+tangentes et punctum perimetri sectionis
+P, dabuntur duo puncta ut Y, ex quibus
+ad umbilicum H, inflectendae erunt duae
+rectae aequales et gum punctum Ρ, ex quo
+ducenda P H, cujus differentia a linea
+Y H, est data S P. Nam in ellipsi P H
+÷sP=YH‚ ade6que Y H-P H
+= S P; in hyperbol& P H-s P=
+YH, undePH—YH=SP, estque
+casus 2¹¹⁸ Lem. XVI. Tandem sidentur
+tria petimen-i puncta ut P, locum habet
+casus 1¹¹³ ejusdem Lemmatis.
+
+  
+
+H
+

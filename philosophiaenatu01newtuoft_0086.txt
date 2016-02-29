@@ -1,0 +1,49 @@
+50 PHILOSOPHIAE NATURALIS [Mor. Coum-om*
+
+Corol. 1. Unde si per B ducatur tangenti parallela B· F, rectam quam·
+
+vis A F per A transeuntem perpetuo - Α Ε D.
+secans in F, haec B F ultimo ad arcum - s
+evanescentem A C B rationem habebit ff
+aequalitatis, eo quod completo paralle- G B
+
+‘ logrammo A F B D r‘ationem semper
+habet aequalitatis ad A D.
+
+Corol. 2. Et si per Β et A ducantur plures rectae B E, BD, A F,
+A G, secantes tangentem A D et ipsius *parallelam ΒΔ F; ratio ultima
+abscissarum omnium A D, A E, B F, B G, chordaeque et arcus A B ad
+invicem erit ratio aequalitatis.
+
+Corot. 3. Et propterea hae omnes lineae, in omni de rationibus ultimis
+argumentatione, pro se invicem usurpari possunt. „
+
+LEMMA VIII.
+
+Si·rectae datae A R, B R cum arcu A C B, chorda A B et tangente A D,
+triangula tria R A B, R A C B, R A D constituunt, dein Puncta A,
+Β accedunt ad invicem.- dico quod ultima forma triangulorum evanescenti-
+um est similitudinis, et ultima ratio aequalitatis.
+
+Nam dum punctum B ad punctum A accedit, intelligantur semper
+A B, A D, A R ad puncta longinqua b, d et r produci, ipsique R D
+parallela agi r b d, et arcui A C B siinilis'semper sit arcus A c b. Et
+coe'untibus punctis A, B, angulus b'A d evanescet, et propterea triangu-
+la tria semper finita r A b, r A c b, 1· A d coincident, suntque eo nomine
+similia et aequalia. Unde et hisee semper similia et proportionalia R A B,
+R A C B, R A D fient ultimo sibi invicem similia et aequalia. Q. e. d.
+
+Corol. Et hinc triangula illa, in omni de rationibus ultimis argumenta-
+tione, pro se invicem usurpari possunt.
+
+LEMMA 1x.
+
+Si recta A E et curva A B C positione datae se mutuo secent in angulo dato
+A, et ad rectam illam in alio dato angulo ordinatim applicentur B D,'
+C E, curvae occurrentes in B, C, dein puncta B, C, simut accedant ad
+punctum A: dico quod areae triangulorum'A B D, A C E <erunt ultimo
+ad invicem in duplicata ratione lateram.
+
+Etenim dum puncta B, C accedunt ad punctum A, intelligatur semper
+A D produci ad puncta longinqua ‘d et e, ut sint A d, A e ipsis A D,
+

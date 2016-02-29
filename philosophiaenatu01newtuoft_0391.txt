@@ -1,0 +1,57 @@
+ᾖ
+
+ 
+
+Lam ramus] PRINCIPIA MATHEMATICA. 355
+
+quadrata distantiarum a trahente ,- et corpus aliud B trahit etiam caetera
+A, C, D, &c. viribus quae sunt reciproca ut quadrata distantiarum a tra-
+hente.- erunt absolutae corporum trahentium A, B vires ad invicem, ut
+sunt ipsa corpora A, B, qaorum sunt vires.
+
+Nam attractiones acceleratrices corporum omnium B, C, D versus A,
+paribus distantiis, sibi invicem aequantur ex hypothesi; et similiter attrac-
+tiones acceleratrices corporum omnium versus B, paribus> distantiis, sibi
+invicem aequantur. Est autem absoluta vis attractiva corporis A ad vim
+absolutam attractivam corporis B, (ἦ) ut attractio acceleratrix corporum
+omnium versus A ad attractionem acceleratricem corporum omnium ver-
+sus B, paribus distantiis ; (¹) et ita est attractio acceleratrix corporis B
+versus A, ad attractionem acceleratricem corporis A versus B. Sed at-
+tractio acceleratrix corporis Β versus A est ad attractionem ,acceleratri-
+cem corporis A versus B, ut massa corporis A ad massam corporis B;
+propterea quod vires motrices‚ quae (per definitionem secundam, septi-
+mam et octavam) sunt ut vires acceleratrices et corpora attracta conjunc-
+tim, hic sunt (per motus legem tertiam) (¹¹) sibi invicem aequaleS. Ergo
+absoluta vis attractiva corporis A est ad absolutam vim attractivam cor-
+poris B, ut massa corporis A ad massam corporis Β. Q. e. d.
+
+Corol. l. Hinc si singula systematis corpora A, Β, C, D, διε. seorsim
+spectata trahant caetera omnia viribus acceleratricibus, quae sunt reciproce
+ut quadrata distantiarum a trahente3 erunt corporum illorum omnium vi-
+res absolutae ad invicem ut sunt ipsa corpora.
+
+Corol. 2. Eodem argumento, si singula systematis corpora A, Β, Ο, D,
+διο. seorsim spectata trahant caetera omnia viribus acceleratricibus, quae
+sunt vel reciproce, vel directe in ratione dignitatis cujuscunque distantia-
+rum a trahente, quaeve secundum legem quamcunque communem ex dis-
+tantiis ab unoquoque trahente definiuntur; constat quod corporum illo·-
+rum vires (¹) absolutae sunt ut corpora.
+
+Corol. 3. In systemate corporum quorum vires decrescunt in ratione
+
+(Β) ⁸ Ut attractio accelerant-c corporum om·- (¹‘) ⁸ Sx‘ln‘ invicem oequates. Si enim attractio
+nium, seu ut attractio accelerati-ix uniuscujusque acceleratrix corporis B versus A dicatur V et
+corporis versus A, διο. Patet euim quod si vis attractio acceieratrix corporis A versus B dican
+
+² absoluta dupla vel tripla, &a sit, actio quo- turv; vis motrix in Β, erit B Χ V; in A erit
+’ que acceleratrix m distantia data dupla vel tripla A χ v; et (per leg. Βε·ω .) Β χ ν’- - A χ v
+
+erit. Unde V: v= A. Β. Ergo absolun, ἃς,
+(³) ¹¹ Ee ita est attractio accelerati-iz: corporis (¹) ⁸ Vires absulutae sunt ut cumom- Om-
+
+³ B versus A, ad attractionem acceleratricem cor- nia enim ratiocinia eadem manent in hujus Co.
+{3⁵ poris A versus B, ob distantiam iuter B et A, et rollarii hypothesi ac in demonstratione et hypo-
+
+A et B eandem. thesi propositionis.
+Z 2
+

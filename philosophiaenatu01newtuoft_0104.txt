@@ -1,0 +1,51 @@
+68
+
+PROPOSITIO ΙΙ.
+
+’ PHILOSOPHIAE NATURALJS [Mgoe. Gomon.-
+
+THEOREMA II.
+
+Comus omne, quod movetur in linea aliqud curvc'i in plano descripta, et radio
+ducto ad punctum vel immobile, vel motu rectilineo unfirmiter progrediens,
+describit areas circa punctum illud temporibus proportionales, urgetur a* vi
+centripetd tendente ad idem punctum. ἱ
+
+ 
+
+Cas. 1. Nam corpus omne, quod movetur in line& curve, detorquetur
+de cursu rectilineo per vim aliquam in ipsum agentem (per Leg. 1.) Et vis
+illa, qud corpus de cursu rectilineo detorquetur, et cogitur triangula quam
+minima S A B, S B C, S C D, διο. circa punctum immobile S tempori-
+bus aequalibus aequalia describere, (f) agit in loco B secundum lineam
+parallelam ipsi c C (per Prop. XL. lib. 1.Elem. et Leg. 11.) hoc est, secun-
+dmn lineam B S 3 et in loco C secundum lineam ipsi d D parallelum, hoc
+est, secundum lineam S C, διε. Agit ergo semper secandum lineas ten-
+
+dentes ad punctum illud immobile S.
+
+(f) 177. Agit in loco B, secundum lineam
+⁸ parallelmn ipsi C c, hoc est, secundum lineam
+
+B S; nam solii vi insita in A, corpus uniformi cum
+motu progrederetur per rectam A B c, et aequa»
+libus temporibus aequales lineas A B, B c, de-
+scriberet3 verum pervim centripemm in B, de-
+torquetur a recti B c, ut aliam rectam B C, eo-
+dem tempore describat quo descripsisset B c;
+ade6que jupcta C c, vis centripeta agit in B,
+secundum directionem parallelam ipsi C c (per
+Ceron. 1. Leg.) sed obAB=qutobtrffi
+
+Q. e. d.
+
+angulum S B C, aequale triangulo S A B, (per
+hyp.) erit triangulum S A B=triang. S Β c=
+triang. S B C, adeoque per Prop. 40. vel 39.
+Lib. ι, Elem. communis triangulorum S Β C.
+S B caequaliumbasis B S, parallelo est ηοω C c,
+quae illorum triangulorum vertices jungit; cum
+igitur, per demoxrstrata, vis celntlfipeulr ¹1¹11 B, Eget
+ffifflsffffii‘mfficffi Ὲωὲοίῗω „00⁶2
+tae B S, hocest, uttendatadcemmm S.
+

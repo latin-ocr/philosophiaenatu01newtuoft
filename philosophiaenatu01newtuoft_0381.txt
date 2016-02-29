@@ -1,0 +1,100 @@
+erm Primum] PRINCIPIA MATHEMATICA. 345
+
+errorum tempora in alio quovis, quam proxime: sed brevius hac methodo.
+(ά) Vires N M, M L, aaetefis stantibus, sunt ut radius T P, et harum ef-
+fectus periodici (per Corol. 2, Lem. X.) ut vires, et quadratum temporis
+periodici corporis P conjunctim. Hi sunt errores lineares corporis P;
+et hinc errores angulares e centro T spectati (id est, tam motus augis et
+nodorum, quam omnes in longitudinem et latitudinem errores apparentes)
+sunt, in qualibet revolutione corporis P, ut quadratum temporis revolutio-
+nis quam proxime. Conjungantur hae rationes cum rationibus Corollarii
+XIV. etin quolibet corporum T, Ρ, S systemate, ubi P circum T sibi
+propinquum, et T circum S longinquum revolvitur, errores angulares cor-
+poris P, de centro T apparenteS, erunt, in singulis revolutionibus corporis
+illius P, ut quadratum temporis periodici corporis P directe, et quadratum
+
+temporis periodici corporis T inverse. (θ) Et inde motus medius augis
+
+circe corpus S revolvitur, ut patet, si loco orbis
+E S E in demonstratione ponatur orbis quem
+corpus T circum S describit.
+
+(⁴¹) ⁹ Vires N M, M L, ἃς. Quoniam vires
+N M, M L sunt (Cor. 14.) ut vis S K et ratio
+P T ad S Τ conjunctim, manen-
+tibus vi SKetST erunt vires
+illae ut radius T P et proinde
+aucto vel diminuto raclio illo T P,
+manent in data inter se ratione,
+et quoniam* ob longinquitatem*
+
+ria S ad similes orbis varia-
+bilis P A B (sed sibi semper si- S
+milis et aeque inclinati) partes si-
+militer applicantur quamproxime,
+illarum effectus periodici (pet
+Corol. 2. Lem. X.) sunt ut viras
+ipsae et quadratum temporis peri-
+odici corporis P circum T conjunctim, hoc est,
+ut radius T Ρ, et quadratum temporis periodici
+corporis P quamproxime. Ροττό si in orbita
+circulari vel circulo finitima P A B, sit arcus
+
+dio T P, et tempore pen-indico corporis P, tum
+radio S T. atque vi absoluta corporis S, errores
+angulares corporis P de centro T apparentes,
+erunt in singulis revolutionibus corporis illius P
+circum Τ, in ratione ex binis superioribus ratio-
+
+ 
+
+    
+
+‹1'1›
+
+nibus composita, seu erunt ut quadratum tem-
+poris periodici corporis P, directe et quadratum
+temporis periodici corporis T, inverse.
+
+(θ) ” Et inde motus medius augis, διε. Si
+corpus quodvis celer-iiis et tardius vel in plagas
+oppositas per vices moveatur, illius velocitas
+aequabilis media, seu motus medius obtinetur, si
+spatium quod corpus illud in unam plagam la-
+tum, longo satis tempore percurrit, per illud
+notabile tempus dividatur. Hinc quoniam ap-
+sidum et nodorum motus=tardior et celerior est
+per vices, nuncque in antecedentia, nunc in con-
+sequentia fit, invenitur illorum motus medius
+
+D d orror linearis periodicus v. gr. nodi D in
+antecedentia ad d regressi tempore unius revolu-
+tionis oorporis P circum T, angulus D T d, sub
+quo error ille Dd e centro T videtur, hoc est, error
+- = 1,Βέ (154). Erro-
+res isritur angulares periodici sunt ut errores li-
+necares directe et radius T D vel T P inverse,
+adeeque ut quadratum temporis periodici corpo-
+
+angularis periodicas erit
+
+ris P quamproxime. Et haec quidem vera sunt,
+sumtibus vi absoluta corporis S et distanti& S T
+et variantibus radio T P ac tempore periodico
+corporis P; verum stantibus radio T P et tern-
+pore periodico corporis P et variantibus vi abso-
+luta corporis S atque distantia S T, errores peri-
+odici tum lineares, tum angulares sunt (Corol.
+14.) reciproce ut quadratum temporis periodici
+corporis T circum S, quare variantibus tum ra-
+
+angulariS, si spatium angulare totum, quod plu-
+rium revolutionum corporis P tempore descri-
+bunt, per illud tempus dividatur. Qua-re cum
+motus angularis periodicus augis et nodorum sit
+(ex Dem.) ut quadratum temporis periodici eor-
+poris P directe, et quadratum temporis periodici
+corporis T inverse, si ratio haec composita per
+tempus pei-indicum corporis P pluries sumptum
+dividatur, erit quotiens seu motus medius angu-
+

@@ -1,0 +1,63 @@
+150 PHILOSOPHIAE NATURALIS [Mo‘r. conon.
+
+curvam in punctis A et B, C et D secabant, jam (†) curvam in punctis
+illis ‘coeuntibus non 'amplius secare possunt, sed tantum tangentss
+
+Scholizcm.
+
+Nomen conicae sectionis in hoc lemmate late sumitur, ita ut sectio tam
+rectilinea per verticem coni transiens, quam circularis basi parallela inclu7
+- datur. (d) Nam si punctum p incidit in rectam, qu& puncta A et D vel ,
+C et B junguntur, conica sectio vertetur in geminas rectas, quarum una est
+recta illa in quam punctum p incidit, et altera est recta qua alia duo ex
+punctis quatuor junguntur. Si trapezii anguli duo oppositi simul sumpti
+aequentur duobus rectis, et lineae quatuor P Q, P R, P S, P T ducantur>
+ad latera ejus vel perpendiculariter'vel in angulis quibusvis aequalib'us,
+sitque rectangulum sub duabus ductis P Q >< Ρ R aequale rectangulo sub
+duabus aliis P S >< Ρ Τ, sectio conica evadet circulus. (θ) Idem fiet,
+
+Si lineae P S, R P, P Q! in aliis sed datis
+angulis ad iineas A C‚C D, AD inclinentur,
+dabuntur earum rationes ad has priores, unde
+
+ 
+
+D incidit in rectam qua quaevis ex punctis quatuor
+A, B, C, D, junguntur et conica sectio vertitur
+ingeminas rectas quarum una est recta illa in
+quei punctum P incidit et altera est recta qud
+alia duo expunctis quatuorjungunlur. ‚
+
+(Ε) 304. Sectio conica evadet circulus. Si
+ex trapezii A B D C circulo inscripti augqu
+quovis D, agatur recta D N, lateri A C parai-
+lela, et lateri A B occurrens in N, deinde ex
+
+ 
+
+deducethr'eodcm modo ac in Lemmate XVII.
+in is'to etiam casu fore S P ² ad R P χ 1³ Q in
+datii ratione.
+
+Pariter et conversa demonstrabitur ut Lemma
+XVIII. Α
+
+(†) ¹* Jam curvam in punctis illis coeuntibus
+non amplius secare possunt, sed tantiam tangent,-
+puncta enim A et B, C et D, semper supponun-
+tur in conicae sectionis perimetro posita; quare
+evanescentibus distantiis A B et C D, lineae A B
+et C D, ultimo coincidunt cum tangentibus sec-
+tionem in punctis A et C. Vid. Lem. V1. Newt.
+
+(⁶) 803. Puncta quatuor A, B, D, C, sint in altero angulo B, ducatur B d, lateri A C pa-
+petimen-o hyperboiae vel in perimetris duarum rallela circulo occurrens in d, jungaturque C d
+hyperbolarum oppositarum, planum sectionis quo rectam D N, secans in M, erit D N >< D M
+hyperbol-,1 in cono generatur accedatad coni ver· = A N ⁴>< N B. Nam jungatur A K,
+tieem ; hyperbolae in triangula rectilinea mutan· et quoniam arcus C D, et A K, D d, et
+tur quae erunt loca punctorum P, et quorum la— K B.'inter easdem parailelas intercepti aequ-4
+tera vel coincidunt cum duobus trapezii lateribus les sunt, anguli D C d, ct B A K, C D Κ
+vel sunt ipsius diagonales, ac proinde punctum P, et A K D, iis arcubus insistentes et oequnhum
+
+ 
+

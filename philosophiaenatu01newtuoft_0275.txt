@@ -1,0 +1,102 @@
+ 
+
+Lumu Panium] PRINCIPIA MATHEMATICA. 239
+
+cum-velocitate vel sursum vei deorsum projiciatur, et detur lex vis cen-
+tripetae, invenietur velocitas ejus in alio quovis loco e, erigendo ordina-
+tam e g, et capiendo velocitatem illam ad velocitatem in loco D ut est
+recta, quae potest· rectangulum P Q R D areii curvilinefi D F g e vel
+auctum, si locus e 'est loco D inferior, vel diminutum, si is superior est,
+ad rectam quae potest rect‘mgulum solum P Q R D.
+
+Corol. 3. Tempus quoque innotescet Ι erigendo ordinatam e m reci-
+
+proce proportionalem lateri quadrato ex P Q R D ÷ vel — D F g e, et
+
+' capiendo tempus quo corpus descripsit lineam D e ad tempus quo corpus
+= alterum vi uniformi cecidit a P et cadendo pervenit ad D, ut area curvi-
+
+linea D L m e ad rectangulum 2 Ρ D Χ D L. Namque tempus quo cor-
+pus vi uniformi descendens descripsit lineam P D est ad tempus quo cor-
+pus idem descripsit lineam P E in (¹¹) subduplicatii ratione P D ad P E,
+id est (lineola D E jamjam· nascente) in ratione P D ad P D -†- ὲ D E
+seu 2 Ρ D ad 2 Ρ D -Ι- D E, et (¹) divisim, ad tempus quo corpus idem
+descripsit lineoiam D E ut 2 Ρ D ad D E, ideoque ut rectangulum
+2 Ρ D Χ D L ad aream D L M E3 estque tempus quo corpus utrum·
+que descripsit lineolam D E ad tempus quo corpus alterum inaequabili
+motu descripsit lin—eam D e, ut area D L M E ad aream D L m e, et ex
+aequo tempus primum ad tempus ultimum ut rectangulum 2 Ρ D Χ D L
+
+ad areamD L me.
+
+projicitur, erit, (ex Dem.) area A B 'g e pro- (¹) ⁸ Et divisim. Tempus per P D, vi uni-
+portionalis quadrato velocimis eorporis in loco sormi descriptum est ad tempus per D E, ut
+e; Est autem (ex Dem.) area A B FD, aequa- 2 P D, ad D E, adeoque ut rectangulum 2
+
+lis rectnngulo P QRD, ade6que area A B PD >< DL,adrectangulumDE><DL, seu
+
+ge=PQRD÷
+inferior fuerit, et A Bge=PQ R D —
+D Fge, si locuseloco Dsuperior, hoc est, si
+
+corpus sursum projectum sit; ergo velocitas cor-
+
+νῆῑ-υῖπόῑ
+
+poris in loco e, est ut
+A B F D,
+
+cumque sit velocitas in D, ut 4!
+sive ut huic aequalis 4! P Q R D (ex Dem.)
+erit velocitas in e. ad velocitatem in D, ιιι
+
+vPQRDssDFgeffidVPQRD.
+
+(¹²) ” In subduplicatae‘z' rohone PD, ad P Ε
+(27), id εει, lineola D E, jamjam nascente in
+rafimoePD. ad PD ψέὒ Ε,· quadratiscnim
+hisultimisterminisfietP²=D² P D²÷PD
+Χ DE÷²DE23 etcumsitPD quantitas
+finita3 etDEnascens, evanescit (10’1)(13-1)Ε2
+respectuPDxDE3 adeoque P D><DE
+-4-1DE2—PDxDE ΠιιᾱὲθειΡῡῖ.
+P13²÷PD><D ÷{DE²=PD²=
+PD²÷P D Χ Ε ·
+
+ 
+
+DE,;scuPEae ,IEin-ra-
+tione duplicata 'PD ΡΙ) {DE atque
+adeoPDadPD÷{ED,1nrationesubdu-
+plicataPD. adPE
+
+DFgesilocuselocoD adaroemDLME3 tempus perrectamPD,
+
+vi uniformi descriptam sit T, tenpus per D Ε,
+sit θ, et tempus per D e, sit t, erit (ex Dem.)
+Tzo=2PD xDL2DLME‚est.
+que idem tempus e, quo utrumque corpus
+describit lineam D E, siquidem utriusque ea-
+dem est velocitas in D ε sed (ex constructione)
+tempus quo corpus inaequabili motu describit
+lineam D Ε est ad tempus quo describit lineam
+De‚ut areaDLME, ad areamDL Me,
+ergod· t=DLME. DLme; undeex
+aequoT: t=2PD><DL2 DLme.
+407 Sit spatium a corpore cadente descrip-
+tum A E- — x, velocitfis m E acquisita=v,
+temp us quo A E.pe1cur1·itur = t, vis centripe-
+tainE, hocest‚ E G=y, eruntdx, dv, dt,
+quantitatum x, v, t, fluxiones seu incrementa
+nascentia vel evanescentia (146. 158), cumque
+velocitas per spatium nascens D E. sit uniformis
+
+(145) erit v = ¹ (5), ac proinde veladmis
+
+d t
+incrementum d v =dddt¹‚ si sumatur d t, cin-
+
+ 
+
+ 
+

@@ -1,0 +1,66 @@
+Lm'm pamm] PRINCIPIA MATHEMATICA. ’ :rs
+
+PROPOSITIO VI. THEOREMA V.
+
+Si corpus in spatio non resistente circa centrum immobile in orbe quocunque
+revolvatur, et arcum quemvis jamjam nascentem tempore quam minimo de-
+scribat, et sagitta arcus duci intelligatur, quae chordam bisecet, et producta
+transeat per centrum virium.- erit vis cent-ripeta in medio arms, ul sagitta
+directe et tempus bis inverse.
+
+(f) Nam sagitta dato tempore est ut vis (per Corol. 4. Prop. I.) et au-
+gendo tempus in ratione quivis, ob auctum arcum in eadem ratione sa-
+gitta augetur in ratione illa duplicat& (per Corol. 2. et 3. Lem. XI.)ideoque
+est ut vis semel et tempus bis. subducatur duplicata ratio temporis utrin-
+que, et fiet vis ut sagitta directe: et tempus bis inverse. Q. e. d.
+
+(ί ) 207. CorporaPetp, circa viriumcen-
+tra S et S, revolvendo, curvas A P Q, apq‚de-
+scribant, sintque-chordae minimae D H, dh, ra,-
+diis vectoribus S P, sp, bifariam divisae, et chor- ,Ε
+dis illis evanescentibus, erit C H = P H, et
+D C = D P (per Corol. 2. Lem. VII.) ade6que
+PH=PD; unde puncta P etp, sunt in me-
+dio arcuum evanescentium D P H, (1 p h, posita.
+Praetexea quoniam punctis C et P, c et p, coeunti-
+bus, puncta D et H, deth, simul cum punctis
+P, p, coincidunt, ultima chordarum evanescen-
+tium D H, dh, positio congruit cum tangenti-
+um‘F L, fl positione, ac proinde chordae evan-
+meent& ΒΗ, dh, tangentibus FL, f 1, aequi-
+distant, ade6que rectae D F, df, radiis SP, sp,
+parallelae sagittis P C, p c, evanescentibus aequa-
+les sint. His, ad clariorem eorum quae anro-
+xus supponit, intelligentiam positis, demonstran-
+‘dumoetviraecenn-ipetasin Petp, esseinterse
+ut sunt sagittaeP C, p c, directe, et inverse ut qua-
+drata temporum quibus describuntm· arcus evan-
+escentes HPD, hpd, autdimidii PD, p d.
+—Dem. Si arcus P D, p d, aequah'bus tem-
+poribus describerentur, sagittae P C, pc, (per
+CoroL l. Prop. Ι.) essent ut virae centripetae in
+P et p. Quod si vires in P et p, aequales forent,
+tempora vero per arcus P D, p (1, inaequalia,
+sintv. gr. sieutT adt, dico sagittas PC, pc,
+fore ut horum temporum quadrata directe; sive
+ut T² ad ι’. Sit enim arcus PQ, doecn'ptus
+eodem tempore t qno arcus p d, positis viribus in
+Pet p, aequalssms, spatia Q, R, fd, seu PK,
+pc, virium illarum actione eodem tempore de- Quoniam igitur manentibus temporibus sagitte
+scripta erunt ua1ia; verum (per Cor. 2. sunt ut virae, etmauffntibus vixibus‚ sagina sunt
+et 3. Lem. XI. P'D2: PQ²=DF2 QR. utoemporum quadrata, necaesmnoet utvarian-
+sive fd, et obmotmn'permeusevanaeoentoe uni· tibus viribus atque temporibus sagittae sint ut
+formem, sunt arcus P D, P Q ut tempora qui- vires et quadrata temporum conjunctim. Quam-
+bus describuntur, hoc est ut T ad t, ideoque obrem si vires in P et p‚. dieantur V, v, erit
+PD²: P Q² =T² ε t²=DF2 QRsive PC: pc=V><T²z v><t², etdividendoan-
+fd, etquia DF=Pc et df=pc ergo T2: tecedentes per T², et consequentes μειβ, erit
+t²=P02pqimquesiviraeinPetpsint PC pc
+aequales, mmtsagittaePQpc, ut quadrata V2v= 2—2.Q2e·d.
+temporum quibus arcus P D, p d, describuntur. Τ ² t
+
+ 
+
+ 
+
+ 
+

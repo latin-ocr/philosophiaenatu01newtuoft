@@ -1,0 +1,59 @@
+Linim Panum] PRINCIPIA MATHEMATIC'A. 137
+
+¹ t r; dein ducenda recta I F quae tangat duos
+circulos F G, fg si dantur duo puncta P, p,
+vel transeat per duo puncta V, v, si dantur quae
+tangentes T R, tr, vel tangat circulum F G et
+transeat per punctum V, Sl datur punctum P et
+tangens T R. Ad F I demitte perpendicula»
+remS I, eamque biseca inK3 et axe S K, vertice
+principali K describatur parabola„ Dico fac-
+tum. (h ) Nam parabola, ob aequales S K et
+I K, S P et F P, transibit per punctum P; et
+(per Lem. XIV. Corol. 3.) ob aequales S T et
+Τ V et angulum rectum S T R, tanget rectam
+
+TR. Q. e.f.
+
+ 
+
+PROPOSITIO XX. PROBLEMA XII.
+
+Circa datumumbilicum trajectoriam quamvis specie (¹) datam describere, quae
+per data puncta transibit et rectas tanget positione datas.
+
+Cas. 1. Dato umbilico S, describenda sit trajectoria A B C per puncta
+duo B, C. Quoniam trajectoria datur specie, dabitur ratio axis principalis
+
+(¹³ ) 291. Nam Par-abula ob aquales S K et rem demonstrationis partem, eadem ratione pro-
+Ι A, S P et F P, transibit per punctum P scili- babitur angulum V r T aequalem esse angulo
+cet Pasabola descriptaob aeq ucles S Ket IKha.
+bet pro directrice lineam 1 qF (per Tlieor. ΙΙ. de
+Parab. ιι. 224. de Conicis), ciim vex-6 distantia
+puncti cujusvis Parabolae a Directrice sit aequalis
+distantiae ejus puncti a foco, vice versa, punctum
+quodaeq naliter a foco et a Direcuic'e distabit,
+pertinebit ad Parabolam. Finge enim lineam
+F P Directrici perpendicularem occurrere qui-
+dem Parabolaein puncto P, itaut sitF P=
+S P, sed in eapossesumi aliud punctum pita
+utsitetiam Sp= Fp=Fl³ssP p,eritob
+F P= S P, S p = S P ζ Pp sedcum S Pp Tr S, ideoque linea Trbifariam dividit angulum
+sit Trinngulumv absurdum est (per 20. 1. Elem.) V r S, sed ea linea Parabofae fungens est qua.
+esse S p = S P ss P p ergo absurdum est fin· bifariam dividit angulum quem faciunt duae li-
+gere aliud Punctum praeter id. quod ad Parabo- neae ductae a puncto quovis Parabolae una ad fo-
+lam pertinet tale ut ejus distantia a direcnice sit cum altera perpendiculagiter ad directricem (pei
+aqualis ejus dissaniiae a foco, ergo ob aequales 'theon 111. de Parabola n. 224.) ergo linea
+sPet FP, parabola cujus directi-ix eat 1 F et T R tangit parabolam descriptam sive Parabola
+umbilicus S transibit [ier pummm P. descripta tanget Rectam T R.
+&Casus Parabola descripta ob oequales S Τ, ( ἰ) 292. Sectiones conicae sunt ejusdem spe-
+Τ 27, ob angulum Rectum S 'l' R tanget recuzm ciei, seu similes, quarum axes duo, vel quod
+Τ R, ejus enim Parabolae descriptae ditecttix est. idem est, axis major et focorum distantia sunt
+V 1. Jam vero ducatur ex V perpendiculmis· m inter se in data ratione; Ex hac enim ratione
+directi-leem quae rectae T R occurrat in r et ab unice pendent partium sectionis ratio ac respec-
+ι· ᾱιιωειιι· mil focum linea r S, ob aequales S T, T tiva positio, atque hinc fit ut parabolae omnes si-
+V et angulum rectum S Τ R erit V r = r S et miles sint quod: in omnibus focorum distantia· m-
+punctum i· ad Parabolam pertinebit pei· superio- finita majori axi aequans sit·
+
+ 
+

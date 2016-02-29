@@ -1,0 +1,51 @@
+Lmen Primus] PRINCIPIA MATHEMATICA. 193
+
+G P ad P Q3 id aet (ex constructione) ut G a ad A B. AEquantur ita-
+
+que a b et A B; et propterea triangula a b c, A B C, quae modo similia
+esse probavimus, sunt etiam aequalia. Unde cum, tangant insuper trianguli
+
+D E F anguli D, E, F trianguli a b c latera a b, a c, b c respective, com·
+pleri potest figura A B C d e f figurae a b c D E F similis et aequalis,
+atque eam complendo solvetur problema. Q. e. f.
+
+· Corol. Hinc recta duci potest cujus partes longitudine ‹latae rectis tribus
+positione datis interjacebant. Concipe triangulum D E F, puncto D ad
+latus E F accedente, et lateribus D E, D F in directum positis, mutari
+in lineam rectam, cujus pars data D E rectis poSitione datis A B, A C, et
+'pars data D F rectis positione datis A B, A C, interponi debet3 et appli-
+cando constructionem praecedentem ad hunc casum solvetur problema.
+
+PROPOSITIO XXVIII. PROBLEMA XX.
+
+Trajectoriam specie et magnitudine datam describere, cujus partes datae rectis
+tribus positione datis interjacebant.
+
+Describenda sit trajectoria, quae sit similis et aequalis lineae curvae
+
+D E F, quaeque a rectis tribus A B, A C, B C positione datis, in partes
+datis hujus partibu's D E et E F similes et aequales secabitur.
+
+ 
+
+Age rectas D E, E F, D F, et trianguli hujus D E F pone angulos
+D, E, F ad rectas illas positione datas (per Lem. XXVI.) (¹) dein circa
+‚duaeG c,A Bsint pamuelae et oporteat man- muela seoensGCinz,etABinb‚eu-omp1oe2
+
+guium datum D» E F it& locare ut angulus tur figum C B f de similis et aequalis figuraenb
+⁴ 'us D lineam A B, angulus φ ὃ ε, patet factum. Si recta E D minor sit paral-
+
+lineam G C, et angulus F Ε lelamm G C, A B distantia, problema impossi-
+lineam B C tangat, centro bile est; si major fuen't circulus radio ι ὃ, de-
+quovis ι in linesi G C, ad ar· scriptus, rectam A B in duobus punctis secabit,
+vinium sumpto et radio ε 3, et duae erunt recto ι ἶ positiones. ,
+aquali E D, describatur cir- (¹) ” Si enlm data sit curva D Ε F, ffian.
+culus rectae A B, occurrens gulo dam E F D circumscripta. dabitur diane-
+in ὃς super basi ι 3 ooustrua- trorum et axium ejusdem curve positio ad tri-
+
+tur triangulum ε δφείωἰιεοτ , anguli Ε F D latera, 'et hinc habebitur positio
+aequale triangulo dato Ε D F, Ε D diametrorum et axium curvae similis et aequalis
+‘et exuangulo illiuspngaturoxrectaeBCpa- circauiangfflumefd decernanda.
+
+Vox.. 1. ‘N -
+

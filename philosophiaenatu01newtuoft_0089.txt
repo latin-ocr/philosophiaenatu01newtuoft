@@ -1,0 +1,60 @@
+Lmen Peuma] PRINCIPIA MATHEMATICA. 58
+
+est, qnod prior augetur vel diminuitur in eadem ratione cum posteriore,
+vel *cum ejus reciproca. Et si earum aliqua dicatur esse ut sunt aliae duee
+vel plures directe aut inverse: s'ensus est, quod prima augetur vel dimi-
+nuitur in ratione quae componitur ex rationibus in quibus aliae vel aliarum
+reciprocae augentur vel* diminuuntur. Ut si A dicatur esse ut B directe
+
+et C directe et D inverse: sensus est, quod A augetur vel diminuitur in
+
+eadem ratione cum B Χ C Χ 113 hoc est, quod A et 1}ch sunt ad invicem
+
+in ratione data.
+
+LEMMA XI.
+
+Subtensa evanescens anguli contactus, in curvis omnibus (Ζ) curvaturam fini-
+tam ad punctum contactus· habentibus, est ultimo in ratione duplicata sub-
+tensae arcus contermini.
+
+Cas. 1. Sit arcus ille A B, tangens ejus A D, subtensa anguli
+contactus ad tangentem perpendicularis 'B D, subtensa arcus A B.
+Huic subtensae A ΒΙ et tangenti A D perpendiculares ‘erigantur A G,
+B .G‚ concurrentes in G 3 dein accedant puncta D, B, G, ad punc-
+ta, d, b, g, sitque I intersectio linearum B G, A G ultimo facta
+
+viribus describunt, sunt, ipso motus initio, ut cedant puncta A et B, donec arcus A B evanes-
+vires et quadrata temporum conjunctim. Si ita- cat, duae perpendiculares Ac, Bc, pro aequalibus
+que vires acceleranicae, motus initio, sint G, g, usurpari poterunt (Lem. 1.), conjungentur duo
+spatiaS,s‚temporaT‚t‚ erits=s=GTT2
+ΒΝ, ideoque Gtg=T§,i,:t—S-t, et Ttht
+=S: st:g‚ hoc est, vires sunt ut spatia
+motus initio descripta directe et quadrata tem.
+porum inverse3 Temporum vero quadrata sunt
+ut descripta spatia directe et vires inverse.
+
+(¹) 121. Circuh’ curvatura est in omnihus
+circumferentiae punctis eadem, seu' uniformis 3 in
+variis autem circulis eo major est, quo minor aet
+circuli radius, adeo ut circuli curvatura sit sem-
+per in ratione inversa radii. Aliarum linearum
+=curvatura in singulis punctis determinatur per
+curvaturam arcus circularis qui cum arcu infini-
+tesimo curvae in puncto dato congruit, seu, quod
+idem δι’, qui curvam in puncto dato osculatur.
+Est igitur lineae cujusvis in puncto dato curva-
+tura inverse ut radius circuli curvam lineam in
+dato puncto osculantis.
+
+Sumuntur duo curvae A F, puncta A et Β,
+ducanturque rectae A C, B C, ad curvam per-
+pendimlarae, et ex puncto intersectionis C, tan-
+fflffiffifflssuffleff &fui'fflssffiff ⁹233? Jssssffssssuinffifflfflssfflc? “³5⁶³ssssss
+
+2 , .-
+get curvam in A, alter autem radio C B, de- §sculabitur in A, vel B, adeodugmcurvatum
+scriptus tanget camin Β. Si ad'se mutuo ac- lineae ,A F, in A, est in natione iuvem&
+
+ 
+

@@ -1,0 +1,57 @@
+ann anns] PRINCIPIA MATHEMATICA. V 161
+
+PROPOSITIO XXII. PROBLEMA XIV.
+
+Trqjectoriam per data quinque puncta describere.
+
+Dentur puncta quinque A, B, C, P, D. Ab eorum aliquo A ad alia
+duo quaevis B, C, quae poli nominentur, age rectas A B, A C, hisque
+parallelas T P S, Q Ο ’
+R P per punctum r*
+quartum P. Deinde
+a polis duobus B, C S
+age per punctum quin-
+tum D, infinitas duas
+⁴ BD T, CR D, novis-
+simeductisTPSaeRQ
+(priorem priori et pos-
+teriorem posteriori)
+occurrentes in T et
+
+  
+
+............
+...........
+..........
+
+A
+
+R. Denique de reo-
+tis P, T, P R, actii rectfi t r ipsi T R parallelfi, abscinde quasvis
+P t, P r ipsis P T, P R porportionales3 et si per earum terminos
+t, r et polos Β, C actae B t, C r concurrant in d, locabitur punctum ill'ud
+d in trajectorifi quaesitfi. Nam punctum illud d (per Lem. XX.) versatur
+in conicfi sectione per puncta quatuor A, B, C, P transeunte3 et lineis
+R r, T t evanescentibus, coit punctum d cumpuncto D. Transihit ergo
+sectio conica per puncta quinque A, B, C, P, D. Q. e. d.
+
+Idem aliter.
+
+E punctis datis junge tria quaevis A, B, C; et circum duo eorum
+B, (¹, ceu polos, rotando angulos magnitudine datos A B C, A C B, ap-
+plicentur crura B A, C A primo ad punctum D, deinde ad punctum P,
+
+ipsi pfflela sit, rectae C D, B D non evadent cundi generis per polum alterum B transeuntem
+parallelae, msi quando punctum M abit in infi- praeterquam ubi anguli B C D, C B D simui
+uitam, ac· prolude trajectoria erit parabola- evanescunt, quo casu punctum D desa-ibet
+Quoniam igitur recta M N rectae C B pro- sectionem conicam per polum C transeuntem
+ductae οοειιιῖἐίιί1 vel ipsi parailelfz εει, patet nun- et ‹ri-dem methodo curvas varias tertii, quarti:
+ffissssumffl ffiffiss‘ss Qffffifflnm· 33⁹3&ss ᾗὲῗῗωωωᾱῖἱΐῗέἓᾱξίἰῖ ε-εᾱ {³ae⁰
+
+Scholium. Si mira C M, B M concursu suo desideraverit legat Geometriam Oqffganlieuux
+M percurrant sectionem comeam per polum al- Celeberrimi Matheseos meeffioris Colini‹Mac.
+terum C transeuntem, crura duo reliqua C D, Laurin, ex quo eximio opere nou pauca excerp-
+B D concursu suo D describunt curvam se- simus.
+
+Vor.. 1. L
+

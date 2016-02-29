@@ -1,0 +1,132 @@
+ 
+
+Lan-:n Primus] PRINCIPIA MATHEMATICA.
+
+inM,actandem ordinmC Gseu A B÷B Cl‘l,
+elevetur, ad dignitatem cujus est index q atque
+ita in seriem infinitam convergentem resolvatur,
+hujus seriei primus terminus erit sem-
+per aequalis ordinatae F Β, insistenti ad
+initium quantitatis constantis B C; se-
+cundus terminus aequalis erit differen-
+tiae inter F B et CI, id est, lineae M I,
+et tertius tenninusuna cum sequentibus
+in infinitum aequabitur lineae G 1 quae
+jacet inter tangentem et curvam. . . .
+Dem. sit A B=1f F*-13= y, data
+Β C = O, ducta intelligatur ordinata
+f b, alteri F Β infinite propinqua quae
+lineam F M secet in m, et punctis F,
+f, coeuntibus eritFm= dx, fm=
+d y, ac triangula Fm f, F M 1 similia,
+ide6quedx: dy=o= M 1‚sedquo-
+niam y = x ‘¹ (ex hyp.) et proinde d y
+=qxq- ¹dx, aetdxzdy= l t
+qx³—¹;erg6M1=qx⁹—¹><o -
+etCI=FB÷M1=x⁴¹÷ A
+q x ⁴¹—1 Χ Ο. Praeterea (ex hyp.)
+
+esth=x÷ 01¹¹=x5¹÷qx‘¹—¹ 0-1-
+q xq-lxq-2024qu-1Xq-2x
+
+1 Χ 2 l Χ 2 >< 5
+x ‘¹ -3 0 ³ ψ, ἔω. in infinitum (548). Quare
+eritGI=Gc-01=‘¹-{<—>q<—‘2'l><
+,α -2οα4-(1Χῑιὶζς-Ῑζὲῑὲ-219-303
+-Ι-, διο. in infinitum. Ergo seriei in quam re-
+solvitur x 4- ΟΙ ¹¹, terminus primus x ⁸¹, aequalis
+eet ordinatae F Β, secundus terminus q x ‘¹ — ¹ O,
+aequalis differentiae iuter F B et C 1, et tertius
+terminus una cum ν sequentibus in infinitum
+aequalis lineae G 1. Eadem est demonstratio, si
+(ἔτνει Ζ F H conoevitatem lineae A E obvertat.
+
+e. d.
+
+555. Cor. 1. si quantitas O, seu B C, in in-
+finitum minuatur ut fiat = d x, termini omnes
+in seriae subsequente· sunt infinite minores quo-
+vis termino antecedente, quod quantitatis Ο in-
+dex in singulis terminis unitate crescat, ideoque
+termini illi su entes negligi possunt, et pro-
+inde in haehypothesi M Ι = d y= M G, G Ι
+=——--—q><q—lx‘¹-²-O²=q><q-l Χ
+
+1 χ 2 , , 1 χ 2ρι
+12-2dx²={dd y. Nam cum sit dy
+= q x ³ —1 d x et d x, constans, erit sumptis
+fluxionibussddy=q>< q—lxq-2d12.
+
+554. Cor. 2. In eadem hypothesi erit d d d y
+ut quartus seriei terminus, d d d d y, ut quintus,
+et ita porro in infinitum. Nam quia est d d y
+= q χ q—lxq—zdx²‚ erit ddd y=
+qxq—lx q—-2x‘1-3d13, etddddy
+=q>< q— 1 xq—2xq—5xfls-4dx4,
+et ita deinceps. Quartus autem seriei terminus
+posita o=d x, est q—-X ql·>‘<}‚>'«5q “ ²
+¹¹3—3dx3. ρυίηῐυΞἪ-ῖῖς-ΞΞ-ὅχ
+
+ 
+
+ 
+
+409
+
+1¹1 -4dx45ergoobdatosnumeros 1>< 2><
+3 et 1 Χ 2 Χ 3 >< 4, &c- patet Corollarium.
+555· Cor. δ. Eadem omnia verasunt, si fuerit
+
+ 
+
+D
+
+Ε
+
+ordinata B F seu y ’s serieicuivis potenti.
+arum quarumlibet abscissae A B in datas quanti-
+tates ductarum, hoc esty=ex 1¹ssfx ¹¹¹ss
+g Σ ⁹ ‚ διο. Eadem enim demonstratio. Ob-
+serv um tamen est in boc casu primum seriei
+terminum dici in quo quantitas O, seu Β C, non
+extat, secundum terminum in quo quantitas illa
+est unius dimensionis, tertium in quo extat dua-
+rum dimensionum et sic in infinitum, licet in
+singulis terminis ita definitis plures contineantur
+quantitates signis -Ιι- vel — conjunctae. Exem-
+pli mussi: posita y=ex¹÷fx¹¹¹= B F,
+eritGC=e(x÷ O)¹²3{-f·(x÷0)¹'¹=
+
+ex¹¹÷fx¹²¹÷ ¹:¹-ex¹²-¹0-}--¹÷ex¹¹¹—¹O
+
+ψ, διο. in infinitum. Primus seriei terminus
+
+estexn-t-fxm, secundus÷ex¹h= ’Χ 0
+
+4¹}exm—1x02titadeoeteris.
+
+556. Cor. 4.· Hinc itur eadem omnia
+valere, si suerit ordinata B F seu y aequalis
+cuilibet functioni ipsius abscissae A B, seu
+x, hoc esty= Q, etQ quantitas ex abscissa
+x, ipsiusque potentiis ae aliis quantitatibus
+datis quomodolibet composita- Nam quantitas
+illa Q poterit semper vel (per Lemma 548.)
+ejusque Corollaria vel per divisionem in seriem
+aliquam resolvi, cujus singuli termini erunt vel
+ipsius a ⁹ x potentia! in quantitates datas
+ductae, vel quantitates omnino datie, omnis vero
+quantitas data c = c x 0. Quare aequatio y =
+Q. semper reduci poterit in formam aequationis
+Cor. 3. (555) y= e x ”ssfxmssgxp .Τ.
+
+. e e Ι
+&c. Exempli causa:sity=g-1-b-÷.x 4-
+
+ 
+
+(f f -ξ- x x) ἐ. “
+Peracta divisione in infinitum, erit b ἴ x =
+
+ 
+

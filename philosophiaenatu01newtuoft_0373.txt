@@ -1,0 +1,84 @@
+'tumn pamm] PRINCIPIA MATHEMATICA. 8857
+
+decrementi totius in progressu inter apsides, haec minor est quam dupli-
+cata distantiarum. Vis in apside ima est ad vim in apside summa in mi-
+-nore quam duplicata ratione distantiae apsidis summae ab umbilico ellip-
+seos ⁸51 distantiam apsidis imae ab eodem umbilico, et contra, ubi apsides
+constituuntur in syzygiis, vis in apside ima est ad vim in apside summa in
+majore quam duplicata ratione distantiarum. Nam vires L M in quadra·-
+turis additae viribus corporis T componunt vires in ratione minore, et
+vires K L in syzygiis subductae a viribus corporis T relinquunt vires in
+ratione majore. Est igitur ratio decrementi et incrementi totius, in tran-
+situ inter apsides, minima in quadraturis, maxima in syzygiis : et propte-
+rea in transitu apsidum, a quadraturis in syzygias perpetuo augetur, au-
+getque excentricitatem ellipseos3 inque transitu a syzygiis ad quadraturas
+perpetuo diminuitur, et excentricitatem diminuit.
+
+Corol. 10. Ut rationem ineamus errorum in latitudinem, fingamus pla-
+num orbis E S T immobile-manere3 et ex errorum exposita causa mani-
+festum est, quod ex viribus N M, M L, quae sunt causa illa tota, vis M L
+agendo semper secundum planum orbis P A B, nunquam perturbat mo-
+⁴tus in latitudinem3 quodque vis N M, ubi nodi sunt in syzygiis, agendo
+etiamsecundum idem orbis planum, (¹) non perturbat hos motus3 (¹¹¹)
+· ubi vero sunt in quadraturiS‚ eos maxime perturbat, corpusque P de plano
+
+advim in apsidesummautTB¹><b—cAT³‚
+adA Τ2 ><b—c TB³, adeoque in majori
+mione quam T B 2, ad A T ², et quoniam ra—
+tio T B, ad A Τ, in his apsidum locis maxima
+est. ex natura ellipseos, ratio decrementi et iucre-
+menti totius in transitu inter apsides, maxima
+est in syzygiis apsidum, et propterea singulis
+om-poris P revolutionibus in transitu apsidum a
+quadraturis ad syzygias, haec ratio perpetuo au-
+getur, augetque excentricitatem ellipseos‚ et m
+transitu apsidum a syzygiis ad quadraturas· per-
+petuo diminuitur, et excentricitatem diminuit.
+Maxima ergo δε orbis excentricitaS, ubi apside·
+suntin syzygiis munina' ' ubi sunt in quadraturis
+
+505. Ex his etiam sequitur in unaquaque cor-
+poris P circum T revolutione excentricitatem
+’ orbis cirea syzygias corporis P augeri, et circa
+ejus quadraturas minui, minimamque esse in il-
+lius quadraturis, maximam in syzygiis, eaeteris
+paribus. Nam (per Cor. 7.) eorporis P vis
+centripeta tota in syzygiis decrescit in majori
+quam duplicata ratione distantiae aucte, et cres-
+cit in majori ratione quam duplicata distantiae
+diminutae, et in quadraturis contra. Quare cor-
+pus P, in syzygiis et prope syzygias describit
+partem orbis magis excerni-ici, in turIs
+
+Vox.. 1.
+
+vero et prope quadraturas partem orbis minus
+excentrici (ex demonstratis initio Cor. 9.) Et
+quoniam vis addititia L M in quadraturis cor-
+poris P maxima ost, et vis ablatitia K L in sy-
+zygiis ejus etiam maxima, vis autem addititia
+excentricitatem diminuit et ablatitia auget, ma-
+nifestum ost quod (caeteris paribus) in uni cor.
+poris Prevolutione, excentricitas orbis minima
+sit in quadraturis corporis P, et maxima in illius
+syzygiis, atque adeo quod a quadraturis ad syzy-
+gias perpetuo augeatur, et a syzygiis ad quadra·
+turas perpetuo minuatur.
+
+(¹) ⁸ Non perturbat hos nwtus. Patet per
+Cas. 2. Prop. 66.
+
+(¹¹²) 506. Ubi verb sunt in quadraturis eos
+maxime perturbat ,· Ubi nodi sunt in quadraturis
+C et D inclinatio directionis vis N M¹(quae linei
+P m exhibetur) ad planum orbitae eorporis P
+maxima est, ut pote aequalis planorum C A D,
+E S T inclinationi et proinde, ceteris paribus,
+maxime potentm· agit; in alio enim lineae no-
+dorum situ, minor est inclinatio directionis vit
+N M ad planum orbitae corporis Ρ, et evanescit
+cum nodi sunt in syzygiis, nescitque adet} in
+transitu nodorum a syzygiis ad quadraturas. et
+contra, decrescit in eorum transitu a quadraturis
+ad syzygias.
+

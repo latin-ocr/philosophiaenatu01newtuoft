@@ -1,0 +1,80 @@
+Lumn Pinnos] PRINCIPIA MATHEMATICA‚
+
+28⁵
+
+. PROPOSITIO L. PROBLEMA XXXIII.
+
+Facere ut corpus pendulum oscilletur in cycloide (ἰατά.
+
+Intra globum Q V S, centro C descriptum, detur cyclois Q R S bi-
+secta in R et punctis suis extremis Q et S superficiei globi hinc inde oc·
+
+currens. Agatur C R
+biseeans arcum Q S in
+O, et producatur ea ad
+A, utsitCA ad CO
+ut C Ο ad C R. Cen—
+tro C intervallo C A
+describatur globus ex-
+terior D A F, et intra
+hunc globum a rotfi, cu—
+jus diameter sit A O,
+describantur duae semi-
+cycloides A Q, A S,
+quae (¹⁷) globum interi·
+orem tangant in Q et S
+et globo exteriori occur-
+rant in A. A puncto
+
+illo A, filo A P T lon-
+gitudinem AR aequante,
+
+ 
+
+pendeat corpus T, et ita intra semicycloides A Q, A S oscii etur, ut quo-
+ties pendulum digreditur a perpendiculo A R, filum parte sui superiore
+
+vulgarem, quae describitur revolutione rotae in
+linei recta progredientis, cumque sit semper
+(457) AP: Bv—VP=2CE: CB=
+2:1‚ erit A P= 2 Χ (BV—VP)‚ sed
+B V — V P, est duplus sinus versus nrcfis
+a} B P, existente Β Ε· radio (456). Ergo in
+cycloide vulgari A Ρ oequatur quadruplicato si-
+nui verso dimidii arcus Β P, inter planum
+A B L et punctum describens P intercepti3
+
+’· niucmameritAS=4BE=2Bs=
+
+2 B V; Est enim B E sinus versus quadrantis.
+
+(f) ⁴* Quae globum interiorem tangant in Q et
+S, et globo exteriori occurrant in A. Probandum
+sanieyeloides descriptas per motum ποτε (cujus
+diameter est A Ο) ex A proficiscentis terminari
+ad superficiem globi interioris in punctis extre-
+mis Q et S cycloidis Q R S datae. Producan·
+tui-itaquelineoe C Q, C sad FetD, eritque
+
+FQ=DS=A o,etsuperdiametrosFQ,
+
+D Sintelligantur descriptae ποτε quarum motu
+fiunt semicycloidae, dicaturque P punctum τοίω
+semicycloides dem-iheu„ Liquet arcus O Q et
+AF, OS et A Desseproportionales adif-
+C O, C A sive (per const.) radiis C R, C Oet
+divisim rotarum diametris Ο R, A O, ideoque
+(per nat. circuli) semicircumserentiis totu-um
+super has diametros descriptarum Sed cum Q,
+et S sint puncta extraria cycloidisdatae Q R S et
+coamum QS bisecet; erum arcusOQet
+0 S aequales semicircumferentiae rotae super dia.-
+metrum O R descriptae (460) ergo etiam nr-
+cus A F et A D aequaloe erunt semicircumfe-
+remiae rotae super diametrum A Ο descripta, sed
+arcus F P aut D P est semper equalis arcui
+A FautA D (460); eruntergoarmsrl’et
+D P semicirculi, et P cadet in unanimibus
+Qet Sdiametrorum FQ‚Ds‚ sedubiP
+semicioeumfereutiam rotae percurrit semicyclois
+

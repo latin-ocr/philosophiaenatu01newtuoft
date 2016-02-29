@@ -1,0 +1,114 @@
+me ancsss] PRmclmA ΜΆΤΗΕΜΑΤΙΟΑ.
+
+= F C z E 03 ergo ultima summa rectan-
+gulorum evanescentium ut N L, ad summam
+rectangulonm, evanescentium ut N Ο, hoc est,
+area circuli ad amam-Enipsis (per Lem. IV.)
+rationem habet semiaxis F C, ad alterum seini-
+axem F. C. Q. e. d.
+
+248. Corol. 1. Idem eodem prorsus modo
+demonstramr‚ si A« F B fuerit Ellipsis com-
+munem axem A Β, habens cum Ellipsi A E Β.
+Et generatim duae quaevis figurae A F B,
+A E B, quarum semiordinatae Q N, T N, sunt
+in data ratione et quarum est communis diameter
+A B, sunt inter sein ratione data ordinatarum
+Q N, T N.
+
+249. Corol. 2. Area circuli cujus diameter
+est medius proportionalis inter duos Ellipsis
+axes aequaiis est areae Ellipsis. Nam sit E C .-
+st = R ι F C, et radio R, describatur circulus,
+illius circuli area, erit ad aream circuii A F B,
+ut 'R2ad Fc2, adeoque ut E C ad FC;
+Quare cum Ellipsis A E B, eandem
+habeat rationem ad circulum A F B
+(247), manifestum est aream circuli
+radio R, descripti aequalem esse areae
+Euipsis A E Β.
+
+250. Comi. 3. Quoniam R ² =
+F C χ Ε C, et areae cirmlorum sunt
+ut radiorum quadrata, erunt aren El-
+lipsium ut axium rectangula.
+
+251. Corol. 4. Patet etiam in El-
+lipsibus vel ellipsi et circulo aut etiam
+in quibuslibet curvis quarum ordinatae
+Q N, T N, datam habent rationem, et
+quarum est diameter communis A Β,
+aream M R B, esse ad aream correspon-
+dentem M P Β, ut est E C, ad F C,
+seu ut¹ R, M ad P M3 sed ductis ex
+quocumque diametri puncto S, rectis S P, S R,
+estssetiamatriangulum S M R, ad triangulum
+S M P, ut M R. ad M P, ob communem
+utriusque trianguli altitudinem M S ; ergo s'cctor
+S·B R, est ad sectorem S B P, in ratione data
+E C, ad F C.
+
+' Ρ
+
+252. Theor- Corpora duo P, p, circa virium
+centra C, c, revolvendo, orbitas P Q B, p q b,
+describant; tempus periodicum in orbita P Q B,
+est ad tempus periodicum in altera orbiti
+
+1¹5.
+
+qu, ut area P Q B P, ad aream qup,
+directe et ,sectores-'P C Q, p c q, simul descripti
+inverse—Dem- Ob aequabilem arearum circa
+centra C, c, descriptionem (Prop. Ι.) tempus pe.
+riodicum T, in orbe P Q Β, est ad tempus t,
+quo describitur sector P C Q, ut area P Q B P,
+ad sectorem P C Q, et similiter tempus t, quo
+describitur sector p q c, est ad tempus pe-
+riodicum θ, in orbe p q b, ut sector p c q. ad
+areamqup, hocestT2t=PQBP
+aree: PC Q, et t: d=pcqz pq bp area,
+unde per compositionem rationum et ex aequo
+ἔτ θῗΡΩΒ Pxpcquqbpx PCQ.
+e. .
+
+255. Si corpora duo Ellipses A E Β, Α F Β,
+quarum est axis communis A B, describant, xari-
+bus ad centrum Ellipsium C tendentibus,
+tempora periodica erunt aequalia—Dent.. Sint
+arcus A R, A G, infinitesimi eodem tempore
+descripti, A Q tangens ad vertIcem A, Q R,
+
+    
+
+B
+
+D G, axi A B, parallelae, et quoniam vires
+centn-ales sunt ut Q R, D G (Prop. VI.) et ob
+communem distantiam a centro A C, aequaies
+sunt vires seu eadem vis (Prop. X.) erit Q R
+= D G, sectores vero A C G, A C R, sunt
+ut G M, R M, seu E C, F C, (251), et areae
+Ellipsium A E B, A F Β, sunt etiam ut E C, ,
+F C,3(2⁴7, 248.) quare cum tempor-aperiodica
+in illis Ellipsibus sint ut areae A E B, A F Β
+directe et sectores A C G, A'C R„ inverse
+(252.) erunt eaedeni ut E C ad F C directe, et
+E C ad F Ciuversemoc est, ut Ecx Fcad
+F C χ Ε C, ac proinde in ratione aequalitatis.
+Q. e. d. ’
+
+254. His positis facile demonstratur aequalia
+esse revolutionum in Ellipsibus universis circum
+centrum idem fite-tarum periodica tempan-
+Nam duae quaevis ellipsoe circa idem centrum
+descriptae dicantur A, et B, describatur tertia
+Ellipsis C, similis Ellipsi A, et axem unum
+communem habens cum Ellipsi Β, tempora
+periodica in Ellipsibus similibus A et C, sunt
+aequalia (per Corol. 3. et 8. Prop. IV..Newt.)
+et tempora periodica in ellipsibus C, et B, axem
+alterum communem habentibus sunt. etiam aequa·
+
+He
+

@@ -1,0 +1,135 @@
+253*
+
+438. Data velocitate projectionis et magnitu-
+dine vis centripetae variabilis, hoc est, ipsius ra·
+tione ad aliquam vim centripetam uniformem
+notam in loco dato V, (fig. not. 450) describi
+potest trajectoria V 1 K. Iis enim datis, da-
+bitur locus P ex quo corpus urgente vi centri-
+petii constante cadere debet ut in loco V datam
+projectionis velocitatem habeat3 et sumpta V R
+ad V L in dats ratione vis centn'petae constantis
+ad vim centripetam variabilem in loco V, dabi-
+tur rectangulum P Q R V. Porro si rectan-
+gulum illud aequale fuerit areae infinite proteusae
+O V L o, corpus circulum describet (per cas,
+1. not. 433); si reetangulum minus est area
+O V L o, inveniri poterit punctum A, ex quo
+ducta perpendicularis A B, abscindat aream
+A B L V aequalem rectangulo P Q R V3 et
+trajectoria V 1 K, describetur (per constr, cas.
+21.) (456). Si rectangulum P Q R V area
+Ο V L o majus est, adhibenda erit constructio
+casfis 5³. (437). Observandum autem est sec-
+tores circulares esse angulis suis ad centrum pro-
+portionales; unde in superioribus constructioni-
+
+bus loco sectorum circuli, uti possumus angulis
+
+qui ad sectores hyperbolicos vel ellipticos datam
+babeant rationem.
+
+ 
+
+459. casus 2⁰³. et 5¹¹⁸, construi possunt per
+hyper-bolam vel ellipsim, cujus sit semiaxis C V
+= r, et alter semiaxis quilibet. Nam iisdem
+positis quae in constructione casfis 2¹„ semiaxe
+transverso C V = r, et semiaxe quovis conju-
+gato C F, describatur hyperbola altera S V,
+quam in S secat perpendiculum R B; tangen-
+tes R T, S T per puncta R, S ductae axi occur-
+runt in eodem puncto T, (257) et sector C R V
+est ad sectorem C S V in data ratione C E ad
+C F (574). Quare cum (per constr. cas. 2¹.)
+
+PHI'LOSOPHIAE NATURaLIS
+
+[Mo'r. Coenon,
+
+sector circuli C X V aqualis sit sectori C R V.
+erit etiam ad sectorem C S V in data ratione
+C E ad C F, atque ita punctum trajectoriiae 1
+invenietur capiendo sectorem C X V ad secto-
+rem C S V, in data ratione C Ε ad C F, et in
+radio C X, capiendo C 1 = C T. Idem eo-
+dem modo demonstratur in casu 50.
+
+ἴ 440. Hinc si (juxta constructionem Cor-ol.
+ὅ. Prop. 41.) describatur curva V 1 capiendo
+angulum V C I sectori conico V C R propor-
+tionalem, vel quod in idem recidit, capiendo sec-
+torem circuli C X V ad sectorem conicum
+V C R i'n data ratione, et C Ι = C T, inveniri
+poterit velocitas qua corpus deloco V, secundum
+lineam ipsi C V perpendicularem projici debet
+ut in trajectoria descripta V 1 progrediatur.⁴
+Nam sit V S hyperbola quaevis, centro C, semi-
+axe transverso C V = r, semiaxe conjugato
+C F descripta, data erit ratio sectoris circuli
+C X V, ad sectorem hyperbolicum C S V, (ex
+hyp.) seu (459) natio C E ad datam C F;
+ergo dabitur C E, seu c; est autem in ωε. 20.
+(450, 486) cc εεε-τταᾱεὸςιιε a a =rr
+4- c c ; et hinc datis r et c, dabitur a, seu A C,
+(fig. not. 428.) Dato autem puncto A, et vi
+centripetfi, datur rectangulum P Q R V, aequale
+areae A B L V, et inde velocitas projectionis
+habetur, (438). Si trajectoria V 1, per sectores
+ellipseos descripta fuerit, similiter invenietur c ς
+
+est autem in casu 30. (437) c = ΣΞ, et ι· r e ο .
+
+-f⁴.-.bbrr, ade6que b ='-c},bb ξ.
+
+rree etbb rree—-f4— 3¹⁹⁸.
+cc ⁹ = rr .- cc '
+
+quareccrrce—r4ee=f4cc‚ etee=
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+f4cc f4 cc ..
+cerr—14²5xcc-rr’fum lgm„
+dataesintc,etr,acf—⁴= areae dataeOVLo
+
+r r
+(429) ; dabitur e e, seu reetangulum P Q R V
+(437) et hinc velocitas projectionis in V, habe-
+tur (438). Patet autem in hoc casu c majorem
+esse debere radio r, seu C V, alioquin pable-
+
+ 
+
+ 
+
+ma esset impossibile, cim sit e = ῖ χ
+θ. ⁴,4-
+4! c c — r r
+
+441. Vis centripeta in centrifugam vertatur,
+seu directionem in contrariam mutet, et corpus
+per rectam V M ad C V perpendicularem cum
+qufivis velocitate projiciatur, ut trajector-iam
+V K I describat. Sit utin casu 30. (457) Ρ V
+spatium per quod vi centrifuga constante urgeri
+debet corpus ut velocitatem acquirat in V velo-
+citati projectionis aequalem‚ et R V ad L V ut
+vis centrifuga constans ad variabilem in V, et
+rectangulum P R Q V, dicatur e e; velocitas
+projectionis in V, erit ut e, (per Cor. 1. Prop.
+59.) et quoniam velocitas in recessu a centro*
+semper crescit, erit velocitas in 1 vel Δ, ut
+

@@ -1,0 +1,114 @@
+116
+
+evadet aequabilis.
+
+PHILQSOPHI‘AE NATURALIS
+
+[M or. cosmas
+
+Hoc est theorema Galilaei. (θ) Et siconi sectio para-²
+
+bolica (inclinatione plani ad conum sectum mutata) vertatur in hyperbolam3
+movebitur corpus in hujus perimetro vi centripeta in centrifugam versa·
+Et quemadmodum in circulo vel ellipsi si vires tendunt ad centrum figurae*
+in abscissa positum, hae vires augendo vel diminuendo ordinatas in ratione
+quacunque data, vel etiam mutando angulum inclinationis ordinatarum
+ad abscissam, semper augentur vel diminuuntur in ratione distantiarum a
+centro, si modo tempora periodica maneant aequalia3 (f) sic etiam in figu-
+ris universis si ordinatae augeantur vel diminuantur in ratione quacunque
+
+ο
+
+lia (253.) tempora igitur perlodica in Ellipsibus tione distantiarum α centro. Hujus verim sse-¹¹
+
+-quibusvis A et Β sunt aequalia. Q. e. d.
+(ε) 255. Ee si coni sectio parabolica (inclina-
+
+tione plani ad conum sectum mutata), vertatur in diameter A D, a
+
+hyperbolum movebitur corpus in hujus perimetro
+
+ 
+
+vi cengripetd in oentmfitgam ver-sd. cum enim
+Ellrpsrs centrum C, a vertice A, in plagam F
+abit, v1s centripetae directio est per lineas'P C,
+P F, a punctoP, ad centrum, et ubi infinita
+evadit distantia P C, atque P S, ad centrum
+ductanaxi· parallela fit, Ellipsi iu parabolam
+mutata, d1rectio est a puncto P, ad S, secundum
+lineam P S3 mutata in Hyperbolum parabola,
+et centro ad alteram vertic1s A partem translato
+m c, vis centralis directio est 'secundum lineam
+P B, a P ad B, hoc est, a centro c ad P, adeo*-
+que in centrifugarn versa (228.).
+
+‘25o. Ex quibus sequitur haec generalis lex3
+δι corpus revolvatur in sectione conica, et vis
+centralis tendat ad sectionis centrum, aut a cen-
+tro, vus illa erit directe ut distantia a centro, ct
+contra si ‘vis fuerit ut distantia a centro, corpus
+movetur ιιι sectione conica. (245, 246.)
+
+(f) 257. In figuris universis, si ordinata
+augeantur vel diminuantur-*in racione data vel
+ang-idus ordinationis mutetur, manente tempore
+penvdzco, mres augentur vel minuuntur in ra-
+
+quentium Lemmatum ope patebit.
+
+a quavis A Q D, cru'ua
+hanc diametrum ordinatu
+Q E, ιι G, augeantur vel minuantur in ratione*
+data Q E, ad P Ε, vel ad angulum
+quemvis ssdatum P E D, inclinentur,
+novaque describatur curva A P D, per
+novarum ordinatarum extrema tran--
+siens, sitque centrum virium C, in din-
+metro positum utrique curvae commune,
+rectae P H, Q h, quae curva in punctis
+correspondentibus Q, P, tangunt, nd
+idem diametri punctum H conver·
+gunt—Dum. Ductis rectis P t, Q v,
+diametro Α D parallelis, erit Qv =
+G E = P t, et (per hypothesim) n v:
+m t = E Q = E P, unde et alternan-
+donszE=mt= EP,etcoEun-
+tibus punctIs n et Q, m et P, erit
+propter similitudinem triangulorum
+anet QEh,thetPEH
+
+nv: E Q= Qv(GE):EhV
+
+mtzEP=Pt(GE):E1-1
+
+.Cum ergo sit nv: Ε Ω--ιιιιε
+EP‚eritGE: Eh=GE=EH,
+ideoque E H = E h, ac proinde tan-
+ngntes ‹1er idem diametri punctum H convergunt.
+
+. e.
+
+258. Lemma. Iisdem manentibus sectorevan-
+escens, C Q n, est ad sectorem C P m, in alteri
+curva ccx-*respondentem ut area A Q D, ad
+aream A P D.—Dem. ob parallelas G m et E P,
+Gn,etEQ.estGy:CG=EP: GE et
+C G: GL=cE= E Qundeexoeqquy=
+GL=EP2EQ=Gm2Gn(pe1-const.) ’
+ethinc Gm—Gy: Gn—GL=ym: En
+=Gm: Gn=EP: QE. ExpuncwC.
+demittantur in G m, et G n, perpendiculares
+C z. C x; et ex punctis P et Q, in diametrum
+A D, perpendiculares P V. Q K, et erit trian-
+gulumCym2t1-iang. CLn=ym>< Οτι
+Ln>< Cx=Gm>< Cz: Gn>< Cx. Verum
+ob similia triangula C z G, et P V E, C x G et
+QKE,estCz= CG=PV= Pauca-2
+Cx= QE: QK: atqueadeo per compou'-
+tionem rationum C z: Cx= P V >< Qltz·
+QK><PE=PV>< GntQKxGm
+(per constr.) cum ergo sit triangulum C y m τ
+
+Lemma. In fi
+

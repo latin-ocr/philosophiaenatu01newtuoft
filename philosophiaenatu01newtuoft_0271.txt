@@ -1,0 +1,92 @@
+θ [mm Panium] PRINCIPIA MATHEMATICA. ·
+
+235
+
+D. Dein junctis S 1, S D, fiant segmentis S E I S, S E D S sectores
+H S K, H S k aequales, et per Prop. XXXV. corpus G describet spatium >
+G C eodem tempore quo corpus K describere potest arcum K k. Q. e. f.
+
+PROPOSITIO XXXVIII.
+
+THEOREMA XII.
+
+Posito quod vis centripeta 'proportionalis sit altitudini seu distantiae loco-
+rum a centro, dico quod cadentium tempora, velocitates et spatia descripta
+sunt arcubus, arc-utcmque sinibus rectis et sinibus versis respective* propor-
+
+tionalia.
+
+Cadat corpus deloco quovis A secundum
+rectam A S; et centro virium S, intervallo
+
+Ἀ
+
+Α· S, describatur circuli quadrans A E,
+sitque C D sinus rectus arcus cujusvis A D 3
+
+et cerpus A, tempore A D, cadendo de- C
+
+scribit spatium A C, ‘inque loco C acquiret
+
+velocitatem C D.
+
+‚(u) Demonstratur eodem modo ex Pro-
+
+positione X, quo Propositio XXXII. ex S
+
+Propositione XI. demonstrata fuit.
+
+Diametro si ea curva sit Hyperbolae et si Cor-
+pus ex G perveniat in C, erectis usque ad curvas
+descriptas perpendicularibus G 1, C D,0crunt
+segmenta S E I, S E D proportionalia tempo-
+ribus quibus corpus propositum ex G ad S, et ex
+C ad S movebitur per Prop. XXX 11. : Sed per
+Pmp XXX V„ corpus G spatia G S, C S,
+iisdem temporibus cadendo percurrit, quibus
+corpus K, describit arcus K H, k H; eodem
+igitur tempore percurritur G C, quo K k.
+
+(¹³) ³ 404. Demonstratur eodem modo. Nam
+si corpus non eadit perpendiculariter, describet
+id (per Cor. 1. Prop. X.) ellipsim aliquam
+A P F B, cujus centrum congruit cum centro
+virium S3 Super hujus ellipseos axe majore
+A B, describatur semicirculus A D B, et per
+corpus decIdens transeat recta D P C perpen-
+dicularis ad axem, actisque D S, P S, erit area
+,Α S D, areae A S P, atque adeo etiam tempori
+proportionalis. Manente axe A B, minuatur
+
+perpetuo latitudo EllipseoS, et semper manebit ·
+
+area A S D, tempori proportionalis Minuatur
+latitudo illa in infinitum, et orbe A P B jam
+coincidente cum axe A B, puncto P cum C,
+et F cum S. descendet corpus in rect& A C, et
+area A S D, seu huic proportionalis arcus
+A D, evadet tempori proportionalis. In rect&
+A C capiatur lineaquam minima Cc, agaturque
+ε d, pamllela C D, et circulum secans in puncto
+d, ex quo ad C D, demittitur perpendiculum
+d r, et arcus D d proportionalis erit tempori
+
+E
+
+quo percurritur C c, (ex demonstr.) atque adeo
+
+cobuntibus punctis C c, et d D, erit velocitas in
+
+C, utCff—(g (5, 145), sed ob triangula D r d,
+
+SCD, similia Cc,seu dud D==c D:
+
+ 
+
+s o, id est, {3—{=‘S³ 1¹}Quare velocitas fn
+lococ, est ut S-D hoc est, ob constantem
+
+S D, ut C D. SQPe. d.
+
+ 
+

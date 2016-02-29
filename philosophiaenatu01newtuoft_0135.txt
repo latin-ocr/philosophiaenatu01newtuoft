@@ -1,0 +1,117 @@
+- dueatur ex R
+
+Lmen Pinum.) PRINCIPIA MATHEMA'TICA.
+
+Diametris conjuga& invenire positionem et
+magnitudinem duarum aliamm Diametrorum
+conjugatarum, quae fidant inter se angulum
+quanvis &tum-
+
+ 
+
+’ Primus Casus. Angul'us qui datur eit rectus,
+h. e. Diametriquaesitae sint Axos conjugati. Sint
+ver-6 semi-Diametri datae C P,c Κ, per verti—
+cem P unius ducatur linea alteri C K pmfflleh,
+qnae ideo erit Ellipsis Tangens in eo puncto.
+(per Lem· IV.) producatur C P iu V ita ut sit
+CP: CK=CK2 PV, inmediuleineae
+C V erigatur
+in L, et ex L velut Centro radio L C qui ae-
+qualis est L V; describatur circulus transiens
+per puncta C et V, et Tangentem secans in
+punctisZ etha, dico lineas zC,MC‚ essein
+axium positione.
+
+Demonst. Angulus enim Z C M est
+rectus quiaest in semi-circulo per constructionem,
+pretereaquia chordae CV‚Z M sese secant in
+PgoetCPx PV=ZP><PM (per 553.
+P V = C K2 per oon-
+
+perpendicularis tangentem semus
+
+Elem.) sed C P χ
+structionem, ergocK2=z P>< PMideo-
+que, per Corollarii praecedentis conversam, lineae
+β Ζ. C M. endunt secundum Diametros con-
+
+,ΠΜ
+
+99
+
+trum circuli ex quo si radio l C circulus descri-
+batur is transibit per C et etiam per V (per
+const. et 1. 3. Elem.) secabit vero Tangentem
+in punctis Z et M. e quibus ductis C Z, C M
+habetur Diametrorum quaesitarum positio.
+
+Demomt. Evidens est, sicut in priore hujus
+demonstrationis pm, lineas C Z‚C M, cadere
+secundum Diametms conjugatas, quaestio est
+utrum faciant in C angulum datum, ex centro
+l ducatur linea parallelas lIneae R m, dico illam
+occurrere Tangenti in puncto M, hoc est illam
+fore aequalem radio l M sivel C, occurrat enim
+Tangenti in X erit ob Parallelas L R ι R m =
+Ll:lX; sedproptaParallelnRN et Lc
+triangula N l R,· C l L, sunt similia,- estque
+1R:1N= LI: l C,etsumptis vel differen-
+tiis vel summis terminorum utriusque rationis
+estLR: cN=L1, lc est vero per con·
+structionem C'N= Rm ergo L R: Rm=
+lelCergolelX= L12Lc, scilicet
+est1X=1c, hoc estx cadit in M3 radius
+&go 1 M cum sit Pmnelus lineoe R m, faciet
+cum perpendiculari quae in lineam Z M ducere-
+tur eumdem angulum quem format linea R. m
+cum perpendiculari in eamdem lineam ‹lm-u*-
+angulum nempe quaesimm ι et angulus Z l M
+ejus erit duplum; sed angulus Z C M est an-
+guli Z 1 Μ dimidium, ergo est aequalis angulo
+quaesito.
+
+Determinatur autem Diametrorum magni-
+tudo, ductis ex P in u . Diametrum ordi-
+natis P O, P Flineis C Z, C M, Parallelin}
+Diametri enim erunt medias proportionales inter
+abscissas a centro, et lineas a centro ad Tangen-
+tmwmpmghocffieritcoz CA=cA:
+CM‚eth:c B= C B: CZ ;unde
+ἕξεί eognoscangurAsztOCetBC M. C F et C Z
+
+rmmnntur .
+
+Cor· I. Datis axibus, foci inveniuntur si ex
+vertioe axis minoris ut centro, cum radio aequa-
+li semi axi majori ipse major axis secetur,
+et datis focis et axi majori puncta quot·
+libet ad Ellipsim pertinentia inveniri possunt, si
+ab uno fooo dueatur ut libet linea aequalis axi
+majori et ab ejus extremitate dueatur linea ad
+
+’ alterum focum, fiat in hoc foco super hanc li.
+
+ 
+
+Sec. duns- Si angulus datus D rectus non
+sit, cenu’um circuli describendi non erit in L sed
+in alio punctol ejusdem lineae R L in medio
+Rlineoe C V perpendicularis: sic vero invenitur ι
+perpendicularis in Tangentem
+fiatque cum ea angulus aequalis dato, et linea
+eum formans secet Tangentem in m, ducatur
+L C, et per R lineaR. N ipsi Parallela ex C⁴ ut
+centro, radioque aequali R. m secetur R N in N,
+ductaque C N quae secet L R in 1 erit l cen-
+
+· , lineas a focis ducta&
+
+neam angulus aequalis angulo, qui sit inter
+seoebitur prima linea in
+puncto ad Enipsim pertinente.
+
+ 
+
+G2
+

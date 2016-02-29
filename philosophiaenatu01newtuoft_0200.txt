@@ -1,0 +1,56 @@
+164 PHILOSPHIAE NATURALIS [Momcomeom
+
+in T, et C D secantem P Q in R. Denique, agendo quamvis
+t r ipsi T R parallelam, de P Q, P S abscinde P r, P t <ipsi P R, P T
+proportionales respective 3 et actarum C r, B t concursus d (per Lem.
+XX.) (¹¹) incidetsemper in trajectoriam describendam.
+
+Idem aliter.
+
+Revolvatur tum angulus magnitudine datus C Β H circa polum B, tum
+radius quilibet rectilineus et utrinque productus D C circa polum C.
+Notentur puncta M, N, in quibus anguli crus B C secat radium illum,
+ubi crus alterum B H concurrit cum eodem radio in punctis P et D,
+Deinde ad actam infinitam M N con· H
+currant perpetuo radius ille C P vel C D
+et anguli crus B C, et cruris alterius
+B H concursus cum radio delineabit tra-
+jectoriam quaesitam. ’
+
+Nam si in (¹) constructionibus pro-
+blematis superioris accedat punctum A
+ad punctum B, lineae C A et C B coin-
+cident, et linea A Β in ultimo suo situ
+fiet tangens Β H ; atque ideo construe· M
+tiones ibi positae evadent eaedem cum
+constructionibus hic descriptis. De-
+lineabit igitur cruris Β Η concursus
+cum radio sectionem conicam per puncta N
+C, D, P transeuntem, et rectam B H
+tangentem in puncto Β. Q. e. f.
+
+ 
+
+P R ι P T = p B z P Β, (per hanc constr.); punctum contactus erit (per Cor. 3. Lem. 111.
+et §uncta B t, ob parallelas p e, P t, erit p B: de Conic. p. 119.) H A ² ad A 1 ² ut rectan-
+PB=pe: Pt, atqueadeo Pr: Pt=pe: gulum XuHYadrectangulumPI C, sedmtin
+P t, unde P r = p e. . · rectanguli X H Y ad rect. P 1 C, potest con-
+
+(¹¹) ⁸ Demonstrauo clara fit, Sl m figura Lem. siden-ari ut composita ex ratione rect. X H Y ad
+XX : punctum Β cecedi-it ad punctum A, et rect. BH D, et ex ratione ejusdem rect. BHDad
+recta A B Q sectionis comcae tangens evadat. rect. P 1 C. Est vero rect. XH Yad rect. B H D
+
+(¹) '¹' Nam in altere problematis XXII. ut rect. C G P ad rect. D G Β per Lem.
+solunone A B C, A C B, sunt anguli circa ΙΙΙ. de Conic. p. 117.) sunt enim X, G C.
+polos C et B mobiles3 unde¹ si punctum A acce- duae Parallelae in Sectione Conicfi ductae et per
+dat adpunctum B, coincidunt crura C A, C Β, tertiam lineam G H secta, ideoque factum par-
+et unicam> rectam constituunt, evanescente an· tium H X, H Y Parallelae H X, quae sumun-
+gulo A C B, remanet vei-6 angulus A B C tur ab intersectione H ad curvae puncta Xet Y,
+quem tangens A B cum B C continet3 quare est ad B H χ Η Dfactum partium lineae se-
+dum anguli A B C, crus B C cum radio A C, cantis G H sumpturum ab intersectione H nd
+si necessum sit, producto, perpetuo concurrit in puncta curvae B et D, sicut factum partium ai-
+rectfi nixque positione data ut N M, cruris A B terius Purallelae C G Χ G P, ad D G >< G B
+et rudn C A caneux-sus trajectoritun describit. sactum partium cortes ndentium lineae wenn-
+
+(Υ) 319. Em ex Conicis5 scilicet si A sit tis. Est ergo ratio A ² ad A I ² oeqimlis
+

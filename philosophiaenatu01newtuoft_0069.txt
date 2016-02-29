@@ -1,0 +1,109 @@
+Lucre Morus] PRINCIPIA MATHEMATICA. * 38.
+
+experimento luculento. Motus omnes eodem modo se habent in Navi,-
+sive ea quiescat, sive moveatur uniformiter in directum.
+
+COROLLARIUM VI.
+
+Sit-corpora moveantur quomodocunque inter se, et a viribus acceleratricibus α’-
+qualibus secundum lineos parallelas urgeantur ,- pergent omnia eodem modo
+moveri inter se, ac si viribus illis non essent incitata.
+
+Nam vires illae aequaliter (pro quantitatibus movendorum corporum) et
+secundum lineas parallelas agendo, corpora omnia aequaliter (quoad velo-
+citatem) movebunt per legem 11. ideoque nunquam mutabunt positiones
+
+et motus eorum inter se.
+
+Scholium. (ὃ)
+
+Hactenus principia tradidi a Mathematicis recepta et experientifi mul-
+tiplici confirmata. Per leges duas primas et corollaria* duo prima Galilaeus
+invenit descensum gravium esse in duplicata ratione temporis, et motum
+
+globiadplanumAQ ducaturrectaDE,per-
+pendiculo A B, pamllela quae exponat vim
+grnvitafis accelerati-icem quii globus secundum
+directionem D Ε, horizonti perpendicularem
+agotum vis illa, D E, in duas vires resolvatur
+(41). quarum altera D F, sit ad planum A C,
+m ..ξὲ Ἠῗ( Ρῐέιῗᾶῗωῗ {ffi} Ἐξῗιὲῗᾈῗῖἐ
+5· υ
+
+solu globus ad motum secundum directionem
+plani A C, sollicitatur, et erit vis acceleratrix
+Juxta plani inclinati· directionem agens, ad vim
+moderatricem perpendimlariter sollicitantem,
+ut E F, adDE5 sedquoniamtfiangulnEFD‚
+ABG, ob parallelas D E, AB, etangulos
+rectos‘FetB, oequalcs, similia sunt, ettFEz
+D E=A Β z A C. Visigitur accelaatix
+pavitantis secundum directionem plani inclinati
+A C, eet ad vim gravitatis accelerati-icem secun-
+dum directionem horizonti perpendicularem, ut
+plani inclinati altitudo A B, ad ipsius longi-
+tudinem A C. Q„ e. d.
+
+76. Cor-cll. 1. . . . . Quoniam vis accelerati-ix
+gravitatis juxta directionem D E, horizonti per-
+pendicularem constans est (26), et vis accelera„
+trix F E, secundum directionem plani inclinati A
+C, madvim DE, in ratione data AB, ad
+
+A (ἒς vis accelerati-ix F E, constans quoque ἢ
+erit; en igitur omnia quae de motibus vi accele- “
+mirice constanti genitis demonstrata sunt, trans- ·
+
+ferre licet ad motus vi gravitatis accelmm'ce in
+plano inclinato productos; nempe. 1⁰. Grave
+per planum inclinatum motu uniformiter accel-
+erato descendit, et motu uniformiter retardato
+ascendit (25). 2⁰.Velocitates sunt ut tempora qui-
+bus acquiruntur (25), spatia e quiete cudendo de-
+scripta sunt in ratione duplicat& temporum qui-
+
+bus percum-untur, itemque velocitatum quae hisc
+
+V01. 1.
+
+temporibus acquiruntur; tempora vero it-que
+velocitates suntin ratione subduplicatfi spatio-
+rum (27, 28). 50. Spatium a gravi in plane
+inclinato percursam ab initio motus computa-
+tum, dimidium est illius quod eodem tempore
+ab eodem mobili uniformiter percurri potest cum
+velocitate ultimo acquisita (29).
+
+77. Coroll. 2. Quia vires accelemuices con-
+
+stantes sunt inter se in ratione velocitatum, quas
+eodem tempore producunt (15), velocitas lapsu
+perpendiculari per A B, acquisita erit ad velo-
+citatem eodem tempore in plano inclinato ac-
+quisitam, ut longitudo plani, A C, ad ipsius
+altitudinem A B (75).
+· 78. Cor-all. 3. Si ex puncto B, perpendiculi
+A Β, ad planum inclinatum agatur udi-
+cularis B H 3 spatium A H, in plano inclinato
+eodem tempore percurritur, quo lapsu perpen-
+diculari describitur A B; nam ob similitudinem
+triangulorumAHB‚AB C,A H2AB
+=AB2AC, adeoque ΑΗ, estadAB.ut
+velocitas in plano inclinato acquisita ad veloci-
+tatem, eodem tempore in perpendiculo A B,
+acquisitam (77). Sed velocitates motu unifor-
+miter accelerato acquisitae, sunt ut dupla spatia,
+seu, quod idem est, ut spatia eodem tempore
+percursa (76); erg& A H, A· B, mntspatia
+eodem tempore percursa.
+
+79. Cor-dl. 4. Tempus quo planum A C per.
+curritur, est ad tempus quo permrritur ipsius
+altitudo A B, ut longitudo plani A C, ad ejus
+altitudinem AB; tempus enim per A C, est
+ad tempus per A Η, in ratione subduplicati
+AC‚adA H(76)- sedoboominuamreo-
+tarum Ac, A Β, AH analogiam Ac‚oet
+ad A B, in ratione subduplioeta A C, ad A 113
+oempusiginuperAc‚estadoempusperAH,
+

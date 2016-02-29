@@ -1,0 +1,79 @@
+Lim-:a Paruum] PRINCIPIA MATHEMATICA. 69
+
+Cas. 2. Et, per Legum corollarium quintum, perinde est, sive quiescat
+superficies, in- qus corpus describit figuram curvilineam, sive moveatur
+
+eadem una cum corpore, figura descripta, et puncto suo S uniformiter
+1n directum.
+
+Corol. 1. In spatiis vel mediis non resistentibus, si areae non sunt tem-
+poribus proportionaleS, vires non tendunt ad concursum radiorum3 (⁸)
+sed inde ‘declinant in consequentia, seu versus plagam in quam fit motus,
+si modo arearum descriptio acceleratur: sin retardatur, declinant in an-
+tecedentia.
+
+Corol. 2. (¹²) In mediis etiam resistentibus, si arearum descriptio ac·-
+
+celeratur, virium directiones declinant a concursu radiorum versus plagam,
+in quam fit motus.
+
+Scholium.
+
+Urgeri potest corpus a vi centripeta composita ex pluribus viribus· In
+hoc casu sensus propositionis est, quod vis illa quae ex omnibus componi-
+tur, tendit ad punctum S. ( ¹ ) Porro si vis aliqua agat perpetuo, secun-
+dum lineam superficiei descriptae perpendicularem3 haec faciet ut corpus
+deflectatur εὶ plano sui motus : sed quantitatem superficiei descriptae nec
+augebit nec minuet, et propterea in compositione virium negligenda est,
+
+PROPOSITIO ΙΙΙ. THEOREMA ΙΙΙ.
+
+Corpus omne, quod radio ad centrum corporis alterius utcunque moti ducto
+describit areas circa centrum illud temporibus proportionales, urgetur vi
+
+composita ea: vi centripetd tendente ad corpus illud alterum, et ex vi omni
+acceleratrice qud corpus illud alterum urgetur.
+
+(k ) Sit corpus primum L, et corpus alterum T:
+
+et (per legum
+
+(⁸ ) 178. Sed inde declinant' m consequentia,
+si modo arearum descriptio acceleratur. sin re-
+tardatur, declinant in antecedentia. Nam si
+triangulum S B C, aequale non est triangulo
+S A B, seu S B c, eodem tempore descripto.
+
+scriptionem etiam sublata medii resistentia acce·
+lerari oportere, ac proinde per Coroll. 1. virium
+directiones declinare a concursu radiorum, in S,
+versus plagam' m quam fit motus.
+
+( ἰ) 180. Porro si vis illa perpetuo secundum
+
+recta C c, non erit parallela¹ lineae B S, sed
+producta cum linea S B, ita converget ut tendat
+in plagam motus, si triangulum S B C, trian-
+gulo S B c, majus est, et tendat’ ln plagam con-
+trariam si triangulum S B C, triangulo S B c,
+minus. Quare vis centripeta in Β, agens se-
+eundum directionem parallelam lineae C c, in
+
+primo casu declinat· 111 consequentia. in secundo
+casu declinat m antecedentia.
+
+lineam superficiei daecriptae perpendicularem
+agat, planum subjectum duntaxat premit, et our-
+pus in illo plano motum in neutram partem im-
+pellit, ac proinde nec superficiei descriptae „quan-
+titatem auget nec minuit, et propterea in compo-
+sitione virium in plano agentium negligenda est.
+(k) 181. Corpus L, circa alterum T, in
+curva A L B, ita revolvatur, ut circa illius cen-
+trum T, semper describatanias temporibus pro-
+
+(h) 179 Cum enim medium resistat accele- portionales, dum interim corpus T, urgetur vi
+rationi descriptionis arearum, liquet arearum de· acceleratrice secundum directionem Τ Q, et per
+
+Εὖ
+

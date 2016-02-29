@@ -1,0 +1,140 @@
+61·
+
+154. Fluxiones secundae ex primis fluxioni-
+bus, vertite ex securum, iisdem regulis colliguntur
+qm'bns primm fluxiones ex fluentibus finitis-eru-
+untur. Ubi tamen sic pergitur ad fluxiones
+secundm, tertias et sequentes, convenit, quannta-
+tem aliquam ut uniformiter fluentem considerare,
+et pro ejus fluxione prima unitatem seribere, pro
+secunda vero et sequentibus nihil (148). Ex·
+em'plum unicum afferemus3 sit quaerenda flur·-
+io fluxionis y d y : d x, supponendo quanti-
+tatem ω uniformiter fluere, adeoque d αι’ constantem
+seu = 1, inveniturfluxio y d d y'i· dy ²⁶: d x.
+
+165. Ex fluxionibus fluentes inveniuntur,
+operationes instituendo iis contrarias quibus
+ex fluentibus reperiuntur fluxiones3 quare, lit-
+tera S, significante '’fluentem fluxionis cu1 prae-
+ponitur, seu„ summam primam incrementorum
+nascentium, vel ultimam evanescentium (147)
+methodi fluxionum inversae fundamentaoes for-
+mulae erunt.
+
+1. S. dz== z. et S. adz =az·'S. tiz: α
+= z: α-
+
+2. S. natm-“ds'a'zm,
+
+et S. mazm-1dz·-=azm,
+
+et &a xm—”=”dz=z¹¹¹=¹¹.
+
+n
+
+3. S. (dzssdy) =z÷y.
+
+‘²- S· (κᾶν-Η] dz) =y z.
+
+et Suganssy ”zm-1dz4anzxffly”—¹ dy)
+e..- a z .
+
+5· S· (ἴάκ--κάωιῃμτ-κιμ,
+
+, 166. Si fluxio, cujus fluens quaeritur, null'i
+harum formularum similis f uerit, per novarum
+variabilium substitutionem aliasque artes quas hic
+tractare nobis non licet, ad illas saep'e reduci po-
+
+test. Sit in exemplum flux10 ο-ὁ-Γῖἷῆ Χ
+
+dx, ponatur cb÷coeg=zeteritcbifgae
+z z
+
+ 
+
+=zz,etcdoe=2zdz,etdoe=
+
+ade6que cb†cae=}>< dae=2zzdznz
+Haec autem fluxio similis est formulae m a χ
+3¹¹¹ ¹dz‚ estquez2== zm ¹, adeoque
+τηε-τῦ, m a =3 a'==2:c‚ et a=2:3c‚
+
+ade6queS.mazffl—-ddz=az¹¹²=2z³: 50
+loco z, scribatur ipsius valor σὺ -ξ- c a: ᾗ, et in-
+venietur S. c 6-1- εωὲχ doe= &deb-4· cx)
+
+ch÷coe{=}(b÷oe)x0b†cx{.
+167. Superiorum formularum auxilio et flux-
+ionibus secundis primae, ex tertiis secunda, &c-
+inveniuntur. Exempla sint S. d d α’ = d α’.
+S. dm. ddae= {doedoe={doe². Namponauu
+dvx-y, et erit ‹1ae32=dy‚ etde-ddae= ,νά-9,
+
+ 
+
+ 
+
+ΡΗΙιοεοΡΗΠΕ NATURALIS
+
+[Mor. Conon.
+
+et per formulam secundam invenitur S . y, d y ,
+={ y y, et si loeo y substituatur ipsius valor, ’
+doe,e1·itS.ydy=S. d oeddtc={ ἀπ’. Si-
+militer. S. (dy24yddy): doe=.ydy:
+d α’, supponendo d ει· constantem, nam fiat d d y
+=d v, ade6que d y = v, et fluxio proposita eva-
+det,vd9†ydv: d κ, cujus fluens (perfor-
+mulam 4²¹³) est v gy ι d w, ob d a· constantem.
+Cum autem situ πάρ, erit vy: d ae=yd y:
+d sc.
+
+168. Postquam fluentes ex fluxionibus col-
+lectae sunt, si de veritate conclusionis dubitatur,
+fluxiones fluentium inventarum vicissim colli-
+gendae sunt, et cum fluxionibus sub initio pro-
+positis comparandae. Nam si prodeunt aequales,
+conclusio recte se habet; sin minus, corrigendae
+
+sunt fluentes sic, ut earum fluxiones fluxionibus “
+
+sub initio propositis aequentur. Nam et fluens
+pro lubitu assumi potest, et assumptio oon-igi,
+ponendo fluxionem fluentis assumptae aequalem
+fluxioni propositae, et terminos homologos inter
+se comparando. ¹
+
+169. Quoniam constantis quantitatis nulla
+est fluxio, et eedem proinde fluxio ,d z ex fluenti-
+bus κ, et z -1- α, colligitur3 fluens omnis que
+ex fluxione prima colligitur, augeri potest vel
+minui quantitate aliqua constante; quae ex flux-
+ione secunda colligitur, augeri potest vel minui
+quantitate cujus fluxio secunda nulla est; quae
+ex fluxione tertia colligitur, augeri potest vel mi-
+nui quantitate cujus fluxio tertia nulla est. Et
+sic deinceps in infinitum.
+
+170. Cum fluens composita, quae ex proposi-
+ta fluxione collecta. est, unicam vadabilem inclu-
+dinutfiuens {¹3¹- (ὁ-Ι-τ) Χὸ ο-ῥΙ-ο· ετξ, ςυκ’
+(166) deducta est ex fluxione c b -ξ- c ι’ 7} Χ,
+d τ, ita determinari solet constans adjungenda vei
+detrahenda : in fluente inventa loco variabilis τ,
+ponitur03 tum si fluens ipsa sit etiam 0, com-
+pleta est„ Si quid vero residuum fuerit, ut hic
+remanet {¹- b ν’ῖ-ἔ, hoc residuum cum signo
+contrario uenti primo inventae adjicitur, ut ha-
+beatur fluen—s- completa, {¹- (ὀΗ- τ) “>< b c ssc-E· ᾗ
+-· 33'- b Α] b c. , Hujus regulae ratio est, quod
+flue'ns inventa supponi possit exhibere aream
+curvae alicujus, cujus sit abscissa variabilis tc, adeo
+ut dum :c = o ; area, fluente expressa, sit etiam
+03 unde si in fluente primo inventa loco α’, sub-
+stiumtur o, sitque aliquod residuum, illud ex
+fluente den-ahi debet. Generaliter, quantit-s
+constans adjicienda vel subducenda ex natura
+quaestionis determinatur, aut arbitraria est.
+

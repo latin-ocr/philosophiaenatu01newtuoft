@@ -1,0 +1,84 @@
+226
+
+PHIL‘OSOPHIAE ‘NATURALIS
+
+- v.» Ἴης-μμ-
+
+[Μοτ. Gonnos.
+
+SECTIO VII.
+
+De corporum ascensu et descensu rectilineo.
+
+PROPOSITIO XXXII. 'PROBLEMA XXIV. ,
+
+Posito quodvis centripeta sit reciproce proportionalis quadrato distantiae lo-
+
+corum >a centro, spatia definire quae corpus rectd cadendo datis temporibus Ἰ
+
+describit.
+
+Cas. 1. Si corpus non cadit perpendicula· A
+riter, describet id (per Corol. 1. Prop. XIII.)
+sectionem aliquam conicam cujus umbilicus
+congruit cum centro virium. Sit sectio illa
+
+conica A R P B et umbilicus ejus S.
+
+Et pri-
+
+mo si figura ellipsis est3 super hujus axe ma-
+jore A B describatur semicirculus A D B, et
+
+per corpus decidens transeat recta D P C (J
+perpendicularis ad axem3 actisque D S, P S
+erit area A S D areae A S P, atque ideo
+Manente axe
+
+A B minuatur perpetuo latitudo ellipseos‚ et S j Ε
+
+etiam tempori proportionalis.
+
+semper manebit area A S D tempori propor- B
+
+tionalis. (θ) Minuatur latitudo .illa·in infini-
+
+tum: et orbe A P B jam coincidente cum axe A B et umbilico S cum
+axis termino B, descendet corpus in rectfi A C, et area A B D evadet
+
+tempori proportionalis.
+
+(ε) 591. Lemma. Si sectionis conicae latus
+rectum ad axem transversum pertinens perpetuo
+minuatur, et tandem evanescat, manente sectio-
+nis axe transverso, omnes ad axem ordinatae
+perpetuo minuuntur et tandem evanescunt, ac
+perimeter sectionis cum axe et umbilici cum axis
+verticibus coincidunt. Est enim, (ex conic.)
+ordinatae cujusvis quadratum ad rectangulum
+abscissamm in ratione datin lateris recti ad axem
+transversum; quare si manente axe transverso3
+ade6q. et abscissarum rectangu10‚ latus rec-
+tum perpetu& minuatur ac tandem evanescat,
+ordinans quadratum adeoque et ordinata ipsa
+perpetuo minuitur et tandem evanescit, et peri-
+
+Dabitur itaque spatium A C, quod corpus de
+
+meter'sectionis conicae cum axe coincidit. Por.
+ro ordinata per umbilicum aequalis est dimidio
+lateri recto (Vid. sup. in Cornicis Theor. ΙΙΙ.
+de Hyperbola et de Euipsi et Cor. 1. Tbeor. 1.
+de Parab.) adeoque quadratum dimidii lateris
+recti est ad rectangulum ex distantiis umbilici
+a verticibus, ut latus rectum ad axem trans-
+versum, unde rectangulum sub quarta parte
+laveris recti et axe transverso aequatur rectan-
+gulo ex distantiis umbilici a verticibus; quare
+evanescente latere recto et manente axe trans-
+verso, rectangulum sub distantiis umbilici a v‘tr-
+
+ticibus nullum fit, et umbilicus cum proximo ·
+
+vertice coincidit.
+

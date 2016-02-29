@@ -1,0 +1,89 @@
+204
+
+PHILOSOPHIAE NATURALJS [Mor. eoarot.
+
+lis est, ideoque omnia spiralis puncta per aequationem finitam inveniri pos-
+sunt: et propterea -rectae cujusvis positione datae intersectio cum spinuli
+inveniri etiam potest per aequationem finitam. Atqui recta omnis infinite
+producta spiralem secat in punctis, numero infinitis, et (Β) aequati0‚ quii
+
+ 
+
+perpendicula Q r, p L, et eodem tempore quo
+punctum a, percurret arcum a m, punctum p
+percurret rectam L n; quiipropter nascente arcu
+a m, erit L n ut velocitas puncti p in recta P s,
+hoc est, (per hyp.) ut quadratum rectae P Q;
+porro ob triangula similia P am, P Qr est
+
+PazPQ=aszr= PQP>2⁸ m
+
+, ac
+proinde sectoris nascentis P Q q area ἦ Q r Χ
+Ρ Q: P Q ² >< a m
+2 P a
+2 Ρ a, sint quantitates constantes (ex hyp.) erit
+sector P Q q, nascens seu fluxio areae P A Qut
+P Q 2, atque ideo ut nascens L n, seu ut fluxio
+rectae P p, et hinc tota area fluens P A Q, erit ut
+tota recta fluens P p, (Cor. Lem. IV.) Q. e. d.
+561. Puncta p et Q referantur ad rectam A B,
+
+ 
+
+ 
+
+ 
+
+. Cum igitur a m et
+
+positione datam demissis ad A B perpendicula--
+
+ribusQ H, stitque area P A Q, aequalis
+quantitati finitae E ex lineis variabilibus P H,
+Q H et aliis constantibus quomodolibet compo-
+sitm, et quoniam linea P p areae P A Q seu
+quantitati finitae E proportionalis est (360) linea
+illa exprimi poterit per factum ex quantitate Ε
+m quantitatem constantem B, eritque P p= Ε
+>< B aequatio finita. Verum ob similia triangula
+P F p, P H Q et angulum ad H rectum,
+Pp2pF=PQ‚ seu xlm—1³²²
+
+QH‚eth2PF=PQsequfi²-41QH2=
+
+P H, et praeterea ex natura ovalis A Q C B,
+datur alia aequatio inter P H et Q H, in-
+veniuntur erg& quatuor oequationes finitae qun
+simul quinque tantum variabiles, nimirum P p,
+P F, p F, P H, Q H continent, quaeque pro-
+inde ad unicam aequationem finitam poterunt
+reduci in quii duae tantum variabiles P F.
+p F reperientur, adeoque per hanc aequafionem
+finitam omnia spiralis puncta inveniri pote.
+runt, et propterea rectae cujusvis S p pom'ti-
+one datae intersectio p cum spirali inveniri etiam
+poterit per aquationem finitam 3 cum enim duoe
+rectae S p, S B positione datae sint, linea S P
+magnitudine et triangulum S p F specie dantm’,
+ethincdaturratiolineae S F seu S Pss P F
+ad F p, et nova invenitur aequatio inter P F et
+F p ; per hanc igitur aequationem et per alterum
+quae ad spiralem est, deoermimbuntur P F, et
+Fp‚ punctumque intersectionis p invenIeturper
+aequationem finitam.
+
+(θ) 362. Lineae duae.s.M S, S m s se mutua
+intersecantes in punctis S, s ad eandem rectam
+A Q positione datam referantur, sintque A Q,
+A P abscissae communes, et QS, PM, Pm
+ad eas ordimtae3 quonjam in communibus linen-
+rum S M s, S m s, intel-sectionibus S, S, ordinatu
+P Μ, P m sunt equales, si in duabus ad linea
+S M s, S m s aequationibus, manente abscissa
+communi, loco ordinatarum P M, P m, endan
+
+scribatur littera, v. gr. y, et deinde ex iuis oqua-
+
+ 
+

@@ -1,0 +1,62 @@
+180 V PHxLosOPHJAE NATURALIS [Mo'r. Coneon.
+
+sibit per centrum -trajectoriae. Rursus figurae quadrilaterae¹ Β. G D F
+sub *aliissquibusvis quatuor tangentibus contentae, diagonales (ut ita dicam)
+B D, G F biseca in P et Q: et recta P Q per puncta bisectionum. acta
+transibit per centrum trajectoriae. Dabitur ergo centrum in concursu bi— ·
+secantium. Sit illud O. (¹²) Tangenti cuivis* B C parallelam age K L,
+ad eam distantiam ut centrum O in medio inter parallelas locetur, et
+acta K L tanget trajectoriam describendam. Secet haec tangentes alias
+quasvis duas G C D, F D E in L· et K. Per harum tangentium non paral-
+lelarum C L, F K cum parallelis C F, K L concursus C et Κ, F et L
+age C K, F L concurrentes in R, et recta Ο R ducta et producta secabit
+
+tangentes parallelas C F, K L in* punctis contactuum. Patet hoc per
+Corol. 2. Lem. XXIV. Eadem methodo invenire licet alia contactuum
+
+puncta, et tum demum per construet. Prob. XIV. trajectoriam describere.
+
+Q. e.f.
+
+Scholium·
+
+Problemata, ubi dantur trajectoriarum vel centra vel asymptoti, inclu-
+duntur in praecedentibus. (⁰) Nam datis punctis et tangentibus una cum
+
+dantur lineae e Q, E q, linea easbisecans erit lo- tangentibus non parallelis vel duabus tangenti.
+cus centri figurae: quue semper verum erit bus convergentibus et puncto, vel tangente et
+quamcumque figuram faciant lineae E D, e q. punctis duobus, vel punctis tribus, dantur aex
+EQ, QB sive sese decussent sive trapezium con· tangenteS, vel tangentes quatuor et puncta duo,
+stimant, concipiatur illas diametros duci quarum vel tangens et puncta quatuor, vel puncta sex,
+vertex estin puncto contactus harum linearum do-
+nec occurrant curvae altero suo vertice, tangentes
+in eovertice ductae erunt parallelae prioribus: Da-
+buntur ergo parallelae duabus lineis E D, Q B,
+quae erunt tangentes curvae, ideoque fiet ut in
+Lemmatis hypothesi parallelogrammum MIKL
+
+constans quatuor tangentibus quarum opposi-
+tae erunt inter se parallelae, et tangentes E Q et
+e q considerari poterunt ut quinta et sexta tan-
+gens de quibus agitur in hoc Lemmate‚ ideoque
+per ejus Corollarium 8. si bisecentur lineoe Eq,
+e Q et recta per bisectionum puncta agatur, *ransi-
+bie haec per centrum Sectionis Conicae, διε.
+
+(b) 337. Datis sectionis conicae centro Ο, et
+tangente quavis B F, altera tangens L K datae
+parallela facile invenitur ; Nam per centrum Ο
+ducatur recta quoevis infinita M Ο N tangenti
+datae occurrens in N, et sumpta Ο Μ = O N
+per M ducatur M K tangenti datae F B para]-
+lela‚ erit M K tangens ; si enim per punctum
+contactus T et centrum Ο agatur sectionis dia- quibus datis trajecten-ia describi potest per Prop.
+meter T O S, erit S O= 0 Τ et tangens in S (27. 26. 25. 24. 25. 22). Ex datis centro,
+tangenti in T parallela lineam N Ο Μ ita seca- alterutro axe, et duabus tangentibus non panl-
+bit in M, ut sit M Ο = O N, ob, S Ο z Ο Τ lens, vel tangente et punctu trajectorioe Emod-
+= M Ol: O N. coe nt Hyperbolicoe ex Lemmatibus sequentibus
+
+(ο) 5:38. Hinc datis praeter centrum tribus facile describuntur.
+
+ 
+

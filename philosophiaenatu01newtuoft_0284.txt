@@ -1,0 +1,116 @@
+248
+
+PHILOSOPHIAE NATURALIS
+
+[Mor. Conpon-
+
+sides trajectoriarum expedite inveniri possunt. Sunt enim apsides puncta
+illa in quibus reeta Ι C per centrum ducta incidit perpendiculariter in
+
+ente in V, datur spatium V S quod corpus in
+fila tangente dato tempore quo describitur area
+V 1 C uniformi motu describeret. Porro juncta
+
+ 
+
+C S, area trianguli C S V aequalis erit areae
+V Ι C, quam corpus in curva V Ι K motum
+describit eodem tempore quo uniformiter per-
+curreretur V S. Nam tempusculo nascente
+velocitate aequabili spatium V m describatur in
+tangente V S, et eodem tempusculo arcus V n
+describatur in curve V 1 K, erit (per Prop. I.)
+area V C m = V C n, et ob velocitatem uni-
+formem in tangente singulo tempusculo lincolae
+aequales V m, m p, διε. percurrentur ideoque
+aequabuntur triangula V C M, m C p, δια, sed
+pariter omnes areae aequalibus tempusculis de-
+scriptae in curva V I K aequantur areae V C n
+sive V C m, unde patet summam arearum
+V C m -Ι- m C p 4, &c- aequalern esse sum-
+mae arearum quae eodem tempore in σαι-νᾶ de-
+scribuntur, hoc est, totas areas V C S, V 1 C,
+eodem tempore descriptas esse aequales. Cum
+igitur data sit tangens V S et perpendiculum
+C Q in eam ductum, ex tempore dato dabitur
+area trianguli V C S, et area V I C ei aequalis;
+Hincque concessis figurarum quadraturis, inve-
+nietur area VD b a=VCS=VIC, et
+iude dabitur V D, atque C D = C v— V D;
+dabitur quoque constans Q, = Q C ><
+4! A B L V (418).
+
+420. Si ponatur variabilis I C = C D=
+x, dataVC=a, erit VD=a—x et Z==
+
+ἶ, concessisque figurarum curvilinearum qua-
+draturis area A Β F D exprimi poterit per dap
+tas A V, V C et vadabilem x, ac proinge'iisdem
+
+quantitatibus exprimi poterunt 241-sz
+
+Q><CX2
+
+a&
+
+ᾳ A A VWZLZ’ ’ω “dim
+timapplicatoe D b, D c; et hinc obtinebuntur
+
+ 
+
+ 
+
+aequationes ad curvas a b, a c, ex constantibus
+et solis variabilibus C D, D b, vel D c, compo-
+siue, curvaeque illae poterunt describi. Quonim
+porro est (per constr.) sector V C ξ, 1:gqualis
+2 c a
+2
+
+quare invenitur angulus V C X, et inde punc-
+tum 1, in trajectorifi V Ι K.
+
+421. Scholium. Data vi centripeta in singu.
+lis locis trajectoriae V Ι Κ, et concessis fi omum
+curvilineamm quadraturis, trajectoria Ι Κ
+describi potest, ut in Probl. XXVIII. licet gra-
+vitates massis non supponantur proportionales,
+nec vis centripeta aequalis in aequalibus a centro
+distantis. Nam factum M χΙ Ε G, ex cor-
+poris massa M in perpendiculum E G, ejusdem
+corporis gravitatem in loco quovis Ι exhibeat,
+sitque Β L F G curva quam punctum G
+perpetuo tangit, velocitas in loco V dicatur
+C, linea A B ita abscindam ut sit am
+ABLV=5 C C3erit velocitasin 1=
+V2VLFD-f-2A v(416).idest
+=4J2AB FD'‚ade6que utuA BFD,
+unde lineola Ι K dato tempore quam minimo
+desoripm eric ut 4! A B F 1), et tmngulum
+I C K, &c- Caetera. quae in Probl. XXVIII.
+solutione sequuntur ratiocinia et constructiones
+manent eadem.
+
+areoeVDca,eritarcusVX=
+
+ 
+
+ 
+
+422. Trajectoria V Ι Κ. ὀὲ ratio-
+nalis est ubi per aequationes finitas inveniri potest
+sector circuli aequalis areae V D c a: et hujus
+sectoris radius est ad C X radium, dre-xli
+V X Y,utnnad 1 estque nn numeru· n-
+tionalis positivus integer vel fracms. Sit enan
+sectorcirculiLPC=areaeVD c a, idest,
+
+ualis sectori V C X, sitque radius C P ud
+
+iumCV,utn‚ ad 1, erit C P><PL==
+CVXVX,etCchv=ntl=
+et C
+
+u<
+3⁴
+

@@ -1,0 +1,113 @@
+LIBER anua] PRINCIPIA MATHEMATICA. 57
+
+scholium.
+
+Coeterum in his omnibus supponimus angulum contactus nec infinite
+majorem esse angulis contactuum, quos circuli continent cum tangentibus
+suis, nec iisdem infinite minorem3 hoc est, curvaturam ad punctum A, nec
+infinite parvam esse, nec infinite magnam, seu intervallum A J finitae esse
+magnitudinis. (ἒ) Capi enim potest D B ut A D ³: quo in casu circu-
+lus nullus per punctum A inter tangentem A D et curvam A B duci po-
+taet, proindeque angulus contactus erit infinite minor circularibus. (Β)
+Et simili argumento si fiat D B successive ut A D ⁴, A D ⁵, A D ⁶, A D ⁷,
+
+Cor. 1. Prop. 252. Lib. V. Quadmturae circuli. E A D, cum ergo angulus E A D, aucto in infi-
+aut Archimed. Prop. 17. Quadrat. Parabolae. nitum latei-erecto AL, possit sine fine minui, ma-
+(ἰ ) 132, Sit A D nifaetum ωε angulum contactus B A D, quovis
+
+      
+     
+
+parabola, Ap- angulo dato Ε A D, infinite minorem esse. Q. e, d.
+pollouinuae A 133. Ad eundem axem A C, et verticem A,
+E F, axis A C, successive describantur curvae A E E; ejus na.
+vertex A, tan· C turae, ut abscissarum A· C, et ordinatarum C Ε,
+gens in vertice relatio exprimatur aquatione generali AmA 3
+A D, ordina- = C Εω-Ι- ¹. Si loco exponentis, m, succ ‘
+
+ta C E, latus
+rectum A L, L*
+circulus diam-
+etro A L, de· Q
+scriptus para-
+bolam oscula-
+1uriEA,(130-) C
+eundemque ac
+parab91a con-
+tactus angu-
+lum efficit in A.
+Ad eundem
+nem A C,
+et verticem
+
+ponantur in aquatione numeri quilibet positivi,
+integri vel fracti continuo crescentes vel decr-ef
+scentes, obtinebuntur infinitae series diversae an-
+gulorum contactuum, quorum quilibet est infl-
+nite minor priore, dum numerus, m, semper
+crescit, et infinite major dum numerus, m, sem-
+per decrescit. Dcm.-—Nmnerus, m, augeatur
+numero positivo. n, integro vel fracto, et descri-
+batur curva A Β Β, cujus aequatio sit B ¹¹² ‘i- ⁸ χ
+AC=CB¹¹²÷⁸÷¹0 Ethnc ationeet
+superiori A mA C = C Ε ¹¹¹÷¹, reperitur
+AC=CB¹¹¹÷¹¹÷¹= Bm÷¹¹=CE¹²¹÷ ¹:
+A”,ade6q=2eCB¹¹²÷¹¹-÷-¹=CE¹¹¹÷¹><
+C Β ““ ad B ¹¹² -Ι- “ = A ¹¹²
+
+⁵A. describatur superioris generis parabola cujus
+ordinatae C B sint semper in subtriplicata abscis-
+sarum A C, vel parallelarum et aequalium =D B,
+tatinum et erit angulus contactus B A D, angu-
+· lo contactus E A D, infinite minor. Beni.—
+Parabolae A F E, latus rectum A L. dicatur A;
+parabolae A RB, latus rectum sit B. et erit ex
+harum curvarum natur& A Χ A C= C E ² et
+B²>< A C= C B³,ade6que AC=C Εἲς
+A = C Β3 = 13², undereperitur C 13³ =
+cE² Χ 13²: A,etCBad 13²: A=CE2
+ad 'C B²ergo cum eritcB= B²= A,tunc
+eritCE²=C B2,atqueadeopambolaeAE E,
+A B B, ordinatam habebunt communem quae
+dicatur Q, F, et sese intersecabunt in puncto F ς
+jam veno si fuerit C B minor quam Β2 2 A, erit
+quoque C E² minor quim C 13², ade6que C E
+minor C B; sed omnes ordinatae inter ver-
+tieem A, et ordinatam communem QF, (quae
+est= Β2 2 A) minores sunt ea, ergo omnes
+C E inter A et F comprehensae sunt minores
+ordinatis correspondentibus C B, tota igit-ur pa,
+rebolae Appollonianae portio A E F, qua ordinatae
+C Ε terminantur, cadit intra} portionem A Β F,
+alterius parabolae, ac proinde angulus contactus
+B A D. semper minor est angulo contactos
+
+Β ¹¹¹ 4- ³ z A ¹¹¹ atque
+= C Ε““’-Ι-ι ad C B²÷¹; sit C B¹¹=
+Bm÷=z Am, etexitc Bm÷¹= C Em÷¹‚
+adeoque C B=C E ==Q F. Quare cum
+=inter verticem A, et communem ordinatam Q F,
+omnes ordinate sint minores ipsa Q F, patet
+ut supra (132). totam portionem A E F, curvae
+A E E, cadere intra portionem A B F, alterius
+curvae A B B, ac proinde angulum contactus
+B A D, qumis dato angulo contactus E A D
+infinite minorem esse, et reciproce angulum
+{A lg, esse angulo B A D infinite majorem.
+e.
+
+(Ε) 134. In aequatione A '¹’ Χ A C =
+C Ε “¹ -ὓ- ¹, loco exponentis m, successive ponan-
+tur numeri l, 2, 3, 4, 5, &a et erit A C succes-
+sive> ut cE2, 0133, (313⁴, CE5, &ce et
+habebitur (138) series angulorum contactus por-
+gens in infinitum, quorum quilibet posterior est
+infinite minor priore. Loco m substituantur
+successive numeri decrescentes, 1, ὲ, ὲ, ἦ, ᾗ,
+&a erit A c, successiva. ut c E²‚ c E ᾖ, c Eg,
+
+C E ἦ, διε. et habebitur alia series infinita
+angulorum contactus, q m primus est ejus-
+‘Jemfienffi'fs cum circumis (132), secundus
+mfinite major, et quilibet posterior infinite= major
+

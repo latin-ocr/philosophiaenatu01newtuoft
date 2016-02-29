@@ -1,0 +1,118 @@
+Lmna Pinnos] PRINCIPIA MATHEMATICA.
+
+1 Η HG=DGergoestAEx BE÷
+
+H>< H: AE><BE=DG>< CG÷
+GH><1H= CG>< DG. etdividendo: EH
+><FH= ΑΕΧ BE=GH><1H2 CG><
+D G , ergo alternando E H Χ
+FH: GH>< 1 H=AE><BE ε CG><
+
+Eadem est demonstratio sive lineae sint in eadem
+Hyperbda, sive, una sit in unzi Hyperbolfi alte-
+ra inter oppositas. sive ambae inter oppositas du-
+cantur. Ergo facta partium, etc.
+
+Lem-ma ΙΙΙ. Sint duae Paralleloe in sectione
+Conica ductae quae secentur per lineam quamvis,
+facta partium uniuscujusque Parallelae sumpta-
+rum a curva adpunctum ejus intersectionis, sunt
+inter se ut facta partium lineae secantis sumpta-
+rum a curva ad punctum intersectionis cum
+
+Sint A B, CD, parallelae sectae perlineam
+EFinpunctisGetH‚ estAGxGB: CH
+><HD=EG>< GF: EHxHF.
+
+Sit V, vertex coni, ex eo ducantur V E, V F
+ad exuemitatae lineae Ε F; dueatur in Β Α,
+planum V A B, per verticem coni transiens et
+ln C D planum Hyperbolarum ipsi Parallelum,
+in planoV BA dueaturVG, etinH‚ HM
+ipsi V G parallela quae jacebit in plano Hyper-
+
+ 
+
+bolammzeruntergo ‘ vGEetMHE‚
+VGFetIHFsimilia unde habentur hae pro-
+pemonae VG:MH=EG: ΕΗ
+
+et VG:.IH=FG, FH, et per
+composmonem ratioms ’ ·
+
+’89
+
+·v-G²2MH><1H=EG>< GFAEH‘X
+
+Lineae V E, V F ductae per verticem coni et
+punctum in ejus superficie sumptum sunt semper
+in superficie coni, ergo earum intemectiones
+1 et M eum linean M in plano Hyperbolarum
+ducta sunt in ipsa curva Hyperbolicfi cujus
+Asymptoti sint T N, T P parallelae lineis V A,
+VB; pei-punctum Iinquo linea HM occurrit
+Hyperbolae ducatur S 1 R lineis Dc et A B
+parallelo, similia erunt Triangula V A G et
+LRI, VBG et KSI lineis enim parallelis
+
+Μ’νωὲῗᾍὲοῦ-ε L 1212 1
+
+etVG: GB=K1281etpercom-
+positionem rationis
+VG²z AG>< GB=L1xK1=R1><SI
+{I=.PD>< DNper Lem. 1.) Sedper Lemma
+
+. oet
+L1><K12 PD><DN=MH><1H= CH
+>< D H est ergo
+v-62: AG>< GB=MHXIH: CH><
+D H et alternando
+v—G22MHx1H=AG><GB: CH><
+
+EratautemVG²= MH>< IH=E G><
+F G ε Ε H >< F H, ex prima demonstrationis
+parte, est ergoAGxGB: CHxDH=
+EG>< FG: EHxFH. Q.e.d.
+
+Cas. 2. Si punctum F infinite distaret a puncto
+E, linea F G aequalis censenda foret lineae F H,
+ideoque EG><FG2EH><FH=EG2
+EH=AG>< GB: GHxDH, hoc oet
+ipsae partoe secantis forent inter se sicut facta par-
+tium parallelas-um quas secat.
+
+Cas. 3. Si punctum F non foret in eadem
+{aftfflsssssffisssfflo‘ “maisi {113¹ Ρῖῃᾞῖῗῗέ
+I, in eadem Hyperbola forent.
+
+Cas. 4. Eadem etiam fiet demonstratio sive
+puncta G etH sint intra extremitates Paralle-
+larum A B, C D, aut intra vertices E et F
+lineae secantis, sive sint extra. ‹
+
+Curol. 1. Sumatur medium lineae secan-
+tis puncta E et F sitque c, si intersectio ejus
+lineae per Parallelam sit intra vertices, erit
+factum partium ejus aequale quadrato ejus
+dimidii dempto quadrato ejus portionis a
+Centro ad intersectionem sumptae, ἠν. gr. erit
+E G >< GF=c‘E2-c G2 ui liquet per 5. 2.
+Elem. Si intersectio ejus lineae sit extra verti-
+
+“ ces, erit factum ejus partium aequale quadrato
+
+portionis ejus a Centro ad intersectionem sumpte
+dempto quadram-limidiae lineae, v. gr. foret
+ῙῙΞῙΞΠΧ GF=c G2-cE2, ut liquetper 6. 2.
+
+ 
+
+Corol. 2. Ex puncto quovis ductae sint duae
+Tangenoes ad sectionem Conicam‚ et ex quodam
+puncto unius ex illis ungentibus, dueatur linea
+trans sectionem Conicam alteri Tangenti paral-
+lela- Quadratum prioris Tangentis est ad qua-
+dratum alterius T angentis ut quadratum partis in
+primii Tangente assmn'ptae ad factum lineae Paral-
+lelae alteri tangenti per ejusParoem inter Tangen-
+

@@ -1,0 +1,65 @@
+mez ramus] PRINCIPiA MATHEMATmA. 885
+
+PROPOSITIO LXXXIII. PROBLEMA XLII.
+
+Invenire vim qud corpusculum in centro sphoeroe locatum ad ejus segmentum
+quodcunque atu-abitur.
+
+'Si P corpus in centro sphaerae, -et R B S D segmentum >ejus plano
+R D S et superficie sphaericfi R B S contentum. Superficie sphaericii
+E F G centro P descripta secetur D B in B
+F, ac distinguatur segmentum in partes
+BREFGS,FEDG. Sitautemsu- . E
+perficies illa non pure mathematica, sed
+physica, profunditatem habens quam mi-
+nimam. Nominetur ista profunditas O,
+,et erit haec superficies (per (5) demonstra-
+ta Archimedis) ut P F Χ D F Χ O. Po-
+namus praeterea vires attractivas particu- P D
+larum sphaerae esse reciproce ut distantia-
+rum dignitas illa, cujus index est n; et
+vis, qufi superficies E F G trahit corpus P,
+
+D E q Χ Ο
+
+ 
+
+ 
+
+erit (per Prop. LXXIX.) ut P F 1. ν , G
+id (2) est, ut fflQ—D-Fp—qlqz-q· S
+
+Huic proportionale sit perpendiculum F N ductum in O; et (⁸) area wr-
+vilinea B D 1, quam ordinatim applicata F N in longitudinem D B per
+motum continuum ducta describit, erit ut vis tota qua segmentum totum
+
+R B S D trahit corpus P. Q. e. i.
+
+perpendiculari -et sphaerae occurrente in H et F (ἲ) ⁸ Id ese, διο. Num (per Prop. 13. Lib.
+vis qua sphoeraesegmentum Α H F corpusculum 6, Elem.) 1) Ε 2 = W χ D p
+
+ 
+
+ 
+
+ 
+
+fn contactu, 1 situm versus A trahit, est etiam D E 2 0
+infinita in eadem virium hypothesi. Nam partes = 2 P F Χ D F — D F ²· Quat& ξ
+omnessegmemimvilanKFLcorpusin —2DFXO DF²><0 PF
+1 positum ad centrum S trahunt, ideoque a solo '- - ..- ‚
+
+Δ segmento A H F a centro versus A retrahitur, P F ῃ — ι P F ῃ
+sed vi infinita a centro retrahitur 535. Ergo, (²) 537. ' Et ama cundlinea, &a Si seg.
+ἃς, mentum R B S D R, in laminas innumerus
+
+(Υ) ” Per demonstrata Archimedis. Nam profunditatis evanescentis-o divisum intelliga-
+(515) elementum superficiei E F G, est ut P F tur, et capiatur semper perpendiculum F N, vi
+ducta in elementum lineae D F, adeoque ob da- singularum laminarum proportionale3 manif&-
+tam P F, respectu superficiei totius E F G, su- mm est (per Lem. 4.) summam elementorum
+perficies illa (165) erit ut P F >< D F, et pro- F N >< O, seu aream curvilineam D N 1 B,
+inde lamina ex hic superficie et profunditate O, proportionalem fore summm virium*- Sit iginu-
+genitaeritutPFxDFxO. PD=a‚PF=x,DF=x—n,etcrit
+
+Vm.. 1. Bb
+

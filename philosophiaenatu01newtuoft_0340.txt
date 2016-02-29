@@ -1,0 +1,75 @@
+304 PHILOSOPHIAE NATURALIS [Mor. Gomon,
+
+PROPOSITIO LVI. PROBLEMA XXXVII.
+
+Conces‘sis figurarum curvilinearum quadraturis, datisque tum lege vis centri--
+petae ad centrum datum tendentis, tum superficie curva cujus axis per cen-- Δ
+trum illud transit ,- invenienda est trajectoria quam corpus in eadem su-
+peffi'cie describet, de loco dato, data cum velocitate, versus plagam in
+superficie illd datam egressum.
+
+‘Stantibus quae in superiore propositione constructa sunt, exeat corpus
+
+485. Lem. Sint ellip- 485. Corol. 1. Iisdem positis, si centro T,ra-
+
+seos datae L S mn axes Ο dio quam minimo T t, circellus in superficie
+kl)
+
+L m, S n, centrum P, curva B A T L describatur, circellus ille- evan-
+
+Ο punctum in axe n S escens erit in plano superficiem curvam tangente.
+
+producto datum, p punc· in T, adedque angulus inclinationis plani BOLQ,
+tum perimetri non dap - ad planum circelli evanescentIS productum,‘
+tum. Dat& area trian- S aequalis erit angulo G T N, (484).
+
+guli Ο p P, dabitur per· 1· 486. Corol. 2. Si circellus radio T t descrip-
+pendiculumpr‚ ex punc· tus projiciatur in planum B O L Q, illius pro-'
+to p, ad trianguli basim ’Π L jectio l s m n, erit ellipsis (482) cujus axis major
+datam P O demissumet Ἥ lm aequah's est et parallelus circelli diametro
+hinc ex natur& ellipseos v T t, quae pars est evanescens circuli A T D,
+dabitur-r P, atque ob an- ῃ· axis minor s n pars radii O F, et l m erit ad s n
+
+gulum rectum ad r, dabitur P p, et inde punc- ut T G ad T N. Est enim circuli peripheria·
+tum p in perimetro cum angulo O P p, et nosi- A T D adeoque et pars illius v T t, plano
+tione rectae Ο p. ι μ Β ,Ρ L Ο parallela3 Quare (481) dIametri
+
+484. Lemma. Superficies curva R A Ἰ Κ L, v T t projectio m l, erit linea parallela et aequap
+describatur revolutione curvae Β A Κ circei ax- lis ipsi v t; erit quoque 1 m, ad radIum Ο P F
+em suum immobilem O C,
+et singula curvae illius
+¹ puncta B, A circulos B Q„
+L, A T D describent ;
+cum curva B A K perve-
+nit ad situm F T K, et
+punctum A ad T, agantur
+recta GTH curvam FTK
+tangens in T et axem se-
+cans in G, ac reeta v T t
+circulum A T D tangens
+in eodem puncto T, sitque
+G T H, in plano curvae
+O F K, etv T t, in plano
+circuli A T D. Manifes-
+tum est planum quod su-
+perficiem curvam B A T
+K L tangit in T, conve-
+nire cum plano in quo
+suntrectae G T H, v Tt;
+et si fuerit Ο centrum cir-
+culi B F QL, et ducatur
+radius Ο F tangenti G T
+occurrens in H, angulum
+G H Ο fore aequalem an-
+gulo inclinationis plani
+circuli B Q L O, ad plur
+num quod superfi ciem cur-
+vam tangit in T; Ducto
+
+ 
+
+ 
+
+autem circuli A T D radio T N, fore angulum normalis ob v t ad T N perpendicularem, pro-
+G T N, aequalem angulo inclinationis G H O. indeque axis minoi· ellipscos s u crit pars radii
+

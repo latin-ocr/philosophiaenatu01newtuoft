@@ -1,0 +1,51 @@
+Lnum Paruum] PRINCIPIA MATHEMATICA. 155
+
+ideoqueutP TadD H; et vicissimPQad PT utD E adD H. Est et
+P R ad D Fut R C ad D C, ideoque ut (Ι G vel) P S ad D G, et vicissim
+P R ad P S ut D' F ad D G 3 et conjunctis rationibus fit rectangulum P Q
+Χ Ρ Rad rectiangulum PS χ Ρ Τ utrectangulum D E χ D F ad rec-
+tangulum D G Χ D H, atque ideo in data* ratione. Sed dantur P Q et
+P S, et propterea ratio P R ad P T datur. ν Q. e. d.
+
+Cas. 2. Quod si P R et P T ponantur in data ratione ad invicem, (¹¹²)
+tum simili ratiocinio regrediendo, sequetur esse rectangulum D E Χ Ι) F
+ad rectangulum D G Χ D H in ratione data, ideoque punctum D (per
+Lem. XVIII.) contingere conicam sectionem transeuntem per puncta A, B,
+. C, P. Q. e. d. ‚
+
+Corol. l. Hinc si agatur Β C secans P Q in r, et in P T capiatur P t
+in ratione ad P r quam habet P T ad P R: erit B t tangens conicae sec-
+tionis ad punctum B. Nam concipe punctum D coire cum puncto B, ita,
+ut chordfi B D evanescente, B T tangens evadat 3 et C D ac B T coinci-
+dent cum C B et B t. ,
+
+Corol. 2. Et vice versa si B t sit tangens, et ad quodvis conicae sectionis
+punctum D conveniant B D, C D; erit P R ad P T ut P r ad Pt. Et
+contra, si sitP RadPTut Prad Pt: convenient, BD, CD ad co-
+nicae-sectionis punctum aliquod D. ’
+
+Corol. 3. Conica sectio non secat conicam sectionem in punctis pluribus
+quam quatuor. Nam, si fieri potest, transeant duae conicae sectiones per
+quinque puncta, A, B, C, P, O; easque secet recta B D in punctis D,
+d, et ipsam P Q secet recta C d in q. Ergo P R est ad P Tut P q ad
+P T 3 (¹¹) unde P R et P q sibi invicem aeqnantur, contra hypothesin.
+
+LEMMA XXI.
+
+Si rectae duce mobiles et ἰφῃῖηἰίιε Β M, C M per data puncta B, C ceu polos
+ductae, concursu suo M· describant tertiam positione datam rectam M N ς
+ct aliae duoe iigfinitae rcctae B D, C D, cum prioribus duabus ad puncta illa
+
+Geometrifi Car-tesius per calculum anaiyticum mutuo intersecentin punctis Ο et B, (per hyp.)
+generaliter resolvit. duci poterit recta B D, quae duos sectionum
+
+(¹²¹) ’ Nam si PR et P T ponantur in ra· arcus in B et 0 convenientes secet in punctis
+tione data, erit qu ue ob datas P Q, P S, duobus, eritque per Coroll. 1. Lem. XX. P R ι
+rectangulum PQ>< R, ad rectangulum P S P T= P r: Pt= P q: PT, adeoqueP R:
+Χ Ρ T, in ratione data ; sed per demonstrata P T = P q t P T, unde P R et P q sihi invi-
+m 10. casu P Q Χ Ρ R z P S χ Ρ T= D Ε cem aequantur, ac proinde C d, coincidit cum
+χΙ) F: D H Χ D G; ergo D E Χ DFad C D, et punctum d, cum puncto Ἰ), (contra
+D H Χ D G in ratione data. hyp.).
+
+(¹¹) ⁸ Cum enim duae sectiones couicae se-
+

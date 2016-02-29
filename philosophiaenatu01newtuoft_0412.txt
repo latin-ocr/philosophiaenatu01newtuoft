@@ -1,0 +1,58 @@
+376 PHILOSOPHIAE NATURALIS [Mor. conron. ·
+
+relinquit aream S L Χ A B. Pars autem tertia ΑΙΛήΙᾙ-Βη ducta itiaem per
+motum localem normaliter in eandem longitudinem, describet aream hy-
+perbolicam; quae subducta de areii S L Χ
+Α Β relinquet aream quaesitam A N Β.
+Unde talis emergit problematis constructio..
+Ad puncta L, A, B erige perpendicula L l,
+A a, B b, quorum A a ipsi L B, et B b ipsi
+L A aequetur. Asymptotis L l, L B per
+puncta a b describatur hyperbola a b. Et
+acta chorda b a claudet aream a b a areae
+quaesitae A N B aequalem.
+
+Eaeempl. 2. Si vis centripeta ad singulas sphaerae particulas tendens sit s
+reciproce ut cubus distantiae, vel (quod perinde est) ut cubus ille applica-
+
+ 
+
+ 
+
+Caeterum per methodos vulgares casus iste et super asymptoto L B erigantur perpendicula
+sequenti ratione solvitur. Sit A D = x, D d duo infinite propinqua, D F, d f, hyperbolae
+= dx erit areae A N D fluxio DN χ D d= occurrentia in Fetf, sitque A D=x, Dd=
+2 S L >< d x— L A Χ dx— x dx— dx,eter·it (pei-Theon 4. de Hyperbolfi) LA
+ALBxdx Primitemini2SLde' ><Aa=LD><DF,ade6queDF=
+
+Μ) LAXAa—ALB,etDF><Dd‚seu
+
+fluens(165)est2SL><x=2sL><AB‚ -Ln -“ LD
+
+ 
+
+ 
+
+ 
+
+ 
+
+{biaA ἓίεὲζῗὲὶ B.t{e211;giteminiLA fluxiomae Aa F D— AL Bxdx Qun&
+
+x u ns es x x x = -
+
+2 L A 4 A B, >( Α Β — L S ῑὲ area hyperbolica A a F D, aeItiussis est fluenti
+“ 2 ““ χ Β’ ‘1⁰⁸³‘ tertii termini, et area hyperbolica A a b B, est
+
+d5 x, seu A D, fit A B, Quas& duorum 9250, ejusdetn termini fluens, ubi x, seu A D τ.- A B·
+rum terminorum fluens est 2 S L >< A B — ΗΜ) ¹g¹ffl¹¹ snbductss de ¹'e‘ffflngUIO S L Χ Α Β,
+
+s L χ A Β sive S L Χ A B. J,m ut tertii sive de trapezio A a b B ipsi aequali, relinquet
+. A L B χ d x aream quaesitam A N B. Relinquitur autem
+
+termini L D fluens inveniatur describa- area a F b ας unde patet constructio.
+
+tur hyperbole A B, prout Newwnus praescribit, 523. Cor. 1. Si distantia corpusculi ,Ρ ⁸
+
+ 
+

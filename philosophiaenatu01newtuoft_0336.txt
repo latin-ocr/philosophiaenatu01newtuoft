@@ -1,0 +1,86 @@
+300
+
+PHILOSOPHIAE NATURALIS
+
+[Mor. coama.
+
+PROPOSITIO LIV. PROBLEMA XXXVI.
+
+concessis figurarum curvilinearum quadraturis, invenire tempora, quibus cor-
+pora vi qudlibet centrz'petd intimis quibuscunque curvis, in plano per cen-
+trum vae‘rizem transeunte descriptiS, descendent et ascendent.
+
+Descendat corpus de loco quovis S, per lineam quamvis curvam S T t R
+mplano per virium centrum C transeunte datam. J ungatur C S et divi-
+
+datur eadem in partes innumeras ae-
+quales, sitque D d partium illarum
+aliqua„ Centro C intervallis C D,
+C d describantur circuli D T, d t,
+lineae curvae S T t R occurrentes in
+T et t Et ex dats tum lege vis cen-
+tripetae, tum altitudine C S de qufi
+corpus cecidit3 dabitur velocitas cor-
+poris in alia qufivis altitudine C T
+(per Prop. XXXIX.) (¹) Tempus
+eutem, quo corpus describit lineolam
+T t, est ut lineolae hujus longitudo,
+id est, ut secans anguli t T C directe ς
+et velocitas inverse. Tempori huic
+proportionalis sit ordinatim applicata
+
+Q
+
+ 
+
+D N ad rectam C S per punctum D perpendicularis, et ob datam D d
+erit rectangulum D d Χ D N, hoc est area D N n d, eidem tempori pro-
+
+arum ac figurarum omnium oscillantium een.
+trum oscillationis determinatur, primus in horo-
+logio oscillatorio invenit ac demonstravit Huge-
+nius. Idem theorema suo quisque modo postea
+demonstrarunt fratres celeberrimi Jacobus et
+Joannes Bet-nonni, ille in Actis Lipsiensibus an.
+1691. et Commentariis Paris. an. 1703. Hi‘c
+vero in Actis Lipsiensibus et Commentariis Pa-
+ris. an. 1714. quorum demonstrationes exposuit
+clariss. Wolfius iu Elementis Mechanices. Her-
+mannus quoque lib. 10. Phoron. cap. 50. et initio
+Tomi 3¹. Acad. Petropol. duas ejusdem theore-
+matis demonstrationes edidit.
+
+Hugenius horologii oscillatorii parte 4³. Prop.
+22. distantiam centri oscillationis u puncto sus-
+pensionis in sphaerfi filo tenui suspense equalem
+esse invenit longitudini fili cum radio sphaerae ut-
+que duabus quintis partibus tertiae proportionalis
+ad lineam compositam ex radio sphoerae ac lon-
+gitudine lili et radium ipsum, hoc cst, si filum
+dicatur L, rudius sphaerae lt, distantia centri oscil-
+
+lationis a puncto suspensionis D, erit D = L
+Ἰ- R Ἰ- 5 (L -Ι- R)’
+non vero demonstrate nobis licet, cum his Pno-
+positionibus non utatur Autor noster.
+
+(¹) ⁸ Tempus autem quo corpus, διο. νΝηπ,
+Τ t, est spatium nascens velocitate uniformi des-
+criptum, est autem tempus quo spatium aliquod
+aequalbiliter describitgig) ut {pungui illugodifeote
+et ve ocxtas inverse . on· sl cen n-
+dio dato D d, aequali differentia rectarum Τ C, ’
+t C circulus describi intelligatur, erit T t secans
+anguli t T C, quare ob datum radium D d erit
+semper T t ut secans an li t Τ C. utque adea
+tempus quo desuibitur t erit ut iun temno di-
+recte et velocitas inverse. Sed dat& tan eme
+curv'ae S Τ R in puncto T detur anguli T t
+secans3 unde dabitur D N proportionali· tm-
+pori quo describitur T t.
+
+4⁷9. Eoemplu'm. Centrum virium C, in inss-
+nitum abeat, ut sit vis centripeta constans, illius-
+
+Sed haec omni. indicite,
+

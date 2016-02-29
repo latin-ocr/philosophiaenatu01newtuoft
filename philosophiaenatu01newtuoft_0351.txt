@@ -1,0 +1,64 @@
+Linum Fumea] PRINCIPIA MATHEMATICA. 315
+
+Corol. 3. corpora duo quaevis circum gravitatis centrum commune gy-
+ramia, radiis et ad centrum illud et ad se mutuo ductis, (Ε) describunt
+
+areas temporibus proportionales.
+
+PROPOSITIO LIX. THEOREMA XXII.
+
+Corporum duorum S et P, circa commune gravitatis cantmm C revolventium,
+tempus periodicum esse ad tempus periodicum corporis alterutrius P, circa
+alterum immotum S gyranlis, et figuris, quse corpora circum se mutuo des-
+cribunt, figuram similem et aequalem describentis, in subduplicatd ratione
+
+‚corporis alterius S, ad summam¹ corporum S ÷ P.
+
+Namque, ex demonstratione superioris propositionis, tempora, quibus
+arcus quivis similes P Q et p q describuntur, sunt in subduplicatfi ratione
+distantiarum C P et S P vel s p, hoc est, in subduplicatz‘i ratione corporis
+S ad summam corporum S ÷ P. Et componendo, summae temporum
+quibus arcus omnes similes P Q et p q describuntur, hoc est, tempora
+tota, quibus figurae totae similes describuntur, sunt in efidem subduplicatfi
+ratione. Q, e. d.
+
+PROPOSITIO LX. THEOREMA XXIII.
+
+Sa· corpora duo S et P, viribus quadrato distantiae suae reciproce proportiona-
+libus, se mutu& trahentia, revolvuntur circa gravitatis centrum commune.- dico
+quod ellipseos, quam corpus alterutrum P Icoc motu circa alterum S descri- ’
+bit, axis princtpalis erit ad axem principalem ellipseos, quam corpus idem
+P circa alterum quiescens S eodem tempore periodica describere posset, ut
+summa corporum duorum S ÷ P ad primum duorum medie* proportionalium
+inter hanc summam et corpus ill-ud alterum S.
+
+(f) Nam si descriptae ellipses essent sibi invicem aequales, tempora pe-
+
+(ε) ’ Describam areas temporibus proportio-
+nales. Nam tempora quibus describuntur areae
+quaevis similes s p q, C P 49, et s p v, C P V,
+sunt semper in datii ratione, nimirum, subdupli-
+catii distantiarum similium s p, C P (ex Dem.)
+et proinde tempus quo describitur area s p q, est
+ad tempus quo describitur area s p v, ut tempus
+quo describitur area C P Q, ad tempus quo des.
+cribitur area C P V; sed (per Prop. 1.) tempo-
+ra quibus describuntur areae s p q, s p v, sunt
+areis illis adeoque et areis similibus C P Q,
+C P V proportionalia, ergo areae C P Q, C P V
+sunt ut tempora quibus describuntur5 et quo-
+
+niam areae quas corpora S, P circum centrum
+gravitatis describunt similes sunt areis quas iis-
+dem temporibus describunt circum se mutu&
+erunt quoque areae istae proportionales tempori-
+bus quibus describuntur. k
+(f) Nam si descripta· ellipses, &c- Axis
+principalis ellipsium a·qualium, quas corpora S,
+P circum se mutuo describunt (ut ad Prop. 57
+exposuimus) aequalis est axi principali ellipseos,
+p q v, quam corpus p vel P, circ& corpus svel S,
+reversi immotum describit (ut in Prop. 58.)
+Hic axis dicatur A, tempus periodicum quod in
+ellipsibus quatuor quas corpora S, P circum C
+

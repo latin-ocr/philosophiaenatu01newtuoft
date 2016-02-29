@@ -1,0 +1,53 @@
+Lumn Paruum] PRINCIPIA MATHEMATICA. 14⁴1
+
+V· S, v S a rectis T R, t 1· perpendiculariter bisecentur, liquet (ex Lem.
+XV.) rectas illas trajectoriam descriptam tangere. Q. e. f. (¹²)
+
+cas. 3. Dato umbilico S describenda sit trajectoria quae rectam T R
+tanget 111 puncto dato R. In rectam T R, demitte perpendicularem S T,
+et produc eandem ad V, ut sit Τ V aequalis S T. Junge V R et rectam
+V S infinite productamseca in K et k, ita ut sit VKadSKethad Sk
+
+ut ellipseos describendae axis Principalis ad distantiam umbilicorum3
+circuloque super diametro K k
+descripto secetur producta rec-
+ta V R in H, et umbilicis S,
+H, axe principali rectam V H
+aequante, describatur trajecto-
+ria. Dico factmn. Namque
+VHesseadSH utVKad
+S K atque ideo ut axis princi-
+palis trajectoriae describendae
+ad distantiam umbilicorum ejus, (⁰) patet ex demonstratis in casu secun-
+do, et propterea trajectoriam descriptam ejusdem esse speciei cum descri-
+benda, rectam vero T R qna angulus V R S bisecatur, tangere trajectoriam
+in puncto R, patet ex conicis. Q. e. f.
+
+Cas. 4. Circa umbilicum S describenda Jam sit trajector-ia A P B, quae
+tangat rectam T R, transeatque per punctum quodvis P extra tangentem
+datum, quaeque similis sit figurae a p b, axe principali a b et umbilicis 5, 11
+descriptae. In tangentem T R demitte perpendiculum S T, et produc·
+idem ad V, ut sit T V aequalis S T. Angulis autem S V P, S P V fac
+angulos hq s, s 11 q aequales3 centroque q et intervallos quod sit ad a b ut
+
+ 
+
+S P ad V S describe circulum secantem figuram a p b in p. Junge 5 Ρ et
+age S H quae sit ad 5 11 ut est S P ad 5 p, quaeque angulum P S H angulo
+p s h et angulum V S H angulo p s q aequales constituat. Denique umbi-
+licis S, H, et axe principali. A B distantiam V H aequante, describatur
+sectio conica. Dico factum. Nam si agatur s v quae sit ad s p ut est s h
+ad 5 q, quaeque constituat angulum v s p angulo h s q et angulumv s h an-
+gulo p s. q aequales, triangula 5 v h, 5 Ρ q erunt similia, ¹ et propterea v h
+
+(”)⁸ Si describendasithyper 0111013,111 SV, QSX. Reieolquadmustratio adeeomestacpr
+versusvproducta‚ itasumanturpunctanKmk ellipsi.
+
+uit nuter uutnrmq epositumst si,tV caeteraque efiant (⁰⁸) Ce ntrocirculiliuemKn etam, jun-
+ut‘waroxuspraescribit, etquo niamVK. Ks ganturH X, HS,HV, et eademest demon
+
+=Vk2ks‚enth-VK.ks—Ks strautioqae casus2¹rop ellipsietsi produoenfr
+=VK21<s=VK÷vk2Ks÷ks RV SV ersusVu uuntp ¹²⁰1qu simmsu
+ede÷vx=2vx‚ks-Ks=21<x‚nmter'K eltk eadem quoqm em'tdemonsmfio
+vK÷vk=21<x,e2Ks-{-ks= pmhyperboli.
+

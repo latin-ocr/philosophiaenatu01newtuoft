@@ -1,0 +1,39 @@
+me ramus] PRINC1P1A MATHEMATICA. 31³
+
+les et-parallelae ducantur semper s p, s q; et curva p q V, quam punctum
+p revolvendo circum punctum immotum s describit, (b) erit similis et
+
+   
+
+aequalis curvis, quas corpora S, P describunt circum se mutuo: proinde-
+que (per Theor. XX.) similis cur* S T et P Q V, quas eadem corpora
+describunt circum commu'ne gravitatis centrum C: idque quia proportio-
+nes linearum S C, C P, et S P vel s p ad invicem dantur.
+
+Cas. 1. Commune illud gravitatis centrum C, per legum corollarium
+. quartum, vel quiescit, vel movetur uniformiter in directum. Ponamus
+¹ primo, quod id quiescit, inque s et p locentur corpora duo, immobile in s,
+mobile in p, corporibus S et P similia et aequaJia. Dein tangant rectae
+P RetprcurvasPQ etpqinPetp,etproducanturCQetsqadR
+et r. Et ob similitudinem figurarum C P R Q, s p r q erit R Q ad r q
+ut C P ad s p, ideoque in data ratione. Proinde si vis, qua corpus P
+versus corpus S, atque ideo versus centrum intermedium C attrahitur, es-
+set ad vim, qua corpus p versus centrum s attrahitur, in eadem illa ratione
+data: hae vires aequalibus temporibus attraherent semper corpora de tan-
+gentibus P R, p r ad arcus P Q, p q per intervalla ipsis proportionalia
+R Q, r q, ideoque vis posterior efficeret, ut corpus p gyraretur in curva
+p q v, quae similis esset curvae· P Q V, in qua vis prior efficit, ut corpus
+P gyretur3 et revolutiones iisdem temporibus complerentur. At quoniam
+vires illae non sunt ad invicem in ratione C P ad s p, sed (ob similitudi-
+nem ες aequalitatem corporum S et s, P et p, et aequalitatem distantiarum
+S P, s p) sibi mutuo aequales; corpora aequalibus temporibus aequaliter
+ι trahentur de tangentibus: et propterea, ut corpus posterius p trahatur per
+intervallum majus r q, requiritur tempus majUS, (⁰) idque in subduplicata
+ratione intervallorum propterea quod (per lemma decimum) spatia ipso
+
+(δ) ⁸ Erit similis et equalis curvis, ut patet subduplicatfi ratione eorumdem intervallorum,
+ex demonstratione propositionis superioris. per Lem. X. Quare si velocitates uniformes
+(ο) quue in mbduplicatd ratione intervallo· quibus similes arcus nascentes p q, P Q aquali-
+rum. Nascentibus arcubus* q, P Q tempora bus viribus cenuipetis describuntur, dicantur V,
+quibus describuntur intervalla r q, R Q sunt in v, tempora T, t, erit Τ ² z t ² ε’ t q ι R Q =..-
+

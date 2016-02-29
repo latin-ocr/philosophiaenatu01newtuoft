@@ -1,0 +1,97 @@
+208
+
+PHILOSO PHIAE NATURALIS
+
+[Mor. Conma. Δ
+
+Corollarium.
+
+(¹¹²) Hinc area ellipseos, quae radio ab umbilico ad corpus mobile ducto
+describitur, non prodit ex dato tempore, per aequationem finitam3 et
+propterea per descriptionem curvarum geometrice rationalium determinari
+nequit. Curvas geometrice rationales appello quarum puncta omnia per
+
+longitudines aequationibus definitas,
+
+id est, per· longitudinum rationes
+
+complicatas, determinari possunt3 caeterasque (ut spirales', quadratrices‚
+
+(¹¹¹) 565. Sit Ellipseos A P B, axis A B, um—
+bichs S, radius vector S P, dataque sint totius
+Ellipsis area, et tempus periodicam, sitque tem-
+pus periodicum ad tempus per arcum A P, it&
+area totius ellipseos ad aream sectoris A P S,
+obtinebitur aequatio inter aream A P S, et tem-
+pus quo illa describitur. Unde si poste& inveniri
+posset aequatio finita inter aream indefinitam
+A P S et radium vectorem S P ac datas quan-
+titateS, inveniretur quoque aequatio finita inter
+tempus per arcum quemvis A P, et radium vec-
+torem S P, qui ita ex dato tempore per aequa-
+tionem finitam prodiret3 Etvice verszi, si ex
+tempore quo arcus A P describitur, radii vecto-
+
+P
+
+A S Β
+
+ris S Plongitudo per aequationem finitam posset
+determinari, ope hujus aequatiouis et superioris
+proportionis inter tempora et areas obtineretur
+aequatio finita inter aream quamlibet A SP et
+radium vectorem S P ac datas quantitates,
+quod impossibile esse demonstratum est 3 et A
+propterea longitudo (ac proinde positio quae ·
+ex longitudine data est) radii vectoris S P, ρο
+per descriptionem curvarum geometrice ra.-
+tionaliurn determinari nequit. Sunt autem
+curvae geometrice rationales in quibus ordi-
+natarum et abscissarum rectarum relatio ω-
+quatione finitzi exprimi potest, quarumque Ρ
+proinde puncta omnia per harum rectarum
+linearum rationes complicatas determinari
+possunt. Si in aequatione ad curvam a x '¹²
+
+-Ι- b y ¹¹ -}- &c. = ο numerus terminorum
+finitus sit et exponentes m, n, rationales fue-
+rint, curva erit geometrice rationaliffioonmi si
+numerus terminorum infinitus fuerit, et sum-
+mari nequeant, aut si exponens ali uis irra- C
+tionalis fuerit, curva est geometxic irratio-
+
+aaliz.
+
+564. Circuli (adeoque et Ellipsis) quadratu·
+ram seu rectificationem indefinitam finita aequa—
+tionc exhiberi non pc-sse demonstravit Samium
+in Commentariis Parisiensibus an. 1720. illius
+demonstrationem ut pote facilem et brevem ro-
+feremus. Sit quadrans circuli C A Β, et ex
+puncto quovis N arcus A B demittatur 'ad ran
+dium A C perpendicularis N P, demonstrandum
+est arcus A N, et rectarum A P. P N relatio-
+nem nullfi aequatione finita posse exprimi.
+Descripta intelligatur curva A Ο Μ D cujus
+haec sit natura ut recta M P ex puncto quovis
+M ad radium A C perpendiculariter-demissa,
+sit aequalis arcui abscisso A N; ope curva
+A M D arcus A N in ratione quivis data
+
+· rectaePG ad PM dividi potestinR3num
+
+si per punctum G recta G o, ἱρά
+Ρ Μ normalis et curvae A M D occurrens
+iu o, atque ex puncto 0, ducamr ad A C
+perpendicularis o Q arcum A N secans in R,
+erit A R=Qo‚ adeoque A R: A N==
+P G z P M. Verum demonstravit Clu.
+tiss. Hospitalius Art. 443. Lib. lo. sectionum
+Conicarum, quod si arcus A N sit in parm
+aequales dividendus quarum una sit A R, ω-
+quatio qus} determinatur partis unius chorda
+A R. tot dimensiones obtinet quot sunt in nrm
+A N, panes aequales, atoue adeo si dividendu-
+
+ 
+

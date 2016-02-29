@@ -1,0 +1,60 @@
+190 PmmSOPfflAE NATURAms [Μαι. eom ’
+
+linea per punctum quodvis positione datum ducatur, quoe datam coni ισο-
+tionem in punctis duobus intersecet, et intel-sectionum intervallum biseae
+cetur, punctum bisectionis tanget aliam coni sectionem ejusdem speciei ·
+cum priore, atque axes habentem prionis axibus parallelos. Sed propero
+
+ad magis utilia.
+LEMMA XXVI.
+
+Trianguli specie et magnitudine dati tres angulos ad rectas totidem positione
+datas, quae non sunt omnes parallelae, singulos ad singulas ponere.
+
+Dantur positione tres rectae infinitae A B, A C, B C, et oportet trian-
+gulum D E F ita locare„ ut angulus ejus D lineam A B, angulus Eli-
+neam A C, et angulus F lineam B C tangat. Super D E, D F et E· F,
+describe tria circulorum segmenta D R E, DGF, E M F, quae capiant an-
+
+sectionis oonicae A F D E agatur diameter in L et sectioni in M, erunt S M, N C dia-
+A D, tum dimetro P C, quae similis sit dia- meni similes, et earum ordinata parallelae, sed
+metro A D, describaturalia sectiocouicaPM quisi-n triangt'ilissimilibus PSL, ch est
+K C, ejusdem speciei cum dats, etdiameter P S= S C erit quoque P L= L Igne
+proinde P L· K erit ordinata ad diametrum SM.
+adeoque G K H erit ordinata ad diametrum
+N C; quare GK= KHergopunctumbiseo-
+tion& K tanget curvamprzon' similem et aoeeshaben-
+tem primis axibus parallelos. Eademest demon-
+stratio, si punctum P extra sectionem sumatur.
+α 354. Adjungemus aliud Lemma maxima
+universale. si ex puncto quovis P dato ducatur
+recta PB, curvae cuilibetAB C occurrens in
+
+F
+
+   
+  
+ 
+   
+
+B, etr-ecta illa P B it& dividatur in b, nt sit
+. semper P b ad P Β in ratione data, punctum
+” ⁵ b, tanget curvam a b c ejusdem speciei et ordi.
+
+Η nis cum curva A B C, atque lineas habentem
+
+similibus curvae A B C lineis parallelas.
+
+conjugata ipsius P C, similis erit et pax-allelu Nam si fuerit A B C polygonum rectilineum
+flumem) R Q„ conjugafiae ipsius A D, et quia cujus latus unum B C, cum sit (per hyp.) P b:
+m duabus figuris similibus, si duo latera homo- P B = P c: P C, similia erunt triangula
+loga perallela sint, caetera omnia latera similia P B C, P b c, et latera B C, b c, parallela et in
+sunt etiam parallelis, ambarum sectionum coni· data ratione P B, ad P b, ac proinde totum
+carum similes diametri omnes, nde6que et axes polygonum A B C simile polygono a b c, et
+paralleli erunt ; agatur nunc pei-punctum datum eorum latera homologa parallela erunt. Lato-
+P, cljorda quaevis G P H, sectioni P M C occur· rum polygoni A Β C numerus augeatur in in-
+renss ¹¹¹ K, dicoesse KH εἰ KG. Namjungntur finitum et ipsorum longitudo in infinitum mi-
+C K· e} producatur donec trajectoriae A H D oc· nuatur et duo pol gons A B C, ab c mutabun-
+currat m N, et per centrum S trajectorioe P K C, tur in curvas simile· in quibus latera homolog-
+ngatur S M paraueia C K, chordae PK occurrens sunt parallelo-7 ’
+

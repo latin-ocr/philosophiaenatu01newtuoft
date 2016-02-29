@@ -1,0 +1,53 @@
+366 PHILOSOPHIAE NATURALIS [Mor. Com’oiq
+
+Corol. 9. (¹²) Ut et ubi gyrantia sunt etiam sphaerae attrahentes, condi-
+tionis cujusvis jam descriptae.
+
+PROPOSITIO LXXVII. THEOREMA XXXVII.
+
+Si ad singula sphaerarum puncta tendant vires centripetae proportionales dis-
+tantiis punctorum a corporibus attractis .· dico quod vis composita, qud
+sphoerae duae se mutuo trahent, est ut distantia inter centra sphaeramm.
+
+Cas. 1. Sit A E B F sphaera3 S centrum ejus3 P corpusculum attrac-
+tum, P A S B axis sphaerae per centrum corpusculi transiens3 E F, e f
+plana duo, quibus sphaera secatur, huic axi perpendiculaxia, et hinc inde
+aequaliter distantia a centro
+sphaerae3 G, g intersectiones
+planorum et axis 3 et H punc-
+tum quodvis in plano E F.
+Puncti H vis centripeta in
+corpusculum P, secundum li· B
+neam P H exercita, est ut
+distantia P H ; et (per Legum
+Corol. 2.) secundum lineam
+P G, seu versus centrum S,
+
+ut longitudo P G. Igitur
+
+punctorum omnium in plano E F, hoc est plani totius vis, qua 'corpuscu-
+lum P trahitur versus centrum S, est ut distantia P G multiplicata per
+numerum punctorum, id est, ut solidum quod continetur sub plano ipso
+E F et distantia illa P G. Et similiter vis plani e f, qua corpusculum P
+trahitur versus centrum S, est ut planum illud ductum in distantiam suam
+P g, sive ut huic aequale planum E F ductum in distantiam illam P g; et
+summa virium plani utriusque ut planum E F ductum' in summam distan-
+tiarum P G -Ι- Ρ g, id est, ut pla-num illud ductum in duplam centri et
+(⁰) corpusculi distantiam P S, hoc e'st, ut duplum planum E ‘F ductum int
+distantiam P S, vel ut summa aequalium planorum E F -Ι- e f ducta in
+distantiam eandem. Et simili argumente, vires omnium planorum in
+sphaera tota, hinc inde aequaliter a centro sphaerae distantium, sunt ut sum-³
+ma planorum ducta in distantiam P S, hoc est, ut sphaera tota et ut dis-
+
+tantia P S conjunctim. (P) Q. e. d.
+
+e κ-Χ,Ε
+
+    
+
+f F
+
+(¹¹) '¹ Ut et ubi gyrantia, &c. Patet per enim P
+Cor. 2. Prop. 58. P G =
+(⁰) ⁵ Et corpusculi distantiam P S. Est (Ρ) · . .
+

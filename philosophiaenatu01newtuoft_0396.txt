@@ -1,0 +1,50 @@
+360 PHILOSOPHIAE NATURALIS [Mor. Comi.
+
+per compositionem, vires totarum superficierum sphaericarum in corpiss-
+cula exercitae erunt in eadem ratione. Q. e. d.
+
+PROPOSITIO LXXII. THEOREMA XXXII.
+
+Si ad sphaerae cujusvis puncta singula tendant vires cequales centripetoe decre-
+scentes in duplicatc'i ratione distantiarum a punctis ,· ac detur ium sphaerae
+densitas, tum ratio diametri sphaerae ad distantiam corpusculi a centro qius .- ,
+dico quod vis qud corpusculum attrahitur, proportionalis erit semidiametro
+sphaerae.
+
+Nam concipe corpuscula duo seorsim a (1)sphaeris duabus attrahi, unum
+ab una et alterum ab altera, et distantias eorum a sphaerarum centris pro-
+portionales esse diametris sphaerarum respective, sphaeras autem resolvi in
+particulas similes et similiter positas ad corpuscula. Et attractiones cor-
+pusculi unius, factae versus singulas particulas sphaerae unius, erunt ad at-
+tractiones alterius versus analogas totidem particulas sphaeroe alterius, in
+ratione composite ex ratione particularum directe et ratione duplicata distan—
+tiarum inverse. Sed particulae sunt ut sphaerae, hoc est, in ratione triplicata
+diametrorum, et distantioe sunt ut diametri 3 et ratio prior directe unzi cum
+ratione posteriore bis inverse est ratio diametri ad diametrum. Q. e. d.
+
+Corol. 1. Hi-nc si corpuscula in circulis, circa sphaeras ex materia aequali-
+ter attractiva constantes, revolvantur 3 sintque distantiae a centris sphaerarum
+proportionales earumdem diametris: Tempora periodica erunt aequalia.
+
+Corol. 2. Et vice versa, si tempora periodica sunt aequalia, distantiae
+erunt proportionales diametris. Constant haec duo per Corol. 3. Prop.
+1v. “
+
+Οονοῖ. 3. Si ad solidorum duorum quorumvis, similium et aequaliter
+densorum, puncta singula tendant vires aequales centripetae decrescentes
+in duplicata ratione distantiarum a punctis 3 vires, quibus corpuscula, (⁸)
+ad solida illa duo similiter sita, attrahentur ab iisdem, erunt ad invicem
+ut diametri solidorum.
+
+(Υ) ⁸ A sphaeris duabus homogeneis, ejusdem· 517. Sokolium. Hinc ai hujusmodi epham
+que densitatis ite nempe ut sub aequalibus vo- per centrum perforetur, aequalia erunt tempora
+luminibus aequales materiae quantitates ubique omnia, quibus corpus de locis quibusvis ad een.
+contineantur, et vis absoluta attrahens sit semper trum usque cadit, (per Cor. 2. Prop. 38.) et
+ut quantitas materiae, corpusculorum in hujusmodi sphaeris per spati·
+
+(Ζ) · Aa solida illa duo similiter sita. ite ut libera nfinime revolventium tempora pciodica
+distantiae corpusculorum a similibus solidorum erunt aequalia (per Cor. 3⁶. Prop. 4.) atque ad
+
+duorum particulis sint ut eorum solidorum dia- hujus generis sphaeram pertinent quae ιιι Prop.
+metri. 51. 52. hujusque Corollariis demonstrata sunt.
+

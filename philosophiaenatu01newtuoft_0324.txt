@@ -1,0 +1,53 @@
+²288 PHILOSOPHIAE NATURALIS [Mor. Conon.
+
+PROPOSITIO LI. THEOREMA XVIII.
+
+Si vis centripeta tendens undique ad globi centrum C sit in locis singulis ut·
+distantia loci cujusque α centro, et hdo sold υἱ agente corpus T oscilletm
+(modo jam descripto) in perimetro eye-loidis Q R S: dico quod oscillatio-
+mcm utcunque inaequalium aequalia erunt tempora.
+
+Nam in cycloidis tangentem T W infinite productam cadat perpendi-
+culum C X et jungatur C T. Quoniam vis centripeta qua corpus T im-
+pellitur versus C est ut distantia
+C T, atque haec (per legum Co-
+rol. 2.) resolvitur in partes C X,
+T X, quarum C X impellendo
+corpus directe a P distendit fi-
+lum P T et per ejus resistentiam
+tota cessat, nullum alium edens
+effectum3 pars autem altera TX,
+
+urgendo corpus transversim seu s
+versus X directe accelerat mo· ⁴
+tum ejus in cycloide3 manifes-
+tum est quod corporis accelera-
+tio, huic vi acceleratrici propor-
+tionalis, sit singulis momentis ut
+longitudo T X, id (¹) est, ob
+datas C V, W V iisque propor- “
+tionales T X, T W, ut longitu-
+do T W, hoc est (per Corol. 1.
+Prop. XLIX.) ut longitudo ar-
+cus cycloidis T R. Pendulis igitur duobus A P T, A p t de perpendi
+culo A R inaequaliter deductis et simul dimissis, accelerationes eorum
+semper erunt ut arcus describendi T R, t R. Sunt (¹¹¹) autem partessub
+
+ 
+
+Ἰ (¹) ⁴¹ Id est, ob datas. Ob triangula W X C, accelerationes subsequentes his partibus propom-
+T- V similia, est C W : W V = W X: tionales sunt etiam ut toti arcus t R, T R, et
+
+T W, et componendo C V : W V = T X z sic deinceps. Quoniam autem velocitates dnm
+T W ; quare ob datas C V, W V, data est ratio tempore genitae sunt ut accelerationum summm,
+T X ad T W, id est T X est ut T W. quae ob datam decelemtionum rationem sunt in
+
+(¹¹¹) 464. Sunt autem arcuum t R T R par- eadem ratione data arcuum t R, T R, Uquet
+tes sub initio eodem tempusculo descfiptae ut ac· accelerationes atque ideo velocitates genitas et
+
+celerationes‚ hoc est, ut toti arcus t R, T R sub partes his velocitatibus descriptas, partesque des.-
+initio describendi et propterea divisim, partes ar· cribendas semper esse ut sunt toti arcus t R,
+cuum t R, T R quoe manent describendae et T R, et propterea sipars arcus T R describenda
+
+ 
+

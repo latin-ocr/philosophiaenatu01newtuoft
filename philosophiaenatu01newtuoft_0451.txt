@@ -1,0 +1,55 @@
+ann anus.] PRINCIPIA MATHEMATICA. 415
+
+cularem, alterum iisdem parallelum. Vis attractionis vel impulsus, agen·
+do secundum lineas perpendiculares, nil mutat motum secundum paralle-
+las, et propterea corpus hoc motu conficiet aequalibus temporibus aequalia
+illa secundum parallelas intervalla, quae sunt inter lineam A G et punc-
+tum H, interque punctum Ι et lineam d K; (¹¹) hoc est, aequalibus tem-
+poribus describet lineas G H, I K. *Proinde velocitas ante incidentiam
+est ad velocitatem post emergentiam, ut G H ad Ι Κ vel T H, (⁰) id est,
+ut A H vel 1 d ad v H, hoc est (respectu radii T H vel I K) (P) sinus
+emergentiae ad sinum incidentiae. Q. e. d.
+
+PROPOSITIO XCVI. THEOREMA L.
+
+Iisdem positis, (¹1) et quod motus ante incidentium velocior sit quam postea,
+dico quod corpus, inclinando lineam incidentiae, rgflectetur tandem, et an-
+gulus rgflexionisfiet aequalis angulo incidentiae. Α
+
+Nam concipe corpus inter parallela plana A a, B b, C c, διο. descri-
+bere arcus parabolicos, ut supra3 sintque arcus illi H P, P Q, Q R, διο.
+
+Et sit ea lineae inci-
+dentiae G H obliqui· G
+, tas ad planum pri· ΧΗ h
+mum A a, ut sinus - lt»
+,QS
+e
+
+quam habet idem sinus incidentiae ·ad sinum emergentiae ex plano D d, in
+spatium D d e E: et ob sinum emergentiae jam factum aequalem radio,
+angulus emergentiae erit rectus, ideoque linea emergentiae coincidet cum
+plano D d. Perveniat corpus ad hoc planum in puncto R3 et quoniam
+linea emergenti'ae coincidit cum eodem plano, perspicuum est quod corpus
+
+non potest ultra pergere versus planum E e. Sed nec potest idem per-
+
+incidentiae sit ad ra-
+dium circuli, cujus est
+sinus, in efi ratione
+
+μυωω>
+
+(“) ’ Hoc est, aequalibus temporibus. Quo- gulus v T H anguli Τ H v, et angulus I K d
+niam motu composito corpus fertur per lineas anguli K 1 d, complementum ad rectum; et pro-
+G H et Ι K, eodem tempore describit G H inde (558) prior aet aequalis angulo incidentir,
+quo A H, et I K quo I ἀραί (ex Πρω.) tem· posterior est aequalis angulo emergentia».
+pom quibus conficiuntur intervalla parallela et (¹¹) ” Ec quod motus απιὲ incidentium, &e
+aequnlia A H, 1 D sequautur, ergo corpus aequa- Ut angulus emergentiae semper crescat (Prop-
+libus temporibus describit lineas G H et 1 Κ. 95.) et ipsius proinde complementum ad recmm
+
+(⁰) ⁰ Id esc ut A H vel Id ad υ Η. Per semper decrescat in transitu corporis pen-diversa
+Prop. 2. lib. 6. Elem. media.
+
+(Ρ) ⁴ Ut sinus emergemiae. Est enim au-
+

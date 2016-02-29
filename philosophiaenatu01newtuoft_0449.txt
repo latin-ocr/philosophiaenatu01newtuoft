@@ -1,0 +1,62 @@
+mez Pramus] PRINCIPIA MATHEMATICA, 413
+
+H I parabola (⁸) cujus haec est proprietas, ut rectangulum sub dato latere
+recto et hneae‘i Ι Μ aequale sit H M quadrato3 sed et linea H M bisecabi-
+tur in L. Unde si ad M J. demittatur perpendiculum L O, (¹¹) aequales
+erunt M O, O R3 et additis (¹)'aequalibus Ο N, Ο 1, fient totae aequales
+M N, Ι R. Proinde cum I R detur, datur etiam M N; estque rectan-
+gulum N M I ad rectangulum sub latere recto etl M, hoc est, ad H M q,
+in data ratione. (¹) Sed rectangulum N M I aequale est rectangulo P M Q,
+id est, differentiae, quadratorum M L q, et P L q seu L Ι q; et H M q
+
+datam rationem habet ad sui ipsius quartam partem M L q: ergo datur
+ratio M L q — L I q ad M L q, (¹) et convertendo ratio L 1q ad M Lq,
+et ratio dimidiata L I ad M L. Sed in omni triangulo L M Ι, sinus an-
+
+gulorum sunt proportionales lateribus oppositis. Ergo datur ratio sinus
+anguli incidentiae L M R ad sinum anguli emergentiae L I R. Q. e. d.
+Cas. 2. Transeat jam corpus successive per spatia plura parallelis pla·
+
+(⁸) ⁸ Cujus hac est moym'etas, &c- *Ductis et H V parallela L Ι, erit quoque H L= L M.
+{edralltlgffiudlialxiiefflelledrAEnaffmoesslith (il-5391}- Ut latus rectum diametri H T in variis
+atque ex puncto I ad diametrum H T ordinata angulis incidentiae datum sit, oportet corporis
+Ι Τ, erit ob parallelas M Ι, H T (per Theor. 1. parabolam describentis velocitatem in puncto H,
+de Parabola) et parallelas M Η, Ι Τ (per Lem. et plani incidentiae A a vim attractricem esse
+4. de Conic.) M Ι = H T et 1 T= M H (per datas. His autem datis, datum esse hoc latus
+³4. 1. Elem.); sed (per Theon l. de Parabola) rectum ita demonstratur. Per punctum X in
+diametro H T datum, agatur ordinatim applicata
+X E pambolae occurrens in E, et per E ducatur·
+E D pan-allelu X H et tangenti H M occurrens
+in D, ac proinde aequalis datae X H. Jam ver&
+H X seu D E, est spatium quod corpus vi at-
+tractrice describit eodem tempore dato quo motu
+uniformi projectionis percurrit H D, ideoque
+datis vi attracti-icc et velocitate projectionis, data
+quoque erit linea H D in quovis incidentiae an-
+gulo G H T. Est autem latus rectum diame-
+tri H T tertia proportionalis ad abscissam H X,
+et ordinatam X E seu H D. Erga datis vi at-
+tracti-ice et velocitate projectionis», datum seu
+constans est latus rectum diametri H T. Q. e. d.
+
+(Β) ⁸ AEquales erunt M 0, 0 R. (Peerp.
+2. lib. 6. Elem.)
+1¹(¹)⁸.AE'q·m1lil>u-¹ON,01. Perhaps.
+
+b· 5. ΕΙ...
+
+(¹²) ¹¹ Sed reclangulum ΝΜ I aequale est rec-
+
+tangulo P M Q, (per Cor. 1. Prop. 56. lib. 5.
+Elem.) id est, differ-emite quadratorum M L ² et
+PL2,estenimPM=ML-}-PL‚etQM
+· =ML-LQ=ML-PL;Quar&PM
+quadratum ordinatae T Ι aequale est rectangulo χ Q M = M L ² — P L ². (Per Corol. 6.
+sub dato latere recto diametri H T et abscissa 2³. Elem.)
+H T, ergo rectangulum sub dato latere recto et (¹) ¹* Et convertendo. Sint enim A et B,
+lineri M 1 aequaleestH Mquadrato; Et quoni· quantitates datae, et M L ² - L 1 ² ε Μ L ²
+am H M parabolam tangit in H estque proinde = A ² : Β ², erit M L ² τ L,1².·= B ²⁴: 13²
+(per Cor. 1. Lem. 5. de Conic.) 1 Μ = V I, — A 2, quae est ratio data
+
+ 
+

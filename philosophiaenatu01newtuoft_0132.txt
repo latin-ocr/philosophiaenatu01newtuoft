@@ -1,0 +1,98 @@
+96
+
+Sint denique in duabus Hyperbolis aequales
+axes transversi, sed diversi Asymptotorum An-
+guli ; diversa erunt Latera Recta, sumantur ergo
+aequales abscissae, et quoniam Axis est ad latus
+Rectum sicut factum partium abscissae ad qua-
+dratum ordinatae, Axis veru et factum partium
+abscissae aequalia sunt utrinque, eadem erit utrin-
+quesratio Lateris recti principalis ad quadratum
+ordinatae, erunt ergo ordinatae quae ad aequales
+abscissas pertinebunt, ut Radices quadratae La-
+terum rectorum principalium. . quae ratio est
+constans, sit ergo utraque abscissa in portiones
+infinite parvas et utrinque oequales divisa singula
+Parallelogrammata quam minima super aequales
+abscissae portiones formata erunt in eadem rs.-
+tione ac ordinatus, ergo areae Hyperbolarunn
+5111ae sunt eorum Parallelogrammorum summae,
+in ezidem erunt ratione, nempe ut Radices qua·
+dratae laterum Principalium.
+
+De Ellipsi.
+
+ΤΙιεον. 1. Omnes Ellipsis Diametri sese bi-
+fariam secant in eodem puncto quod dicitur cen.
+trum Ellipsis, enque Diametri ordinata quae per
+centrum transit est ipsa Diameter‚ quae respectu
+Diametri, cujus est ordinata, conjugata dicitur:
+(Apol. 1. l. Prop. 50.)
+
+ 
+
+Demonst. Si per medium C, Diametri El·
+lipsis A D, ducatur linea quaevis B K, et per
+puncta B et K ducantur B H, K G ordinatae
+Diametro A B, erit per Lemma V.
+AGxGD2AH><Hn=GK²:
+B H ² et propter triangula similia G K C, C B H
+estGK2BH=CG20H=Bcz
+CK,estergoAG>< GD: AH><HD=
+C G ²: C H ², est autem (per 5. 11. Elem.)
+
+PHILOSO PHIAE NATURALIS
+
+[Mo'r. Commu
+
+AG>< G B=AC²—CG2 ει-ΑΗχ
+HB=AC2-CH²,estergo ’
+A C2—CG22 Ac2-CH2 = C G²=
+C H ². etfiungendo terminos secundae rationis
+terminis prioris, est A C2: Ac ²= C G ² z
+C H ², ideo C G= C H, ac per consequens·
+Β C= C K. Omnes ergo lineae per punctum
+C transeuntes illic bifariam secantur. Sunt au-
+tem singulae Diametri Ellipsis, namin vertice
+B ducatur Tangens, et per Centrum C linea
+illi parallela, ea dividetur bifariam, cum itaque
+B K bisecet lineam Parallelam Tangenti per
+ejus verticem ductae‚ est Diameter, per Lemma V.
+
+Denique solae lineae per Centrum transeun-
+tes sunt Diametri ; fingatur enim Diameter
+per centrum non transiens, ducatur Tangens in
+ejus Vertice, et illi Tangenti ducatur Parallela
+per Centrum C, bifariam dividetur in centro,
+ergo bifariam non dividetur a Diametro suppo-
+sits quae per centrum non transit, ergo male sup-
+ponitur eam esse Diametrum : Omnes ergo
+Diametri Ellipsis per centrum transeunt, illie-
+que bisecantur.
+
+leeor. 11. Tertia proportionalis Diametro
+transversae ejusque conjugatae dicatur Latus
+Rectum, erit Diameoer transversa ad Latus
+Rectum, vel quod idem est quadratum diametri
+transversae ad quadratum ejus conjugatae, ut
+sactum abscissarum sumptarum ab utroque Ver.
+tice Diametri ad quadratum ordinatae, inde qua-
+dratum Ordinatae semper minus deprehenditur
+facto Lateris recti per utramlibet abscissam, unde
+haec curva dicitur Ellipsis; (Apol-:mh 1. Prop. 21.)
+
+ 
+
+conjugachKest per Lemma 1 . AC><
+CD siveAc²on><Do=13022
+PO²etalternandoAC²= c²=Ao><
+D02P 0². sedest2Ac2scB=2CB=
+L, ergo4Ac²z4cB²=A022 CB*
+=2Ac=L=A 0>< ὈΟιΡ 0²‚ergo
+L><AO>< Do—D Ο
+
+est P Ο ² = 2 A C
+L· >< A O sed ut 4 D O est semper minus quam
+2 A C, est P Ο ² semper minus facto Laten-
+recti per alterutram abscissam.
+

@@ -1,0 +1,42 @@
+Lme Parmos] PRINCIPIA MATHEMATICA. 361
+
+PROPOSITIO LXXIII. THEOREMA XXXIII.
+
+Si ad fflhaerce alicujus datae puncta singula tendant aequales vires centripetae
+decrescentes in duplicata ratione distantiarum a punctis .· dico quod corpus-
+culum intra sphoeram constitutmn attrahitur vi proportionali distantiae suoe
+
+ab ipsius centro.
+
+In sphaera A C BD, centro S de-
+scripta, locetur corpusculum P3 et cen· C
+tro eodem S, intervallo S P, concipe
+sphaeram interiorem P E Q F describi.
+Manifestum est, · (per Prop. LXX.)
+quod sphaericae superficies concentricae,
+ex quibus sphaerarum differentia AEBF
+componitur, attractionibus suis per at-
+tractiones contrarias destructis, nil agunt Χ
+in corpus P. Restat sola attractio
+sphaerae interioris P E Q F. Et (per U
+Prop. LXXII.) haec est ut distantia D
+P S. Q. e. d.
+
+scholium.
+
+Superficies, ex quibus solida componuntur, hic non sunt pure mathe-
+” maticae, sed orbes adeo tenueS‚ ut eorum crassitudo instar nihili sit3 nimi-
+rum orbes evanescenteS‚ ex quibus sphaera ultimo constat, ubi orbium il-
+lorum numerus augetur et crassitudo minuitur in infinitum. Similiter
+per puncta, ex quibus lineae, superficies et solida, componi dicuntur, in-
+telligendae sunt particulae aequales magnitudinis contemnendae.
+
+PROPOSITIO LXXIV. THEOREMA XXXIV.
+
+Iisdem positis, dico quod corpusculum extra ,sphaeram constitutum attrahitur
+vi reciproce? proportionali quadrato distantiae suae ab ipsius centro.
+
+Nam distinguatur sphaera in superficies sphaericas innumeras concen-
+tricas‚ et attractiones'corpusculi a singulis superficiebus oriundae erunt
+reciproce proportionales quadrato distantiae corpusculi a centro (per Prop.
+

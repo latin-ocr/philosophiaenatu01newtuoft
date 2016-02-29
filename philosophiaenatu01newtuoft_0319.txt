@@ -1,0 +1,93 @@
+mez ramus] PRINCIPIA MATHEMATICA.
+
+angulique (¹) H V G, V C F propterea aequaJe83 et (ὲ) angulus V H G
+(ob angulos quadrilateri H V E P ad V et P rectos) angulo C E Poequa-
+lis est, similia erunt triangula V H G, C E P; et inde fiet ut E P ad
+CEitaHGadHV (¹¹) seuHPetita (¹) KIadKP‚et (³)compo-
+site vel divisimut C B ad C E ita P I ad P K, et duplicatis consequen-
+tibusutCBadsscE ita (²) ΡΙ adPV,atqueitanad Pm. Est
+(¹) igitur decrementum lineae V P, id est, incrementum lineae B V — V P
+ad incrementum lineae curvae A P in datfi ratione C B ad 2 C E, et prop-
+terea (per Corol. Lem. IV.) longitudines B V, — V P et A P, incre-
+mentis (ι’) illis genstae, sunt in eadem ratione. Sed, (⁰) existente B V
+radio, est V P cosinus anguli B V P seu ᾗ Β Ε Ρ, ideoque BV ·-- V P
+sinus versus est ejusdem anguli3 et propterea in hssc rota, cujus radius
+est ᾗ Β V, erit B V -V P duplus sinus versus arcus ὲ Β Ρ. Ergo A P
+est ad duplum sinum versum arcus ᾗ Β Ρ ut 2 C E ad C B. Q. e. d.
+Lineam autem A P in propositione priore cycloidem extra globum, al-
+teram in posteriore cycloidem intra globum distinctionis gratia nominabi-
+
+28³
+
+mus-
+(·) * Anguuvoe H V a, vczz'propterea an isoscele, m P K= K v, ade6que
+oequales. Ob lum V F C rectum. summa 2 P K = P V.
+
+(²) '⁵ Est igitur decrementum linea V P,
+&a Dum arcus A m crescit fitque A P, recta
+V q decrescit et fit V P; quare εει P m incre-
+mentum curvae A m seu A P, et P q decre-
+mentum rectae V P. Cum autem sit B V cir-
+culi diameter constans, quantum decrescit V P,
+tantum crescit differentia B V— V P, unde
+decrementum lineae V P, aequale estincxemento
+lineae B V — V P. Est igitur incrementum
+linere B 1⁷- V P, ad increnoentum linea curvae
+A P, &c-
+
+(b) ¹* sacrementis illis genite, &c. Cum
+punctum P est in A, punctum B est etiam in
+A. fitque V P= V B, adeoque B v-VP
+= ο. Simul ergo crescere incipiunt lineae
+BV—-VPet A P; et quoniam in data ra-
+tione crescunt, erit semper B V — V P ad A Ρ
+in datfi illa ratione C B ad 2 C E.
+
+angulorum F C V, C V F aequalis est angulo
+recto C V H, quare detracto communi angulo
+{gt} fit angulus F C V=F VH sive
+
+(¹) '¹' *Ee angulus V H G, ὅτε. Tangentes
+H V, H P cum radiis E V, Ε P angulos rec-
+tos constituunt. adeoque quadrilateri H V E P,
+anguli duo reliqui V H P sive V H G et V E P,
+sunt simul aequales duobus rectis, quare cum
+sint quoque anguli V E P, C Ε P simul duo-
+bus rectis aequaleS, liquet angulum C E Ρ, ae-
+qualem esse angulo V H G, et in secunda figura
+cum anguli quadrilatexi V H PE in V et P
+sint recti, reliqui anguli V H P, V E P oequales
+sunt duobus rectis-5 sed etiam V H P et V H G
+sunt aequales duobus rectis, ergo detracto oom-
+muniVHP, VE PsiveCE P aet aequalis
+
+(¹¹) ¹* AdHKseuHP. Namcirculitan-
+gentes H V, H P sunt aequales.
+
+(¹) ⁴* Ee itai KI ad K P. Etenim ob paral-
+lelas H K, G 1, est H G2HP=K I:
+
+(Υ) '¹' Et compositb vel divisim. Cum sit
+E P, seu BE=C E=K1=KP‚sirota
+globo intrinsecus insistat, erit composite B E 4
+CE, seu CB :CE=KI -Ι- Κ Ρ; seu
+P 1 :⁷1² K. Si vero rota globo extrinsecus in-
+sistat, eritdivisimC E—BE‚seu C 13:013
+=KP—K1‚seuP1:PK.
+
+(⁰) 456. Sed niueum B V radio, &c- Ob
+angulum B PV rectum, estBV adVPut
+sinus totus ad sinum anguli V B P qui comple-
+mentum est anguli B V P ad rectum. Quare
+existente B V radio, est V P cosinus anguli
+B V P aequalis dimidio angulo ad centrum
+B E P. Est autem cujusvis anguli sinus ver-
+sus aequalis differentiae inter radium et casinum
+ejusdem anguli. ergo existente B V radio, erit
+Β V—V Psinusversus anguli {B E P3 et
+quoniam in diversis circulis aequalium angulo- v
+rum sinus omnes sunt ut circulorum radii, in
+hac rotfi cujus radius est ἦ Β V, erit B V —
+
+(²) ¹* Ιιὰ Ρ Ι ad P V. Nam in triangulo V P, duplus sinus versus arcus ξ Β Ρ.
+

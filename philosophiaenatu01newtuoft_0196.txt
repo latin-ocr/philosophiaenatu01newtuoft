@@ -1,0 +1,101 @@
+160
+
+toti seu tangentes ad distantiam infinitam rectis
+C D, C d parallelae sunt et se mutuo interse-
+cant in centro trajectoxiae. Q. e. i.
+
+Cas. 2. Quoniam angulusm C M, in 10. casu
+aequalis est asymptotorum angulo D C d. ob
+fflss⁸ssss⁵d1¹3tafifili¹ ssossrfimmd 13⁵¹, ἲέἓὲἂῖῗξῗὲηῗὲ
+tionum m, M ad se mutuo accedant, decrescet
+angulus D C d, et tandem punctis m, M coiiun-
+tibus, hoc est, secante‘M N in tangentem mu-
+tata angulus ille evanescet, dum rectae C D, B D
+manent parallelae, et ad distantiam infinitam
+cum trajectorifi. conveniunt. . In hoc igitur casu
+duae rectae, ipsis C D, C d parallelae et trajec-
+toriam ad distantiam infinitam tangentes, se
+mutuo intersecant in angulo infinitesimo‚ seu in
+
+⁴ unicam lineam co'eunt axi trajectoriae parallelam,
+et proinde hyperbola casus primi mutatur in
+parabolam (3122- Q. e. 2.
+
+Cas. 3. Si recta N M nullibi circulo occurrat,
+rectae B D, C D quarum concursu D sectio
+conica describitur nunquam possunt fieri paral-
+lelae, et proinde curva non abit in infinitum, sed
+in se redit, estque adeo Ellipsis. Q,- e. 3.
+
+   
+  
+ 
+
+314. Corol. 1 Ex his axes trajectoriae facile
+determinantur. Sit Ο centrum circuli C m
+Μ Β ut supra (513) descripti, abhoc centro in
+rectam N M cadat perpendicularis Ο Η circulo
+occurrens in punctis K et L, et rectae N M in
+H, jungatur C K, etfiat angulus K C Zaequa-
+lis angulo mobili M C D, aut quod idem est,
+anguli M C D crus C M ducatur ad positio-
+nem C K, et alterum crus C Z erit parallelum
+axi majori, et perpendiculare axi minori trajec-
+toriae, modo punctum K sit rectae M N propius
+quam punctum oppositum L ; nam arcus K m,
+K M sunt aequales etangulus K C m= K C
+
+=4m0M=DCZ3 cumque m CM
+aequalis sit angulo quo asymptoti se mutuo in-
+tel-secum, erit D C Z dimidium illius auguli,
+
+PHILOSOPHIAE NATURALIS
+
+ade6que C Z parallela axi qui asymptotorum
+angulum bisecat3 et si punctum K regulae prn-
+pius sit quam punctum oppositum L, erit an-
+gulus m C M acutus, ac proinde axis major qui
+angulum asymptotorum acutum bisecat, erit
+rectae C Z parallelus, axis vero minor huic rectae
+perpendicularis3 unde si detur trajectoriae cen-
+trum dabuntur axes, et si descripta sit trajecto-
+ria, invenitur axis positio, ducta ad C Z normali
+ad trajeewrimn utrinque terminata quam axis
+perpendiculariter et bifariam dividit {inventi¹
+autem axium positione, habetur centrum in
+eorum intersectione communi. Superior autem
+constructio non solum hyperbolae convenit, sed
+et parabolae in quam hyperbole. mutatur, dum
+puncta m, M coeunt, atque etiam Euipsi in
+quam vertitur parabola, dum recta M N, extra
+circulum transit.
+
+315. Corol. 2. Axium trajecmriae quadrata
+suntad invicem ut K H, ad L H; nam axes
+sunt inter se ut cosinus dimidii anguli asymptou»
+rum ad sinum dimidii ejusdem anguli ; est vei-6
+K C m qui aequalis est dimidio anguli asymp-
+totorum, etiam aequalis angulo m L K, adeoque
+LHestadeut axis adaxem3 sed LHz
+mH=Hm= KH, acproindeL H: KH
+= L H ²: H m ¹. Ergo quadrata axium
+suntadinvicemutL H ad K H.
+
+816. Corol. 3. si angulorum mobiflum sum-
+ma duobus rectis aequalis fuerit, rectae B D,
+C D fiunt parallelae, quanda punctum M
+pervenit ad m, ubi recta N M occurrit recta
+C B productae, si opus est, et quand& M abit
+
+in infinitum, cum m utroque casu evanescat
+angulus B M C. si itaque linea M N, in hic
+hypothesi alicubi occurrat recve Β C productae,
+duae rectae trajecten-iam in distantia infinita
+contingent, et se mutu& ad angulum dn-
+tum intersecabnnt, ade6que describetur hypen-
+bola3 atsiM‘N rectoe CBnon occurret. aad
+
+[Mor. conpon. x
+
+*aa-<22 „c Α .
+

@@ -1,0 +1,110 @@
+216
+
+PHILOSO PHIAE NATURALIS
+
+[Mo‘r. Coum&
+
+abscindat verae proximam. Jungatur Ο Ρ, et ab A et P ad asymp-
+toton aguntur A Ι, P K asymptoto alteri parallelae, et (⁸) per tabulam loga-
+
+’ (⁸) 574. Diximus superius (Theon lv. de
+Hyp. p. 94.) aream inter asymptotum, Hyper-
+bolam, ordinatam in vertice erectam et aliam
+ordinatam comprehensam, esse Logarithmum
+abscissae, idem verb, more veterum demonstrare
+'et ad hanc propositionem propius accommodare
+hic non pigebit.
+
+Lemma. Sint duae hyperbolae A M, A N
+quorum centrum C, semidiameter communis
+A C, semidiametri conjugatae C B, C D, per
+punctum quodvis P agatur P M N ordinatim ad
+diametrum C P applicata, hyperbolis occurrens
+i'n punctis M et N, jungantur-'que C M,c N spa-
+tiahyperbolica A MP, A N Pet sectores A M C,
+
+perbolici C B E, C D F erunt aequales. Agantur
+enim rectoe B D, E F ptotis occurrentes
+in punctis M, O, N, P, et ob parallelas K B,
+HD, COerit M·B:MK=D 0: CH,
+
+inter asymptotos (Lem. 1 de eonio.
+
+9²387)
+
+M B=D Ο, et N E=FP‚unds MK
+
+HetNL=CG3 Porrbcozcn
+K:CL(perhyp.)hocaet‚NL:,MK
+K:CL=LE‘:KB‚ ex naturahy-
+iuti-:¹1 asymptotos (Theor. IV. de Hyp.
+.94. rectoe igitur NE,MB,hocoet,EF,
+
+’Ξ ΙΙ ΙΙ ΙΙ
+
+, ³0
+
+A N C sunt ad invicem in ratione semidiame- .
+
+trorum conjugatarum C B, C D, vel etiam'
+ordinatarum P M, PN- Nam ex naturii hy-
+perboloe (Thtzor. 11. de Hyp.) PM ²: C Β ²
+=C,P²-CA2: CA²‚ efPN²= CD²
+=CP -C A2 ι C A2, unde PM25.
+
+¹³1
+B
+
+CB²=PN²: C D²‚otPM2:P N²
+=C 132: CD2, ac P M: P‚N=CB:
+C D, cumque idem semper eveniat quzicumque
+in parte cadat ordinata P M N, liquet spa-
+tia hyperbolica A M P, A N P esse inter
+seutcB ad C D,vel PM adPN, sed
+
+triangula C P M, C ΡΝ sunt ad invicem
+utPMadPNvelc Badc·D; erg6
+
+CPM—AMP:CNP--ANP
+=AMC=ANC=PM=PN=CB2
+CD. aad.
+
+⁴ 575. Corol. Si duae semidiametri conjugata!
+C A, C D fuerint aequales, hyperbola A N
+erit aequilatera3 quare iuvent& quadratura spa-
+tiorum hyperbolicomm A N P vel A N ,C in
+hyperbolis aequilateris, habebitur etiam quadra-
+tura spatiorum hyperbolicorum A M P vel
+A M C in aliis quibusvis hyperbolis.
+
+376. Lemma. Si super ⁴hyperbolae E Β D F
+asymptoto C N sumantur quatuor partes C G,
+CH, CK, CL, utsitCG:CH=CK:
+C L; ducantur autem rectae G F, H D, K B,
+LE alteri asymptoto C Ρ parallelae, et hyperbolae
+occurrentes in punctis F, D, Β, Ε, jungunturque
+semidiametri C F, C D, C B, C E, sectores hy-
+
+ 
+
+B D erunt paranelae, ac proinde, lineapaearum
+medium X, Z ducta erit Diameter, transibitque
+per centrum C; (Lem. lv. de conte. p. 90.)
+unde facile deducitur trapezia M X Z N,
+Ο Χ Ζ Ρ fore aequalia ut et areae mixtilineae
+B X Z E, D X Z F, unde singulis ex corres-
+pondenti trapezia substractis relinquentur ‚uren
+M B Ε N et O D F P, oequales, quibusad.
+dantur Triangula M B C, 0 D C, aequalia ob
+bases aequales M B, Ο Diu eidem lineappsitns,
+et ob vertices ad idem punctum C concurrentes,
+erunt oequales areaeCMNEBc‚coPF
+D C, ex· uibus denique substractis Triangulis
+N Ε αἳ) FC quae nequalia sunt ob bue·
+aequales N E, P F in eadem lines posit-s, et
+ob vertices ad idem punctum C concurrentes,
+supererunt sectores hyperbolici C B E, C D F
+inter sc aequales. Q. c. d
+
+ 
+

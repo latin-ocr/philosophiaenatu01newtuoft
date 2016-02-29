@@ -1,0 +1,80 @@
+48 PHILOSOPHIAE NATURALIS [Mor. Commta
+
+partes, summae partium *semper erunt ut summae parallelogrammorum3
+atque ideo, ubi partium et parallelogrammorum numerus augetur et
+magnitudo diminuitur in infinitum, in ultima ratione parallelogramni
+ad parallelogrammum, id est (per hypothesin) in ultima ratione partis
+ad partem.
+
+LEMMA V.
+
+Similium figurarum latera omnia, quce sibi mutuo respondent, sunt propor-
+tionalia, tam curvilineav quam rectilinea,· et areae sunt in duplicata rati-
+one laterum. (Ρ)
+
+LEMMA VI.
+Si arctas quilibet positione datus A C B sub· A D d
+
+tendatur chorda A B, et in puncto aliquo ὛἸ
+
+Α, in medio curvaturae (q) continuae, tan-
+
+gatur a rect& utrinque producta A D3 dein b
+puncta A, B ad invicem accedant et coeant,-
+
+dico quod angulus B A D, sub chorda et R
+
+tangente contentus, minuetur in infinitum et
+
+ultimo evanescet.
+
+mutu& respondentia, ut A B, a b, B C, b c,
+proportionalia sunt, et angulos aequales, ut
+A B C, ab c, continent ; unde jam patet summas
+laterum utriusque figurae esse inter se ut duo
+quaevis latera correspondentia A B, a b. Duc-
+tis ex E, et e, ad omnes angulos lineis E B,
+E C, e b, e c, flgurae in sua triangula dividunum
+et quoniam anguli D et d. aequales sunt, latera—
+que E D, e d, D c, d c, proportionalia, (per
+affinia), duo triangula E C D, e c d, erunt
+similia, adeoque anguli E C D, e c d, aequales,
+et- latera E C. e c, latoribus C D, c d proportio.
+mlia; quare cum anguli Β C D. b c d sint etiam
+aequales (per definit.) aequantur quoque anguli,
+E C B, ecb. etquia BG: bc=Cchd=
+E C ε ec. triangula duo E B C, ebcsimssia erunt.
+Idem effidem mione de aliis triangulis E B A,
+e b a demonstratur. Verum areae singulorum
+triangulorum similium, quae in duabus figuris
+sibi mutuo respondent, sunt inter se in duplica-
+ἢ Ῑ) ta ratione laterum homologorum, ac proinde in
+
+data ratione3 ergo summae triangulorum. in:
+
+c utraque figura, hoc est. figurarum areae rationem-
+
+habent laterum homologorum duplicatam. Jnm
+
+numerus laterum A B, B C, &a ab. bc,-
+
+e ὦ διο. augeatur, et eorum longitudo minuatur in
+
+infinitum, et (per Cor. 4. Lem. 111.) fi um
+
+A B C D, a b c d fiunt curviliueae; simi ἰιιῐιι
+
+(P) 112. Demonstr,—Duae {igmvae⁹ A D Ε, igitur figurarum laoera omnia, quae sibi mutuo
+
+a d e, similes dicuntur, quarum latera omnia sibi respondent. sunt proportionalia mn curvilinea
+
+quarum latera numero augentur et longitudine
+minuuntur in infinitum, limites curvilinei. Dum
+enim ordinatarum A a, B b, ac proinde chor-
+darum a b, b c, numerus in infinitum augetur.
+et distantiae A B, B C, in infinitum minuuntur,
+puncta a. b, K, l, et b, c, L, m, διο. εοὲιιιιι et
+curvam a c E formant.
+
+ 
+

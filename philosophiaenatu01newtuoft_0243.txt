@@ -1,0 +1,61 @@
+tumn anusss] PRINCIPIA MATHEMATICA. ρο]
+
+secantem demittatur perpendiculum, et perpendiculum illud una cum se-
+cante revolvatur circa polum, intersectiones spiralis transibunt in se
+mutuo, quaeque prima erat seu proxima, post unam revolutionem secunda
+erit, post duas tertia, et sic deinceps: nec interea mutabitur aequatio nisi x
+pro mutata magnitudine quantitatum per quas positio secantis determi—
+natur. Unde cum quantitates illae post singulas revolutiones redeunt ad
+magnitudines primas, aequatio redibit ad formam primam, ideoque una
+eademque exhibebit intersectiones omnes, et propterea radices habebit
+numero infinitas, quibus omnes exhiberi possunt. Nequit ergo intersec—
+tio rectae et spiralis per aequationem finitam generaliter inveniri, et idcirco
+nulla extat ovalis cujus area, rectis imperatis abscissa, possit per talem
+aequationem generaliter exhiberi.
+
+(¹¹) Eodem argumento, si intervalium poli et puncti, quo spiralis de-
+scribitur, capiatur Ovalis perimetro abscissae proportionale, probari potest
+quod longitudo perimetri nequit per finitam aequationem generaliter
+exhiberi. (¹) De ovalibus autem hic loquor quae non tanguntur a figuris
+conjugatis in infinitum pergentibuS.
+
+nc proinde. post singulas redeunt ad magnitudines
+primas F S, F P intersectione prima in secundam
+transeunte, secunda in tertiam. et sic deinceps,
+aequatio inter 1 1 M, vel P M, et datas P F,
+
+P S. S F, redibit ad formam primam quam
+
+nabebat aequatio inter 1 m, vel P m, et easdem
+datas quantitates P F, P S, S F, adeoque una
+eademque aequatio exhibebit intersectiones om-
+
+nes 1, 1 Ι, &c. seu valores 1 m, Ι 1 M, &c-
+
+propterea radices exhibebit numero infinitas qui-
+bus omnes exhiberi possunt.
+
+(Κ) ⁴* Ea enim ratione spiralis describetur
+gyris infinitis ad quam proinde aequatio erit nu.-
+mero dimensionum infinita, quae quidem finita
+deberet esse, si longitudo perimetri uvalis pro A
+lubitu abscissa seu intervallum puncti spiralem
+describentis et poli, per finitam aequationem ge-
+neraliter exhiberi posset.
+
+(¹) ¹* Ovalem A B C D tangat in C curva
+conjugata b C d, cujus rami C b, C d in infini-
+tum pergant, pro hujusmodi ovalibus non valet
+N ewroui demonstratio. Supponit enim circa
+punctum datum in ouali perpetuo revolvi lineam
+rectam uniformi cum motu quae sit ad periphe-
+riam ovalis terminata, et abscindat areas sibi pro-
+portionales ; si autem ovalis tangatur a figura
+conjugata b C d, cujus rami in infinitum per-
+gunt, evidens est linea recta intra ovalem revol-
+vente non percurri totam novae hujus figurae
+mam, ¹1oe gyris perpetuis ac infinitis simplicem
+spiralem describi.
+
+ 
+

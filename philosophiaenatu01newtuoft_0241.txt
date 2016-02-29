@@ -1,0 +1,83 @@
+Lmen Plumea] PRINCIPIA MATHEMATICA. 205
+
+intersectio aliqua duarum linearum invenitur, exhibet earum intersectiones
+omnes radicibus totidem, ideoque ascendit ad tot dimensiones quot sunt
+intersectiones. Quoniam circuli duo se mutuo secant in punctis duobus,
+intersectio una non invenietur nisi per aequationem duarum dimensionum,
+quii intersectio altera etiam inveniatur. (f) Quoniam duarum sectionum
+cbnicarum quatuor esse possunt intersectiones, non potest aliqua earum
+generaliter inveniri nisi per aequationem quatuor dimensionum, qufz omnes
+simul inveniantur. Nam si intersectiones illae seorsim quaerantur, quoni-
+am eadem est omnium lex et conditio, idem erit calculus in casu unoquo-
+que, ·et propterea eadem semper conclusio, quae igitur debet omnes inter-
+sectiones simul complecti et indifferenter exhibere. Unde etiam intersec-
+tiones sectionum conicarum et curvarum tertiae potestatis, eo quod sex
+esse possunt, simul prodeunt per aequationes sex dimensionum, et inter-
+sectiones duarum curvarum tertiae potestatis ; quia novem esse possunt,
+simul prodeunt per aequationes dimensionum novem. (ἕ) Id nisi necessario
+
+(f) ff Exempli causi.
+Sint ap 4- px=yy‚
+etbx—xx=yy‚ ae-
+quationes ad parabolam
+et circulum, et invenie-
+
+ 
+
+ 
+
+ 
+
+turx = y y - a—p’
+
+eth y v —- bpa p—
+
+5⁴—2appyy-l-aap
+ΡΖ
+
+= y y, aequatio quatuor
+dimensionum, quoniam
+quatuor esse possunt pa-
+rabolae et circuli intersec-
+tiones. Sim a p ² 4
+
+    
+
+. p²x=y³,etbx-
+
+Α Ο, P Q, Ο» Q x x = ς ² aequationes
+nd parabolam 8²². po-
+
+tiom'bus eliminetur littera quae abscissam com- y ³ .-. 3 p α
+
+testatis et ad circulum, erit x =
+
+ 
+
+ 
+
+munem exprimit, obtinebitur aequatio ex solii y, p 2
+et constantibus composita- Porro haec ultima by³—bap2 y⁶‘-2ap²y³†·a²p4
+equatio non magis primum ordinatam commu- et p 2 -ss—lfl- -—
+
+ffinffi Ξῖ ῈἙΞΞ, ιὲἓᾛοῃεψὸξξῃῳαζέ = y y aequatIo sex dimensionum quod esse pos-
+
+. ead . l di . ,ἀ cal sint intel-sectiones sex, et ita de caeteris. Ge-
+ml ‚em ⁰³¹ff¹¹l¹¹m ⁹¹ et.c⁰¹(¹leb¹{⁰ ¹ “mque Ξ net-atim γετὸ tot esse possunt curvarum duarum
+ω ‘¹⁸’ haef: ¹gm¹r ‘quam' . t mnne? com intersectiones quot sunt unitates m facto ex po-
+qmnes mm} Q· ‚S‘ qmnesque mmonae ,St testatis curvae unius indice seu exponente iu al-
+ml mploen ef ¹¹¹d¹ffereme¹⁵ exhibere’ et Μ terius exponentem3 index autem potestatis cur-
+ἑΐωᾚᾜξῖῒῖ ζθῗιίῗὲἑῖῖἓῖζςᾙζέἕ vae idem est cum numero dimensionum a“lua-
+autem tot dimensiones habet quot radices3 Si
+itaque linearum S Μ s, S m s, inm-sectiones (Β) ¹* Nam in solidorum problematum con-
+S. s, sunt numero finitae, aequotio quoque qua structione duae adhibentur sectiones conieae qua-
+illas demninut ffiiitnest3 at si fuerint intersec- rum inter-sectiones, seu ordinatae duabus coni
+tiones numero infinitae, erit equatio numero sectionibus communes, problematis solutionem
+dimensionum etradicuminfinitn. seu¹ ultimae aequationis radices suppeditant.
+
+ 
+
+ 
+
+tionis ad illam curvam.
+

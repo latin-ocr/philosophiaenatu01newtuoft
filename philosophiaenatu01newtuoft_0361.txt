@@ -1,0 +1,54 @@
+ 
+
+'Lmzn Panium] PRINCIPIA MATHEMATICA. 325
+
+=figuram adsumam ellipseos umbilicum iu concursu radiorum habentis magis
+accedentem, si corpus maximum his aur-actionibus agitetur, quam si maxi·
+mum illud vel a minoribus non attractum quiescat, vel multo miuus vel
+multo-magis attractum, aut multo minus aut mult& magis agitetur.
+
+Liquet fere ex demonstratione corollarii secundi propositionis praece-
+lentis ; sed argumento magis distincto et latius cogente sic evincitur.
+
+Cas. 1. Revolvantur corpora minora P et S in eodem plano circa maxi-
+mum T, quorum P describat orbem interiorem P A B, et S exteriorem
+
+a· ···-···-··una.-.·...·--....-....................... ., -.... .......,...,
+-. .....
+...
+
+e
+
+E S E. Sit S K mediocris distantia corporum P et S; et corporis P
+versus S attractio acceleratrix, in mediocri illa distantia, exponatur per
+eandem. In duplicata ratione S K ad S P capiatur S L ad S K, et (g)
+erit S L attractio acceleratrix corporis P versus S in distantia quavis S P.
+Junge P T, eique parallelum age L M occurrentem S Tin M ; et attrac-
+tio S L resolvetur (per legum Corol. 2.) in attractiones S M, L M. Et
+sic urgebitur corpus P vi acceleratrice triplici. Vis una tendit ad T, et
+oritur a mutua attractione corporum T et P. Hac vi sola corpus P cir-
+cum corpus T, sive immotum, sive hac attractione agitatum, describere
+deberet et areas, radio P Τ, temporibus propurtionales, et ellipsin cui
+umbilicus est in centro corporis T. Patet hoc per Prop. XI. et Corolla-
+ria 2. et 3. Theor. XXI. Vis altera est attractionis L M, quae quoniam
+tendit a P ad T, superaddita vi priori coincidet cum ipsa, et sic faciet ut
+areae etiamnum- temporibus proportionales describantur per Corol. 3.
+Theor. XXI. At (¹¹) quoniam non est quadrato distantiae P T reciproce
+proportionalis, componet ea cum vi priore vim ab hac proportione aber-
+
+ 
+
+(ss) ⁸ Et erit SL attractio acceleraerioe,&c. SK3: SP³=SL><SK2 stsP=
+Estenim (ex Hyp.) ut S P²ad S Κ2 ita at· S L: S P. Sed ob triangula M L S, T P S
+tractio acceleratrix in K (quam exhibet linea similia S L ι S P = L M ι P T; erg& L M:
+S K) ad attractionem acceleratricem in P, quam P T = S K ³ ι S P ³, et proinde vis L Μ est
+proind& exhibebit linea S L· S K 3 Χ P T P Τ
+
+(¹¹) 495. At quoniam· non est quadrato distan— ut S P 3 ‚ seu dat-‘3 S K, ut S—F-33
+21¹ae P T reciproee proportionalis. Est enim (cx ‚ ι
+comm) S K 2 : S P 2 = S L ἶ s K, adefique unde crescente distantia P T crescit vis, L M.
+
+x5
+
+ 
+

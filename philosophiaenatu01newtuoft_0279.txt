@@ -1,0 +1,120 @@
+= Lumn Paruum]
+
+PRINCIPIA MATHEMATICA.
+
+243
+
+quaelibet A n—., cujuslindex n — l est numerus quilibet n unitate dimi-
+nutus 3 velocitas corporis in omni altitudine A erit ut V Π
+
+atque ideo datur.
+
+(⁰) Namque velocitas recta ascendentis ac descenden—
+
+tis (per Prop. XXXIX.) est in hac ipsa ratione.
+
+(⁶) 418. Namque velocitas reclei ascendenti-5
+ac descendentis (per Prop· XXXIX.) est m
+hdeipsdratioene 4! Ρ“- A ¹¹3 Sit!x enim cen.
+trum virium C, distantia C P ex qua eorpus m-
+cipit eadere dicatur P, visque centripeta srt sem-
+per ¹¹¹² ἰι-Μ’ ⁵²³¹ ‘¹³¹¹ ‘³ {iffi fflssffffi 2313}
+griggsanlil) ssegrgletiidissulares EgaG vi centripetae
+C E ¹²-¹ proportionales, perpendicularis P B in
+puncto P erecta dicatur b, et per omnium per-
+pendicularium vertices dueatur ctirva, dicantur
+x abscissae C E, dicantur y ordinatae Eb?,n—e—r:t
+Β ¹¹—1‘
+
+ 
+
+b=y=P⁸-¹:x¹²-¹,ideoquey=
+
+Unde liquet curvam hanc esse 'generis- parabo-
+lid et ejus quadraturam facile obtineri, sit
+enim Ee=dxfluxioabsc1ssaeCE,ent
+-EegG=ydxflu;io?ffiCE G,etloooy
+bel
+
+ 
+
+posito ejus valore
+b x ¹—1 ’ b i ¹¹
+
+quae exprimit aream quae respondet abscissae x,
+sive Α, itaque deletis constantibus, erunt semper
+noeae’CE G sicutx¹²siveA¹k
+
+erityd3=
+
+· d x, cujus fluens est (165)
+
+ 
+
+C:
+Jam vero per Prop. XXXIX„ velocitas cor-
+
+poris <adeatis in puncto E, est ut linea quae po-
+test aream P Β G E, sive quae potest differ-
+
+senperCPBadCEGutP³adA=,ea1-um
+ergo differentiae erunt semper ut ,P ¹¹ — A ⁸,
+ideoque velocitas corporis cadmitis in E erit
+semperutan—AQ
+
+His positis si corpus vel osculans vel in tra-
+{oe‘ffifflffl {132¹} kamiffflf {¹2² {¹³¹¹ss
+Ρτζὲυοῒέι) ex I in P asceiidzni gsstuissetjnvel
+quod idem est quarn acquireret (25) ex P ad I
+decidendo, in omni alia altitudine C K sive A
+eamdem habebit celeritatem quam corpus acquiret
+recta descendendo ex distantia P a centro usque
+ad altitudinem aequalem C K, per Prop. prae-
+sentem, sed celeritates corporis ex P recta des-
+
+cendentis erunt semper ut 4! P ²¹ — A ²⁵. Ergo
+etiam ,velocitates corporis in trajectorii revol-
+ventis erunt semper in quavis distanti-‘i A a cen-
+troutff P¹¹—A¹². Q,e. d.
+
+¹414. Scholium. Vera est Ptopositio XL. si
+corporum duorum (quorum unum in recti al-
+terum in curva linea fertur) massae sint aequales
+et pondera in locis aeque altis aequalia aut pon-
+dera massis inaequalibus proportionalia in locis
+aeque altis. Illud idem theorema ad majorem
+universalitatem admodum eleganter reduxit
+Varignonius in eomm. Paris. an. 1719. Nos
+quoque principiis supra positis insistentes, uni-
+versalius Newtoni propositionem demonstrabi-
+mus- ·
+⁷ Corpora duo quorum Massae M, m (vid. fig.
+in sub. pag.) ad idem vel diversa virium centra
+C ex locis quibuslibet datis H, V descendant,
+alterum quidem M, perpendiculariter per rectam
+H C; alterum vero m per rectam vel curvam
+quamvis V 1 K.
+
+Primum. De loeo quovis Ε lineae H C eri-
+gatur semper perpendicularis E G vi centripetae
+in loco illo ad centrum tendenti proportionalis,
+sitque R G B linea curva quam punctum G
+perpetuo tangitx perpendiculares in punctis da-
+tisHetAsintH RetAB‚perpendicularisin
+puncto variabili Ε sit E G cui proxima dueamr
+lineaeg3 velocitates in punctis datis Het A
+sint b et a, velocitas in punctu variabili E sit V,
+et vis centripeta in eo puncto dicatur F, cui
+E G est propprtionalss, sit abscissa H Ε, s,'ejus
+fluxio E e erit d s, et tempusculum quo descri-
+bitur E e lapsu corporis M sit d T; erit (13⁷
+et 409) vis centripeta F sive E G = {ll—ngd——V'
+et(5) ds= Vd T. Unde erit EGxds
+sivefluxioareaeH R GE=MvdV, cujus
+fluens erit ἦ Μ V V (165) juncta aut detracta
+quadam constanti quantitate3 coeuntibus euim
+
+ 
+
+entiamarearum C P B, C E Grost autchJ2HetEestinH‚V=bideoquefit-}MVV
+

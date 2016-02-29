@@ -1,0 +1,78 @@
+46 PHILOSOPHIAE NATURALIS [Mor. conpore
+
+Nam figurae inscriptae et circumscriptae differentia est summa parallelo-
+grammorum K l, L m, M n, D o, hoc est (ob aequales omnium bases)
+rectangtssum sub unius basi K b et altitudinum (¹¹²) summa A a, id est,
+rectangulum A B l a. Sed hoc rectangulum, eo quod latitudo ejus A B
+in infinitum minuitur, fit minus quovis dato. Ergo (per Lemma Ι.) figura
+inscripta et circumscripta, et multo magis! figura curvilinea intermedia,
+fiunt ultim& aequales. Q. e. d.
+
+LEMMA 111.
+
+Eaedem rationes ultimae sunt etiam rationes aequalitatis, ubi parallelogram-
+morum latitudines A Β, Β C, C D, &c. sunt inaequales, et omnes mi-
+nuuntur in irfinz'tum.
+
+Sit enim A F aequalis latitudini maximae, et compleatur parallelogram-
+mum F A a f. (¹²) Hoc erit majus quem differentia figurae inscriptae
+et figurae circumscriptae3 at latitudine sue A F in infinitum diminute,
+minus fiet dato quovis rectangulo. ’ Q. e. d.
+
+Corol. 1. Hinc summa ultima parallelo-
+grammorum evanescentium coincidit omni
+exparte cum figurfi curvilineaei.
+
+Corol. 2. Et multo magis figura recti-
+linea, quae chordis evanescentium arcuum
+a b, b c, c d, &c. comprehenditur,v coinci-
+dit ultimo cum figurfi curvilinef‘si.
+
+, Corol. 3. Ut et figura rectilinea circum-
+scripta quae tangentibus eorumdem arcuum
+comprehenditur.
+
+Corol. 4«. ( ⁰ ) Et propterea hae figurae ul-
+timoe (quoad perimetros a c E,) non sunt
+rectilineae sed rectilinearum limites curvilinei.
+
+ 
+
+(m) 106. Si fuerInt quotcumque et cujusvis A ες evanescunt autem A B et K a, cum lineae
+
+generis quantitates decrescentes, A a, B b, C c,
+D d, erunt omnIum differentiae simul sumptae
+aquales excessui maximae supra minimam.
+Nam perspicuum est A a‘— B b 4 B b—
+Cc÷ Cc— Dd=Aa—Dd: undesiul-
+tima seriei quantitas sit o, ut in serie A a, B b
+C c, D d, o, summa differentiarum Κ a -l-
+L b -{- M c 4 D d, aequalis erit quantitati
+maxima} A a.
+
+107. Linea B b, motu sibi semper parallelo
+accedat ad lineam A a, et interim punctum b.
+ita moveatur in linea B b, ut semper repedatur
+in arcu b a; decrescente linearum A a, B b,
+distantia A Β, decrescit quoque carum differen-
+tia K a, ac tandem evanescente A 13, evanescit
+K a, ct B b, scu A Κ, fit ultimo oequalis lineae
+
+A a. B b, neque distantes, neque prorsus con-
+gruentes dici possunt, sed simul, ut ita dicam,
+conjungi incipiunt. In illo statu evanesoentiae,
+linearum A a, B b, differentia K a, minor est
+quevis linea data, seu infinite parva est, aut in-
+assignabilis respectu A K et B b; quantitas
+autem evanescens seu infinite parva, est ad
+quantitatem finitam ut finitum ad infinitum3
+quare cum notum sit infinitum ex finiti additi-
+one vel subtractione non mutari, aut tanquam
+immutatum baberi posse, liquet lineas Β b seu
+AKetAa, seu A K÷K a, pro aequulibua
+posse usurpari. Similiter, quia evanescente Κ υ
+
+trianguli K a b, et parallelogrammi K 1. erem
+infinitesimae sunt respectu parallelogrammi evan -
+escentis A b, parallelogrammum istud A b.
+

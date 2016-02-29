@@ -1,0 +1,63 @@
+ι “ ut cosinus anguli incli-
+
+Lmsn Primus] PRINCIPIA MATHEMATICA. 303<
+Vires autem T F, T H agendo secundum lineam P F plano A Ο P per-
+
+pendicularem mutant solummodo motum corporis quiitenus huic plano
+perpendicularem. Ideoque motus ejus qusstenus secundum positionem
+plani factus3 hoc est, motus puncti P, quo trajectoriae vestigium A P in
+hoc plano describitur, idem aet ac si vires T F, T H tollerentur, et cor-
+pus solis viribus F G, H I agitaretur3 hoc est, idem ac si corpus in plano
+A O P, vi (¹¹) centripetss ad centrum O tendente et summam virium F G
+et H I aequante, describeret curvam A P. Sed vi tali describitur area
+A Ο Ρ (per Prop. Ι.) tempori proportionalis. Q, e. d.
+
+Corol. Eodem argumento si corpus, a viribus agitatum ad centra duo
+vel plura in efidem qufivis rectfi C O data tendentibus, describeret in spa-
+tio libero lineam quamcunque curvam S T; foret area A Ο Ρ tempori
+semper proportionalis.
+
+“ (“) 0 Vi cerm-iper& acl centrum 0, &c- Nam plano F H e b d, paranda, projectio illius e d,
+curva superficies B S K L genita supponi. erit ipsi E D aequalis.
+tur revolutione curvae lineae B S K circa axem 482. Lemma. Iisdem positis, si in plano
+suum O C, unde* sequitur lineas omnes P O, D F H E B A. centro C, radio C D. descri-
+H I, T M, F G, P R C 0 esse in eodem batur circulus D A E B, illius in plenum
+plano, atque ideo vim centripetam agentem F H e b d projectio d a e b, erit ellipsis cujus
+in plano illo ad centrum Ο ιῇιιιιεὶ lineam P 0 major axis d e aequalis erit diametro circuli D E,
+dirigi. et ad minorem axem a b, rationem habebit sinus
+480. Lem. Si linea
+recta A B projiciatur in
+planum F H‘e b d, pro-
+jectio est linea recta a b,
+quoe est ad lineam A B,
+
+nationis B G b, ad sinum
+totum. Nam si ex punc-
+tis A, B, demittantur ad ,
+pianum ΕΗ ebd,per-
+pendicula duo A a, B b,
+patet planum a A B b.
+esse ad planum FHebd
+normale, adeoque per-
+pendicula omnia ex sin-
+gulis lineoe A B punctis
+dernissa, caderein lineam
+rectam a. b, quae est com-
+munis intersectio plano-
+rumFHebd‚aABb;
+
+ 
+
+Q, e· 1⁰⁸¹. Porro pro-
+ductis B A, b a ut sibi occurrant in G, ob pa· totius ad eosinum anguli B G b, inclinationis
+nllelas A a, B b, erit ab ad A B, ut G b ad planorum. Agatur enim P M ordinatim ad
+G B, id est, ut sinus anguli G B b sive cosinus diametrum circuli D E, et projiciatur in rectam
+anguli inclinationis B G b, ad sinum totum. Pm, erit dp= D P, et p e= P E (481)
+Q,- ε. 2²⁸¹. atque p m ad P M, ut sinus anguli PM m, seu
+481. Cor-ol. Si linea projicienda, plano in anguli A B b, ad sinum totum (480) boe esunt
+quod projicitur parallela fuerit projectio erit linea a b, ad A Β seu d e, adeoque p m ² ι P M ἓ
+recta lineoe projiciendae aequalis et parallela3 = a b ² : d e ², sed ex natura circuli P M ²=
+Nam in hoc casu angulus inclinationis nullus D P >< Ρ Ε =dp Χ pe, Ergop m ²: dp χ
+est, et ejus casinus fit radius. Hinc si linea p e = a b ² ’ς d e ². Est igitura ebd, ellipsis.
+E D, ad rectam A B perpendiemaris, fuerit Caetero patent perIaemmasupexius et ejus Corol.
+

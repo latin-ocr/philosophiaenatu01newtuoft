@@ -1,0 +1,137 @@
+ann Primus]
+
+PRINCIPIA MATHEMATICA,
+
+189
+
+Cas. 2. Dato umbilico S, describenda sit trajectoria quae rectas duas
+T R, t r alicubi contingat. Ab umbilico in tangentes demitte perpendicula
+
+S T, S t et produc eadem ad· V,
+V, ut sint T V, t v, aequales T S,
+t S. Biseca V v in O, et erige
+perpendiculum infinitum O H,
+
+rectamque V S infinite produc- o}
+‘tamsecainKetkfitautsitVK
+
+ad K S et Vk ad k S utest tra-
+iectoriae describendae axis prin-
+
+cigalis ad umbilicorum distanti· V ³2⁶2·-
+
+am. Super diametro K k des-
+
+⁸⁸„
+*mm-‘- “xk„ x
+· ἀ, >⁸51
+
+s ⁸.
+
+    
+
+η
+'''''''''
+------
+
+cribatur circulus secans O H in H, et umbilicis S, H, axe principali ipsam
+V H aequante, describatur trajectoria. Dico factum. Nam biseca K k in
+
+X, etjungeH X, HS, HV, H v.
+
+noris, nam id factum aequatur in Ellips' c A ²
+— c S ² (per 5. 2. Elem.) etin Hyperbola c S²
+-mc A ² (per 6. 2. Elem.) uirumque verb aequa-
+tur quadrato semi-axis minoris per naturam fo·
+corum (Theor. ΙΙΙ. de Hyper. et Ellip. 224.)
+oetergo GS><Sc=cE².
+
+296. 4⁰. Perpendiculafis A X in axis Vertice
+A erecta et terminata ad Tangentem in extremi-
+tate Z ordinatae quae insistit foco S est aequalis
+Asdistantioe foci aVertice. Nam cum ob Trian-
+gulassmihaXGA, ZGSsit G A: Ax=
+
+GS:SZsive-{L=²C·E²etsitcE²=GS
+
+2cA
+x50mGA2Ax=Gs=GSc{S⁰
+
+= c A ι S c (et duplicandohosterminos) = Aa
+:S H, sedin eadem rationeest G Aad A S
+(294)ergoGA: AX=GA2 ASetAX
+In Parabolfi idem verum ωε, in ea enim est
+GA=AS,GS=2ASetSZ=-,}L=
+2AS(Cm·.l. Lem. V. de Coni. 224.) Ergo
+haec proporticGAz AX =GS: SZ in
+hancmutamrAs=AX=2A822ASergo
+297. 5⁰. Linea afoco S, ad curvae punctum
+quodvis B ducta est aequalis lineae D M, Quae
+per id punctum transit. et perpendimuafiter ad
+axim ducitur, terminaturque hinc ab axi, illinc a
+Tangente G Z. Produc enim D Mad Qubi
+iterum occurrit Sectioni Coniooe sitque M Q=
+B M, erit (per Cor. 2. Lem. 111. de Conic. n.
+224-)ZX²: ZD²=AX²=DM>< DB
+(siveDM2-BM2pe1-6.2. Elem.)sed ob
+ParallelasAX‚SZ.MDestZX:Z D=
+AS: SMetzx2=ZD²=AS22 SM2.
+ErgoestAs2: SM²=AX²(sive As²
+oer29635DM2—BM2undeaetsM2=
+
+ 
+
+ 
+
+ 
+
+Quoniam est V K ad K Sut V k ad
+
+M ² — B M ² et addendo utrinque B M ²,
+
+M²÷ ΒΜ2 (sive SB ²per47. 1. Elem.)
+D M ² et S B = D M.
+298. 6⁰.
+tur perpendicularis B K ad lineam G K, etli-
+eaB Sadfocum, erit semperKB: BS=
+A ε A S, nam propter Triangula similia
+G M D,G A X, est G M (sive K Bob Parauelas
+GMetK B, G KetMB) ε MD(siveBS
+per 297) = G A ι Α X (sive A S per 296)
+hocaetK B ι BS= G A: A Sideoque
+KB=BS=Aa2 SHquoniam GA ι As
+= A a ι S H (per 294).
+
+299. Conversa etiam vem est ai ducatur per-
+pendicularis in lineam G K, et in ea sumatur B,
+itautsitKB: BS=G A ε As=Aa:
+S Hpunctum B est in Sectione Conicfi descripti.
+
+Sit enim Sectio Hyperbola aut Pambola, illa
+in unico puncto Β secabitur per lineam K B,
+{iletgzzegfflnffilggn §1331 =Pulxictsuu——i:lslsuaini {og}
+in ea linea K B producta si lubet, ita ut sit K B
+:B S= Aa: SH,smgaturenim dariillud
+punctum β, subtrahanturque termini duarum
+p⁰riorum rationum a se mutuo, erit K B — K β
+(5ἰνεΒβ)ε Βὸ-β S=Aaz SHoedquia
+in Hyperbola est A a, minor quam S H, et in
+Par-abela ei est aequalis, erit B β minor aut ae-
+qualis differentiae S B —- 8β, sed S B β est Tri-
+angulum, ergo absurdum est (per 20. 1. Elem.)
+unum ejus latus ut B β esse minus aut aequale
+differentiae aliorum, non datur ergo punctum
+illud β.
+
+2⁰. Sectio sit Enipsis3 Dumtur S K; si G K
+ffffffughssxsffiffffssffiffifgt‘ ἐξ. ὀἳ Ῑῗωῗ.
+G KexHyp.)=cE: ScetGS²z GK2=2
+c E 2 ε S οἳ, etcomponendo G 8²4 GK
+(rive SK² per 47. 1. Elem.) : G K² =.-= c E
+
+Si ex sectionis quovis puncto B. du-
+
+²⁸8
+
+C)
+

@@ -1,0 +1,51 @@
+66 PHILOSOPHIAE NATURALIS [Mor. Conon.
+
+triangulo S B c, atque ideo etiam triangulo S A B. Simili argumento
+si vis centripeta successive agat in C, D, E, διο. faciens ut corpus singu-
+lis temporis particulis singulas describat rectas C D, D E, E F, &c-
+
+jwcebunt hae omnes
+
+in eodem plan03 et
+triangulum >S C D
+triangulo S Β C,
+etSDE ipsiSCD‚
+et S E F ipsi
+S D E aequale erit.
+AEqualibus igitur
+temporibus aequa-
+les areae in plano
+immoto describun-
+tur: et componen- ἢ ¹
+do, sunt arearum ,ἵζε 2⁵¹¹?
+summae quaevis ’Δ
+S A D S, S A F S inter se, ut sunt tempora descriptionum. Augeatur
+
+jam numerus et minuatur latitudo triangulorum in infinitum ; et eorum
+ultima perimeter A D F, (per Corollarium quartum Lemmatis tertii) erit
+linea curva: ideeque vis centn‘peta, que corpus e tangente hujus curvae
+perpetue retrahitur, aget indesinenter3 areae' vere quaevis descriptae S A
+D S, S A F S temporibus descriptionum semper proportionales erunt
+iisdem temporibus in hoc casu proportionales. Q. e. d.
+
+Corol. 1. velocitas corporis in centrum immobile attracti est in spatiis
+non resistentibus reciproce ut perpendiculum εὶ centro illo in orbis tangen-
+tem rectilineam demissum. (b) Est enim velocitas in locis illis A, Β, C,
+D, E, ut sunt bases aequalium triangulorum A B, B C, C D, D Ε»
+Ε F; et hae bases sunt reciproce ut perpendicula in ipsas demissa.
+
+Corol. 2. Si arcuum duorum aequalibus temporibus in spatiis non resis-
+tentibus ab eodem corpore successive descriptorum chordae A B, B C*
+compleantur in parallelogrammum A B C U, et hujus diagonalis B U in
+ee positione quam ultime> habet ubi arcus illi in infinitum diminuuntur, pro-
+ducatur utrinque ; ( e) transibit eadem per centrum virium.
+
+Cor-ol. 3. Si arcuum aequalibus temporibus in spatiis non resistentibus
+
+ 
+
+(b) 172. Est enim velocitas in locis iilis A, lium autem triangulorum bases sunt recipro-
+B, C, D, E, ut sunt bases aequalium triangu- ce ut eorum altitudines, hoc est, reciproce ut
+lorum Α Β, Β C, ‘C D, D E, E F, aequalibus perpendicula ex centro virium S, in bases de-
+temporibus uniformi motu descriptae (⁵) ς aequa- missa. Cum igitur evanescentibus triangulis
+

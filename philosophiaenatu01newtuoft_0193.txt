@@ -1,0 +1,70 @@
+mez Pinnos] PRINCIPIA MATHEMATICA. 157
+
+Et contra, si punctum mobile D contingat sectionem conicam transeun-
+tem per data puncta
+B, C, A, et sit an·
+gulus D B M sem-
+per aequalis angulo
+dato A B C, et angu-
+lus D C M sempei
+aequalis angulo dato
+A C B, et ubi punc-
+tum D incidit succes· ζ
+sive in duo quaevis CA
+sectionis puncta im-
+mobilia p, P, punc-
+tum mobile M incidat
+
+successive in puncta
+duo immobilia n N : per eadem n, N, agatur recta n N, et haec erit locus
+
+perpetuus puncti illius mobilis M. Nam, si fieri potest, versetur punctum
+M in linez'i aliqui 0111·νὲ. Tanget ergo punctum D sectionem conicam per
+puncta quinque B, C, A, p, P transeuntem, ubi punctum M perpetuo tangit
+lineam curvam. Sed et ex jam demonstratis tanget etiam punctum D sec-
+tionem conicam per eadem quinque puncta B, C, A, p, P, transeuntem,
+(Ρ) ubi punctum M perpetuo tangit lineam rectam. Ergo duae sectiones
+
+   
+
+„5-
+ι,
+--------
+.....
+⁸*x,
+......
+
+pai-allelu, ergo per naturam Pnrallelarum, est
+lineo P T pan-aneia lineae B A.
+
+Eodem plane modo demonstrabitm· lineam
+C A esse Parnllelam lineae P R. Quibus
+positis, sit sectio Conica per puncta B, C, P et
+A transiens, lineae B D, C D juxta eondi-
+tiones in Lemmate praescriptas ductae, concursu
+suo D percurrent eam sectionem Conicam: Pro-
+ductis enim lineis P T, P R, donec secent
+lineas C AQB A, in S et Q fiet Par-allelo-
+grammum A S P Q, quod in Anguis suis omoni-
+τῖε Α et P tangit sectionem combam et lateribus ‹m-
+guli A productis occurrit eidem sectioniin Β et C,
+et lineoe BD, CDa punctis occursuumBet educta
+(secundum conditiones Lemmafis hujusce XXI.)
+abscindunt a Parallelogrammi lateribus 1²8, P Q
+partes P T, P R quoe sunt ad invicem in datd ra-
+, tione (per demonstrationem Newtoniauam hujus-
+ce) ergo (per 2. Casum Lem. XX.) punctumD
+tangit sectionem Conicam per puncta quatuor A,
+B, 0, P transeuntem.
+
+(Ρ). Ubi punctum M, perpetu& tangis lineam
+
+rectam n N, &c. cum emm angulorum da-
+
+torum ABC, ACB, lamnam coincidunt
+cum recta C B, punctum A, aliorum late-
+rum B A, C A, intersectio, locatur in
+sectione conia& perpolos C, B, mseunte; dum
+
+ 
+

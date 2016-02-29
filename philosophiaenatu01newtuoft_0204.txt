@@ -1,0 +1,44 @@
+168 PHILOSOPHIAE NATURALIS. [Mor. comma.
+
+” In hac propositione, et casu secundo propositionis superioris construe-
+tiones eaedem sunt, sive recta X Y trajectoriam secet in X et Y, sive non
+secet3 eaeque non pendent ab hac sectione. Sed demonstratis construc-
+tionibus ubi recta illa trajectoriam secat, innotescunt constructiones, ubi
+non secat3 iisque ultra demonstrandis brevitatis gratia non immoror.
+
+LEMMA XXII.
+
+Figuras in alias ejusdem generis figuras mutare.
+
+Transmutanda sit figura quaevis H G I. Ducantur pro lubitu rectae
+duae parallelae A O, B Ltertiam quamvis positione datam A B secantes in
+A ’ et B, et a figuroe puncto quovis G, ad rectam A B duc'atur quaevis G D,
+ipsi O A parallela. Deinde a puncto aliquo O, in linea O A dato,
+ad punctum D dueatur rec-
+ta O D, ipsi B L occurrens
+in d, et a puncto occursus
+erigatur recta d g datum
+quemvis angulum cum rec-
+ta B L continens, atque
+eam habens rationem ad
+O d quam habet D G ad
+Ο D; et erit g punctum in
+figura nova h g i puncto
+G respondens. Eadem
+ratione puncta singula fi- κῃ,
+gurae primae dabunt punc· A D · 1
+ta totidem figurae novae. Concipe igitur punctum G motu con-
+tinuo percurrere puncta omnia figurae primae, et punctum g motu
+itidem continuo percurret puncta omnia figurae novae et eandem describet.
+Distinctionis gratia nominemus D G ordinatum primam, d g ordinatam
+novam3 A D abscissam primam, a d abscissam novam; O polum, O D
+radium abscindentem, O A radium ordinatum primum, et O a (quo pa-
+rallelogrammum Ο Α Β a completur) radium ordinatum novum.
+
+Dico jam quod, si punctum G tangit rectam lineam positione datam,
+punctum g tanget etiam lineam rectam positione datam. Si pimctum G
+tangit· conicum sectionem punctum g tanget etiam conicum sectionmn.
+comem sectionibus hic circulum annumero. Porro si punctum G tangit
+
+  
+

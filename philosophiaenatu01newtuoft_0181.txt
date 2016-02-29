@@ -1,0 +1,50 @@
+Lmnu Panum] PRINCIPIA MATHEMATICA. 146
+
+scholium.
+
+Ubi trajectoria est hyperbola, sub nomine hujus trajectoriae oppositam
+
+“ hyperbolam non comprehendo. Corpus enim pergendo in motu suo in
+
+oppositam hyperbolam transire non potest.
+
+Casus ubi dantur tria puncta sic solvitur expeditius. Dentur puncta B,
+C, D. JunctasB C, CDproducad E, F, ut sit E Bad E C utS Bad
+SC, etFCad F D utS C adS D. Ad E F ductamet produc-
+tam demitte normales S G, B H, inque G S infinite producta cape G A
+adASet G a ada Sut est H Bad B S; eteritAvertex, et Aaaxis
+principalis trajectoriae: quae, perinde ut G A major, aequalis, vel minor
+fuerit quam A' S,
+erit ellipsis, para- D
+bola vel hyperbo-
+
+  
+ 
+
+primo casu ca· H
+dente ad eandem F :12:22⁶ss
+partem lineae GF G
+cum puncto A;
+
+in secundo casu
+abeunte in infi- ¹
+nitum3 in tertio E
+cadente ad con-
+trariam partem lineae G F. Nam si demittantur ad G F perpendicula
+C I‚DK; eritI C adHB utECadEB, hoc est, utSCadSB3
+et vicissim I C ad S C ut H B ad S B sive ut G A ad S A. Et simili
+argumento probabitur esse K D ad S D in eadem ratione. (¹) Jacent
+ergo puncta Β, C, D in coni sectione circa umbilicum S ita descripta,
+ut rectae omnes, ab umbilico S ad singula sectionis puncta ductae, sint
+
+. ad perpendicula a punctis iisdem ad rectam G F demiss‘a in data illa ra-
+
+tion . .
+hiethodo haud multum dissimili hujus problematis solutionem tradit
+
+clarissimus Geometra de la Hire, Conicorum suorum Lib. VIII. Prop.
+XXV.
+
+(¹) ⁶ Jacent ergo puncta B, C, D, in cmi sectione (vide-unm.)
+Vox.. 1. K
+

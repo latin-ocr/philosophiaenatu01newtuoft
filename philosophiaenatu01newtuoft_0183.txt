@@ -1,0 +1,55 @@
+, propter datos angulos triangu-
+
+mez Panium] ‘PRINCIPIA ‘MATHEMATICA. ''147
+
+Cas. 2. Ponamus jam trapezii latera opposita A C et B D non esse
+parallela. Age B d parallelam A C et occurrentem tum rectae S T in t,
+tum conicae sectioni in d. J unge C d secantem P Q in r, et ipsi P Q ¹pa..
+rallelam age D M secantem C d (j
+in Met A B in N. Jam ob si-
+milia triangula B T t, D B N ; 5 -····--·--···· , -·············⁴ 2
+estBtseuPQathutDN ³
+ad N Β. Sicet(⁷⁴) RrestadAQ
+seu PS ut DMad AN. Ergo
+
+ducendo antecedentes in antece-
+dentes et consequentes in conse..
+quenteS‚ ut rectangulum P Q in R r
+est ad rectangulum P S in T t, ita -·, .·
+rectangulum N D M est ad rec- Α Q, N Β
+tangulum A N B, et (per Cas. 1.) ita rectangulum PQ in Pr est ad rect-an-
+gulum P S in P t, (†) ac divisim ita rectangulum P Q Χ Ρ R est ad rec—
+tangulum P S Χ P T. Q. e. d.
+
+Cas. 3. Ponamus denique li· c
+neas quatuor P Q, P R, P S,
+P T non esse parallelas lateribus
+
+A C, A B, sed ad ea utcunque in-
+
+clinatas. Earum vice age P q,
+
+P r parallelas ipsi A C; et P s, S
+
+    
+  
+
+P t parallelas ipsi A B3 et
+
+lorumPQq,PR r,PS S, P
+T t, dabuntur rationes P Q ad ,.·· ἕ
+Pq‚PRadPr,PSadPs,A Q ‘l Β
+et P T ad Pt3 atque ideo rationes compositae P Q Χ Ρ R ad P'q Χ
+Ρ r, et P S Χ Ρ Τ ad P s* Χ Ρ t. Sed, 'per superius demonstrata, rado
+pquradPs Χ Ρ tdata est: ergo et ratio P Q Χ Ρ R adP S Χ Ρ T.
+Q. e. d.
+
+Α (²) *Rr :pasAQ PS=DM.· AN. ANB--PQxR :PS>(T1=PQ
+Suntenimpropter eullaer‚nM321a·an- ><Pr=Ps><Pt,etdivisszDM. ANB
+gular rcR MCDpZ mla,dq Rr :DM =PQ><Pr--PQ><Rr:Ps><Pt
+=cr ·CMg; sede arte ·CM=AQv el —Psx Tt=PQ>< PR2PS><P1
+PS: AN, &Rr :DM=QAve·1Ps edratioNDMadANBdamesge erg& et
+ANertR go=S DM: AN. ratioPQxPRadPsxPT.
+
+(†) ‘Ac (jem sim. Ex aemonstratis NDM=
+

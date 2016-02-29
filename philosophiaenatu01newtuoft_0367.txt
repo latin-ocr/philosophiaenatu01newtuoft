@@ -1,0 +1,117 @@
+erm Pramus]
+
+PRINCIPIA MATHEMATICA.
+
+331
+
+(per Corol. 2. Ptop. IV.) in ratione composite ex ratione simplici radii
+Τ Ρ directe et ratione duplicata temporis periodici -, inverse: patet hanc
+rationem compositam diminui per actionem vis K L; ideoque tempus pe-
+riodicum, si maneat orbis radius T P, augeri, idque in subduplicatfi ra· ᾗ
+tione, quii vis illa centripeta diminuitur: auctoque ideo vel diminuto hoc
+radio, tempus periodicum augeri magis, vel diminui minus quam in radii
+hujus ratione sesquiplicatfi, (per Corol. VI. Prop. IV.) Si w's illa corporis
+centralis paulatim languesceret, corpus P minus semper et minus attrac-
+tum perpetuo recederet longius a centro T; et contra, si vis illa augere-
+tur, accederet propius. Ergo si actio corporis longinqui-S, quii vis illa
+diminuitur, (⁸) augeatur ac diminuatur per vices: augebitur simul ac di-
+minuetur radius T P per vices 3 et (t) tempus periodicum augebitur ac
+
+’ (“) ⁸ Augeatur ac diminuatur pervices. Quo-
+niam vis qua corpus P trahitur 'a corpore T, est
+ejusdem corporis P vis centripeta qua in orbiti:
+suii retinetur3 si remissior fuerit vis illa, corpus
+P minus attractum a centro T longius recede-
+ret; et contra, si augeatur vis illa, corpus P ad
+T propius accedet. Aucta igitur actione corporis
+S in T per accessum corporis T ad S, augetur
+vis N M minuiturque vis centripeta corporis P,
+ac proinde crescit distantia P T. E contr& au-
+tem decrescente corporis S actione per recessum
+corporis T ab S decrescit quoque N M et auge-
+tur corporis P vis centripeta, minorque fit dis-
+tantia P T. Haec omnia per vices contingent,
+ubi nempe corpus T corpori S proximius suerit,
+augebitur radius P T, ubi vero remotius evadet
+minuetur radius.
+
+(⁸) ⁸ Et tempus mriodoeum augebitur nc ‹15-
+minuetur, ἃς. Corpus P circs T, exclusi cor-
+poris longinqui S vi ablatiaeifi, in circulo P A D
+revolvatur, et accedente vi illa ablatitia corporis
+S quae, ob ingentem distantiam S T, parva ad.
+modum sit respectu vis quzi corpus P a corpore
+T trahitur, idem corpus P in orbe fere circulari
+adhuc revolvetur. Jam vero corporis circulum
+vel orbem circulo finitimum describentis vis ac-
+celerauix versus T directa est semper (per Cor.
+2. Prop. 4.) in ratione composita ex ratione
+simplici radii T P qui ‘dicatur R directe et ra.-
+tione duplicatae'i temporis periodici, quod dicatur
+t inverse, hoc est, vis accelerati-ix corporis P ver-
+
+R . 1 .
+sus T, tamt—², etmanente radio ut {7³ sedus
+
+accelerata-ix in distanti& data est ut vis absoluta
+corporis trahentis, ergo si corporis T trahentis
+vis absoluta dicatur V, erit V ut 5¹3 et t ² ut 3¹75
+
+μιν manenteradio T P seu R. Porro
+
+vis acceleratrix quii corpus P versus T trahitur,
+exclusi vi ablatitjfi corporis S, est reciproce ut
+quadratum distantiae T P, hoc cst directe ut
+
+80 tut
+
+ 
+
+ῖέἶ (ex hyp.) Et quomam vis ablatitia corpo-
+
+ris S, exigua admodum est respectu vis accelera-
+tricis quii corpus P a corpore T trahitur, ncce-
+dente vi illa ablatitifi, vis reliqua acceleranix in
+corpore P erit adhuc ut ἐ-Ζ- quam proxim&
+quare eadem manente reliquii vi centripeu'i abso-
+luta corporis T et mutato utcumque radio R,
+quadratum temporis periodici t ² erit ut distan-
+tiae cubus R ³. ac proinde t ut §l R ³. (per Co-
+rol. 6. Prop. 4.) hoc est tempus periodicum est
+in sesquiplimtii ratione radii T P, Si igitur
+neque maneat radius iden, neque eadem vis cen-
+tripeta absoluta in corpore T, sed per actionem
+corporis longinqui S radius augeatur, et viscen-
+tripeta minuatur, aut per diminutionem ejus
+actionis radius minuatur, et vis centripeta auge-
+atur, quadratum temporis periodici t ² erit in ra-
+tione compositi ex binis rationibus supr& inven-
+
+tis, nimirum ex ratione 317, et ratione R ³, hoc
+
+R³
+
+est t ² erit ut 113³, et 'proinde t ut γ -Τ, aut
+
+ 
+
+quod idem ost, tempus periodicum augebitur ac
+diminuetur in ratione composita ex ratione
+γ R ³, sesquipucata radii, et ratione jv sub.
+duplicat& hujus quii vis illa centripeta corporis
+centralis T per incrementum vel decrementum
+actionis corporis longinqui S diminuitur vel au-
+
+ 
+
+getur 3 nam decrescente V crescit pariter -ἐ, et
+
+contra crescente V in eidem ratione decrescit
+l
+
+502. Scholium. Hinc ut David Gregorius
+in scholio ad Prop. 17. Lib. 4. Astronomiae
+physicae et geometricae observavit, si vis centri-
+peta corporis centralis T aliunde quam per vim
+extraneam corporis S augeatur et minuatur per
+

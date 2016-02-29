@@ -1,0 +1,54 @@
+Lam ammos] PRINCIPIA MATHEMATICA. 209
+
+trochoides) geometrice irrationales. Nam longitudines quae sunt vel nou
+sunt ut numerus ad numerum (quemadmodum in decimo elementorum) Ἴ
+sunt arithmetice rationales vel irrationales. Aream igitur ellipseos tem-
+pori proportionalem abscindo per curvam geometrice irrationalem
+
+ut sequitur.
+
+PROPOSITIO XXXI. PROBLEMA XXIII.
+
+Corporis z'n data trey‘ectorid ellipticd moti invenire locum ad tempus assig-
+natum.
+
+'Ellipseos APB
+sit A vertex prin-
+cipalis, S umbili-
+cuS, et O cen-
+trum, sitque P
+corporis locus in-
+veniendus. Pro-
+
+duc O A ad G,
+ut sit O G ad
+O A ut O A ad
+O S. Erig'e perpendiculum G H, centroque O et intervallo O G
+describe circulum G E F, et super regula G H, ceu fundo, pro-
+grediatur rota G E F revolvendo circa axem suum, et interea puncto
+suo A describendo trochoidem A L Ι. Quo facto, cape G K in ratione
+ad rotae perimetrum G E F G, ut est tempus, quo corpus progrediendo ab
+A descripsit ai cum A P, ad tempus revolutionis unius in ellipsi. Eriga-
+tur perpendiculum K L occurrens trochoidi in L, et acta L P ipsi
+K G parallela occurret ellipsi ιιι corporis loco quaesito P.
+
+Nam centio Ο, intervallo O A describatur semicirculus A Q B, et al cui
+
+ 
+
+H
+
+siPt arcus A Nin ratione indefinita rectae P G ad tificatio arcus A N, aequatione finitfi generaliter
+M'aessuaq tioilla finitaesse nequit. Ergo curva exhiberi non potest. Q. e. d. ,
+ua arcus quilibet A N in ratione 865. Hinc patet curvas omnes quarum de-
+quavis P Gq ad P M per eandem semper con· scriptio pendet a quadratura vel rectificatione eir-
+structionem dividitur geometrice, rationalis non culi et 'ovalium indefinita quales sunt spii-ales,
+δη sed si arcus A N et rectarum A P, P N quadratrices, trochoides esse geometrice irratio-
+relatio posset oequatione finita exprimi, eadem nales. Ex demonstratis autem minime sequitur
+aequatio exhiberet quoque relationem abscissae circuli et ovalium quadraturam vel recufltatior em
+A P ad ordinatam P M, ac proinde curva determinatam seu quadraturam vel recutiat-orem
+A Μ D esset geometrice rationalis. Ergo rec· totius ovalis aut portionis illius determinatae· im.
+possibilem esse.
+
+Vox.. Ι. 0
+

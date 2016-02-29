@@ -1,0 +1,55 @@
+meae Pramus] PRINCIPIA MATHEMATICA. 227
+
+loco A perpendiculariter cadendo tempore dato describit, si modo tem-
+pori proportionalis capiatur area‘A B D, et a puncto D ad rectam A B
+demittatur perpendicularis D C (f). Q. e. i.
+
+Cas. 2. Si figura illa R P B hyperbola est, describatur ad eandem
+diametrum principalem A Β hyperbola rec- ’
+tangula B E D: et (g) quoniam areae C S P,
+CBfP‚ SPfB sunt ad areas C S D,C
+C B E D, S D E B, singulae ad sin-
+gulas, in data ratione altitudinum C P,
+C, D; et area S P f B proportionalis est S
+tempori quo corpus P movebitur per arcum Β
+Ρ f B; erit etiam area S D E B eidem tem-
+pori proportionalis. Minuatur latus rectum
+hyperbolae R P B in infinitum manente latere
+transverso, et coibit arcus P B cum recta
+C B et umbilicus S cum vertice Β et recta
+S D cum recta B D. Proinde area B D E B
+proportionalis erit tempori quo corpus C
+recto descensu describit lineam C B. A
+Q. e. i. ““
+
+Cas. 3. (¹¹) Et simili argumento si figura
+R P B parabola est, et eodem vertice prin-
+cipali B describatur alia parabola B E D, c
+quae semper maneat data, interea dum para.
+bola prior, in cujus perimetro corpus P
+movetur, diminuto et in nihilum redacto
+ejus latere recto, conveniat cum linea C ΒΞ
+fiet segmentum parabolicum B D ‘E B S
+proportionale tempori quo corpus illud P 3
+vel C descendet ad centrum S vel B.
+
+Q. e. i.
+
+  
+    
+
+(f) 392, pmmdari, D ρ, Quoniam dines c P, c n (suffundi 50. divisim c B fr
+
+maA Β D, semperproportionalis estoempori ¹·-C S Ρ ad C Β Ε D— C S D· hoc est,
+quo corpus ex puncto A per rectam A C cadit, sector S P f B ad sectorem S D E B ut C P
+erit totius semicirculi area A D E B, propor- ad C D. .
+{ionalis tempori quo corpus idem cadendo per- (¹³) 394. Simili argumento. ‚In Parabpla- 10.
+currit lineam A B, et divisim area segmenti C SP: CSD=C P: C D. 20. sit nnis
+B D Ε Β, proportionalis tempori quo corpus rectum Parabolae B f P .= 1, latus rectum Pa-
+ex A, cadendo percurrit lineam C Β. mbolae B E D = L, ent, ex natura P
+
+(⁸) 393. Quoniam nreoe. Nam10. triangula 1ae C P²= l χ C Β et C D²= L χ ,’
+C S P, CS unorumaetbasiscommunis C S, adeoque C P: C D= &1:41 L, hoc est,
+sunt ut altitudines C P, C D. 20. areae hyperbo- in ratione dats, erg& area C .- Β Ῐ P est ad
+licae C B fP, CB E D sunt ut eaedem altitu- aream C BE D, inefidem ranonedatac P ad
+

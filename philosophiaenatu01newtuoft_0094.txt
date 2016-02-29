@@ -1,0 +1,97 @@
+58 -PHILOSOPHIAE NATURALIS [Moru Coaron
+
+διο. habebitur series angulorum contactus pergens in infinitum, quorum
+' quilibet posterior est infinite minor priore. Et si fiat D Β successive ut
+A D2, A ΒΞ, Α Dg, A DJ„ A Dg, A D}‚ διο. habebitur alia series
+infinita angulorum contactus, quorum primus est ejusdem generis cum
+circularibus, secundus infinite major, et quilibet posterior infinite major
+priore. Sed et inter duos quosvis ex his angulis potest series utrinque in
+infinitum pergens angulorum intermediorum inseri, quorum quilibet pos-
+terior erit infinite major minorve priore. Ut si inter terminos A ΒΩ, ,et
+A D3, inseratur series A D ¹355, A D¹3¹, A ΒΞ, Α Βξ, Α D{,VA Dfir,
+’ Α DEI-¹, A D¹34, A Dlg, &c. Et rursus inter binos quosvis angu-
+los hujus seriei inseri potest series, nova angulorum intermediorum ab in-
+vicem infinitis intervallis differentium. Neque novit natura limitem.
+
+( ¹ ) Quae de curvis lineis deque superficiebus comprehensis demonstra-
+ta sunt, facile applicantur ad solidorum superficies curvas et contenta.
+(¹¹²) Praemisi verb haec lemmata, ut effugerem taedium deducendi longas
+demonstrationes, more veterum geometrarum, ad absurdum. Contrac-
+tiores enim redduntur demonstrationes per methodum indivisibilium. Sed
+quoniam durior est indivisibilium hypothesis, et propterea methodus illa
+minus geometrica censetur3 (¹¹) malui demonstrationes rerum sequentium
+
+(153). Loco m, substituantur numeri l, 1 4 ὲ,
+
+1 ÷}‚1†215‚1 †},1-}-{‚1 43⁵1 4}
+1 4 ἓ, 1 ..Ι- g, &c., erit A C, successive ut
+
+c 132, c Ε-ἣό-ὄ, c E 131-,0 E ἓ ac„ et habebitur
+
+series infinita angulorum contactas, quorum
+quilibet posterior est infinite minor priore (155),
+et inter binos quosvis angulos hujus alteriusve
+seriei inseri potest series nova angulorum inter-
+mediorum ab invicem infinitis intervallis differ-
+entium; ut enim ea series inveniatur, sufficit
+inter duos numeros datos, v. G. 1, l -Ι- 315, seriem
+
+invenire numeromm crescentium, vel decres-
+centium, quorum quilibet major sit altero ex nu-
+meris datis, minor altero, quod facillimum est.
+
+(l) 135. Id exemplo facili illustrare satis erit.
+Pyramidis et coni sit idem vertex eademque al-
+titudo, et basis pyramidis sit polygonum inscrip-
+tum circulo qui basis est coni, numems laterum
+polygoni augeatur, et eorum longitudo minuatur
+in infinitum, et 'polygoni ac circuli ultima ratio
+(Lem. 7.) erit ratio aequalitatis‚ ac proinde ul-
+tima ratio pyramidis illiusque superficiei ad co-
+num et illius superficiem curvam, erit quoque
+ratio oequalitatis3 unde curva superficies coni
+aequalis est summae ultimae triangulorum evane-
+scentium, quorum communis vertex est vertex
+coni, bases vero latera evanescentia polygoni cir-
+, culo inscripti.
+
+(¹¹¹) 136. Quam magnos progressus Geome-
+ffiss fecerit, hine cognoscere licet. Veteres Geo-
+metrae in iis quaestionibus quae Infinita· conside-
+
+rationem involvunt, suas demonstrationes ad ab·
+surdum revocabant, et ex falsis suppositionibus
+verum eruebant. Ut inter duas quantitates quae
+ad aequalitatem constanter vergunt, et tandem
+propius ad invicem accedunt quam pro data qua-
+vis differentia rationem aequalitatis intercedere
+demonstrarent, prius supponebant inter eas quan-
+titates esse vel majoris vel minoris inaequalitatis
+rationem, deinde utrumque falsum demonstra-
+bant, et ex hac reductione quam ad absurdum
+vocant, inter illas quantitates perfectam oequali-
+tatem esse concludebant. Quam autem pm·
+
+plexus sit et taediosus hic demonstrandi modus,
+nemo non videt. Verum licet imperfecta admo-
+dum fuerit veterum Geometria‚ non iis tamen
+omnin& ignota fuerunt methodi infinitesimalis
+principia. Quantitates infinite parvas seu eva·-
+nescentes pro nihilo habendas esse in multis de-
+monstrationibus tanquam axioma posuerunt Eu-
+clideset Archimedes; in exemplum afferemus uni-
+cum vulgaris Geometriae theorema. Ut demon
+
+strarent circulos esse inter se ut quadrata diame-
+trorum, fingebant iis circulis inscripta esse vel cir-
+cumscripta polygona similia quorum latera nu-
+mero augerentur et longitudine minuerentur in
+infinitum, ita ut polygonorum inscriptorum vel
+circumscriptorum a circulo differentia soret qui-
+vis dati magnitudine minor; quia νει-ὂ haec po-
+lygona sunt ut quadrata diametrorum circulorum
+quibusinscribuntur vel circumscribuntur, circu-
+los pariter esse ut quadrata diametrorum conclu-
+debant. Varios infinitorum ordines supponit
+illud idem theorema, licet nou adverterent vete-
+

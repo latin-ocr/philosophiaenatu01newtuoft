@@ -1,0 +1,108 @@
+214
+
+PHILOSOPHIAE NATURALIS [Mem. Conon. ’
+
+imus vero ejus loco p.¹ Demissfique ad axem ellipseos ordinatim ap-
+plicata P R, ex proportione diametrorum ellipseos, dabitur circuli
+circumscripti A Q B ordinatim applicata R Q, quae sinus est anguli
+
+A Ο Q existente A O radio, quae-
+que ellipsin secat in P. Sufficit
+angulum illum rudi calculo in
+numeris proximis invenire. Cog-
+noscatur etiam angulus tempori
+proportionalis, id est, qui sit ad
+quatuor rectos, ut est tempus, quo
+corpus descripsit arcum A p,
+
+A S
+
+ad tempus revolutionis unius in ellipsi.
+
+    
+
+ΒΓ 0 H B
+Sit angulus iste N. Tum
+
+*capiatur et angulus D ad angulum B, ut est sinus iste anguli
+A O Q ad radium, et angulus E ad angulum N —- A O Q -Ι-
+Ι), ut est longitudo L ad longitudinem eandem L cosinu anguli
+A O Q diminutam, ubi angulus iste recto minor est, auctam ubi major.
+Postea capiatur tum angulus F ad angulum B, ut est sinus anguli
+
+SOXcos—AB
+
+ade6que Ο F= R . Crescentibus
+
+A N, A Q. QR, decrescit R Ο, et evanescit
+ubi A Q est circuli quadrans, ac tandem fit ne-
+gativa ubi A Q quadrante major est. Quare
+cumsit-1- O Q:† S 0=R0:0 F,
+Ο F idem signum -}- vel - habere debet cum
+R O, adeoque si angulus A Ο Q, seu arcus
+A Q est quadrante minor, O F est quantitas
+affirmativa ς si A Q quadrans est, Ο F evanes-
+cit; si A Q est quadrante major,
+OF fit negativa. Est igitur OQ·-
+SO)< ⁰⁰⁵'ffi·oQ—QM·
+
+R.
+Qq, seuon0=S⁰R>< L,
+estSO><L—SO><cos.AQ.
+“-Ἶὶ--’
+
+SORxlss sive L-cosAoz
+
+L= Q M: Q q, si fuerit
+A Q minor quadrante, et L
+-J-cos. AQ: L=QM2 Qq,
+ει fuerit A Q major quadrante.
+Est autem arcus Q M = A N
+—AQ÷NM=N-AQ÷
+D, quare si arcus Q q, dicatur
+Ε, eritE2N-AQ ÷D=
+L: LsscoaAQetAQ
+-f-.E, erit aequalis A q; invento itaque E per
+ultimam proportionem, si loco A Q capiatur
+arcus accuratior A q, seu angulus A O Q -1-
+Ε, et instituatur processus priori similis, ca-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A
+
+piendo arcum F, adamum B, ut &tainus arcus
+AQ4Esequ adradium, etarcurn Gad
+arcum N-—A q-l-F, seu, N--A Q— E
+-Ι- F, ut est longitudo L, ad longitudinem ean-
+dem cosinu anguli A Ο q seu A 0·Q÷ E
+diminutam ubi angulus A O q fecto minor at,
+auctam ubi major, erit A εΗ- Εη- G, seu
+A q -ι- G, arcus magis verim, et similiter si
+loco arcus A q, usurpetur arcus A q -1- G et
+idem repetatur processus, invenietur novus ar-
+
+  
+
+H B
+
+cus A -Q-l-E-f- Gssl, seu A q 4 ΘἛ 1,
+accuratior arcu A q G, et sic pergere oet
+in infinitum et quantumvis proximent} veritatem
+
+accedere.
+
+ 
+
+ 
+

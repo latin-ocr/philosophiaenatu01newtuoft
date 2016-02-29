@@ -1,0 +1,120 @@
+ 
+
+Lim-:n anus.] PRINCIPIA MATHEMATICA.
+
+371
+
+neam P S ad centrum S tendentem minor in ratione P D ad P E, (⁸)
+ideoque ut P D Χ D d. Dividi jam intelligatur linea D F in particu-
+las innumeras aequaloe, quae singulae nominentur D ἃς et superficies F E
+dividetur (²) in totidem aequales annulos, quorum vires erunt ut summa
+omnium P D Χ D d, hoc est, ut ᾖ Ρ Fq—} PDq, ideoque ut (b)D E
+quad. Ducatur jam superficies F E in altitudinem F f ; et fiet solidi
+E F f e vis exercita in corpusculum P ut D E q Χ F f : puta si detur vis
+quam particula aliqua data ΕΤ in distantia P F exercet in eorpusculum
+
+P.
+
+(⁰) At si vis illa non detur, fiet vis solidi E F f ο ut⁴ solidum D E q
+
+Χ F f et vis illa non data conjunctim. Q. e. d.
+
+tione puncti E, lium P E superficiem eonicam
+describit.
+
+(²) ⁸ Ideoqueut PDde. Nam ai vis
+aeeundum directionem P E agens per lineam
+P E exponatur, vis illius pars quae agit secun-
+dum directionem P S, exponetur per lineam
+PD; erit P EadP DutrectangulumPEx
+D d ad rectangulum P D χ D d, quod proinde
+vim illam secundum directionem P D exhibebit,
+vires autem obliquae E D ab utraque axis P Β
+parte se mutuo destruunt.
+
+(⁸) ⁰ Dividetur in totidem aquales annulos.
+(Per nm. 518.)
+
+(ὓ) ⁸ Ee superficies F E dividetur in totidem
+aequaloe annuales, quorum vires erunt ue summa
+omnuim PDde, hoc est, ut PFq—
+ἦ Ρ D q, ideoque ut D E quad. Sci icet omnes
+P D, dum ex P D in P F mutantur uniformiter
+crescendo progressionem arithmeticam faciunt,
+quoniam omnes particula! D d quibus lineae P D
+successive augentur sunt aequales: ergo omnium
+P D summa ea ratione invenitur qua summm
+progressionum arithmeticarum obtinentur, nem-
+pe primum et ultimum progressionis terminum
+simul junctos multiplicando per numerum termi-
+norum progressionis, et dimidium facti sumendo;
+Pro ionis vero hujusce primus terminusest
+P D, ultimus P F numerus vero terminorum
+D F, siquidem D F est summa incrementorum
+:equalium evanescentium lineae P D, ergo sum-
+
+ma omnium P D est ψ sive
+
+(quia D F est differentia linearum Ρ F et P D)
+PF÷PD>< PF —PD
+
+sed (per 6. 2. Elem.) factum summ2oe et differ-
+
+ 
+
+ 
+
+aetsummaomnium PD=
+
+entiae duarum linearum aequatur differentiae
+
+quadratorum ipsorum, mgoffffl——ZOE—H)
+={P 1⁴¹²— -ξΡΒ1 et summa omnium
+PDde= {PF2 -QPD2de‚
+sed D d est particula quae in omnibus hisce ca-
+sibus ut eadem assumitur, ergo vires totius su-
+perficiei F E quae sunt ut summa omnium P D
+><Dd sunt ut} PF2—{PD2 sive ut
+PF2-PD2sedPF2 est aequale P Ε2
+per constr. etPE2-PD²=DE² (per
+47. l. El.) ergo vires superficiei F E, sunt ut
+D E ². Q. e. d.
+
+Idem aliter. Sit radius datus P E = a, va-
+riabilis F D = x, erit fluxio D d = d Χ, et
+PD=a—x, atque adeo P D>< Dd =
+a d Χ -—- x d x, et sumptis utrinque fluentibus
+(165)S. PD><Dd=ax—{xx=
+
+2⁸¹—xx—DE2, (Prop. 13. Lib. 6.
+
+Elem.) Quare vis superficiei convolutione ar-
+cus F Egenitae eritutD E'·
+
+(ε) ⁰ Ae si vis illa non detur, &c. Zona con-
+volutione arcus Ε e genna ducatur 'm datam al-
+titudinem F f, et erit annuli solidi inde geniti
+vis secundum lineam P E undique exercita ut
+hic ipse annulus et vis lineolae F f conjunctim,
+hoe est, si vis lineolae F f dicatur V, ut P Ε χ
+D d >< F f>< V (518). At vis annuli secun-
+dum lineam P S minor erit in ratione P D ad
+PE,ide6quee1-itutPD>< Ddx Ff>< V.
+Et quoniam variante P D, manet factum 1⁴· f Χ
+V quod nimirum vis V in ungulis particulis da-
+tis Fr, &qualis suppetiatum Si sumantur fluentes,
+..mmmm zm ⁰⁹:3¹¹&
+
+exem u
+D E ² Χ F f- >< V. ’
+
+ 
+
+ 
+
+ 
+
+ 
+
+Anu
+

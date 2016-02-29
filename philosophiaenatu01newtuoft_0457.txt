@@ -1,0 +1,57 @@
+ann Panum] PRINCIPIA MATHEMATICA. 421
+
+quas Cartesius in op‘tica et geometria ad refractiones exposuit. Quarum
+inventionem cum Cartesius celaverit, visum fuit hac propositione exponere.
+
+Corol. 2. Si corpus in su·
+perficiem quamvis C D, se-
+cundum lineam rectam A D,
+lege qufivis ductam incidens,
+emergat secundum aliam
+
+ 
+
+quamvis rectam D K, et a
+puncto C duci intelligantur
+lineae curvae C P, C Q ipsis A D, D K semper perpendiculares: (⁰) erunt
+incrementa linearum P D, Q D, atque ideo lineae ipsae P D, Q D, incre·
+mentis istis* genitae‚ ut sinus incidentiae et emergentiae ad invicem: et
+contra.
+
+abeat, et circulus, si puncta A et B co‘e’ant. menta nascentia. Sed, (ex demonstratis supri)
+Nam si punctum C inter A et B situm sit, et N D F δι ad D G, ut sinus incidentiae ad sinum
+inter A et C, cum sit A D = A M, et B D emergentiae‚ quan} incrementa linearum P D·
+= B N (per constr.) rectarum
+A D, B D differentia data erit,
+ut Ροιὲ aequalis AM —BN
+= A C 4- C M — B C .-
+CN=Ac—Bc.obcM
+= C N, ideoque curva C D E
+erit hyperbola cujus foci A et B,
+(per Theor. 3. de Hyperbolfx.)
+si punctum C inter puncta A et
+B positum non est, ut in hic
+figura, rectarum A‘ D, B D
+summa data erit, in hoc enim
+casu punctum C, est inter N, et
+M,atqueAD÷BD=Ac
+— C M -Ι- B C ἦ· C N =
+A (34- Β C. Est igitur C‘D E
+ellipsis cujus foci A et B, (Theor.
+3. de Ellipsi) quaeque foco alte- C
+rutro in infinitum abeunte mu· ‘ ,
+tatur in parabolam et focis coeuntibus mutatur Q D, atque adeo (Cor. Lem. 4.) lineae ipsae
+in circulum. P D, Q D, (quae simul nascuntur in puncto C)
+(⁰) 561. * Erum incrementa, διο. Nam si incrementis istis genitae, erunt ut sinus inciden-
+capiatur arcus‘quam n'iinimus D E, atque ex tiae et emergentiae adinvicem, et conv-zi, si linea.
+puncto E in curvas C P, C Q, et in rectas P D, P D, Q D curvis C P, C Q perpendiculum
+Q K, demittantur perpendicula E p, E qet E F, sint ut sinus incidentiae=et emergentiae, erunt
+E G, coeuntibus punctis E et D, erunt E F, earum incrementa nascentia in eadem semper
+P' p et E G, Q q sibi mutuo parallelae, et pro· ratione, ac proinde si corpus in superficiem OD
+ind& P F, p E et Q G, q E, aequales ideoque secundum linaem P D incidat, emerget secun-
+DFetDGeruntrectarumPD‚QDincre- dumlineamQDseuDK. .
+
+ 
+
+Dds
+

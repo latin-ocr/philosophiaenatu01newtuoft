@@ -1,0 +1,89 @@
+PHILOSOPHIAE NATURALIS [M'o'r. Com-on·
+
+60
+
+quacum motus cessat. Et similiter per ultimam rationem quantitatum
+evanescentium, intelligendam esse rationem quantitatum, non antequam
+evanescunt, non postea, sed quacum evanescunt. Pariter et ratio prima.
+nascentium est ratio quacum nascuntur. Et summa prima et ultima est
+quacum esse (vel augeri aut minui) incipiunt et cessant. Extat limes quem
+velocitas in fine motus fattingere potest, non autem transgredi. Haec est
+velocitas ultima. Et par est ratio limitis quantitatum et proportionum om·
+nium incipientium et cessantium. Cumque hic limes sit certus et definitus,
+problema est vere geometricum eundem determinare. Geometrica veroom-
+nia in aliis geometricis determinandis ac demonstrandis legitime usurpantur.
+
+Contendi etiam potest, quod si dentur ultimae quantitatum evanescen-
+tium rationes, dabuntur et ultimae magnitudines: et sic quantitas omnis
+
+(ἲ) 141. Seu, quantitatum determinatarum et jores vel minores3 si enim punctum B, velocius
+indivisibilium, sed, &c. semper progrediatur quam punctum C, in linei
+142. Ut quantitatum evanescentium aut nas- B C, incrementa B b, ¹fluentis A B, majora
+centium relationes atque proprietates invenian- erunt incrementis E c, fluentisB C, eodem tem-
+tur, considerantur quantitates finitae, harum pore genitis. Velocitates quibus illa incrementa
+
+investigantur relationes et proprietates et lex qua
+continu& crescunt vel decrescunt; quibus cog-
+nitis facile intelligitur quaenam proprietates
+quantitatibus illis crescentibus ac decrescentibus
+semper conveniant, adeoque et cum in infinitum
+minuuntur et evanescunt, vel cum nascuntur.
+Imo vero ex Lemmate primo aliisque sequenti-
+bus invenitur quaenam sint proprietates quae licet
+quantitatibus finitis non conveniant, evanescen-
+tibus tamen et nascentibus competunt, cum
+nempe quantitates finitae decrescentes ad illas
+proprietates, ut ita dicam perpetuo accedunt, et
+
+ad eas tempore dato accedunt magis quam pro ⁴
+
+differentia quavis data.
+
+Ex praecedentibus Lemmatibus facile deducitur
+ac demonstratur Newtoniana fluxionum metho-
+dus cujus generalia prinpria ut pote nobis in
+posterum profutura breviter explicabimus.
+
+145. Quantitatae indeterminatae quae
+continuo crescunt vel decrescunt, variabi-
+les aut fluentes dicuntur ; constantes vero
+aut determinatae vocantur, quae aliis com
+tinub crescentibus vel decrescentibus, eae.
+dem manent. Ordinatae B C, B D, su-
+per basi A F, motu sibi semper parallelo
+ita progrediantur, ut ordinata B D, ea-
+dem semper manente, punctum D, rectam
+G D d describat, et interim continuo cre-
+scente vel decrescente ordinata B C, punc-
+tum C describat curvam A C c; abscissa
+A Β, ordinata B C, curvae arcfis A c,
+areae A C B, A G D B, sunt quantitates
+mdeterminatae seu fluentes; recta vero
+Β D, est quantitas constans-
+
+144. Quantitates fluentes, ut A B, B C,
+aequalibus temporibus crescentes et crescen-
+do genitae, pro velocitate majori vel minori
+qua crescunt, ac generantur, evadunt ma-
+
+   
+
+ut B b, E c, eodem tempore genita, prim& nas-
+cuntur, dum nempe b c, coincidit cum B C, dis·
+cuntur uwiones, et methodus ex fluentibus in- ᾗ
+veniet ' fluxiones, methodus fluxionum directa
+vocatur-5 methodus vero ex fluxionibus invenien-
+di fluentes, methodus sturionum inversa appellatur.
+145. Velocitates quibus fluentium quantitas
+tum incrementa eodem tempore genita, primo
+nascuntur, sunt uniformes—Dem- Cum cur-
+v'a A C c, motu puncti C, velocitate quavis fini-
+ta progredientis describi possit, si illius puncti .
+velocitas secundum directionem C E, linoae A Β
+parallelam, supponatur unifomzis, velocita-
+ejusdem secundum directionem E c, pro varia
+curvae A C c natura, varia quidem erit in diver-
+sis curvae punctis, v. gr. iu C, et c; sed qud
+magis punctum c, ad C, accedet, eo minor erit
+velocitatis secundum directionem E c, variatio
+

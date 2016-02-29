@@ -1,0 +1,167 @@
+Lmen Primum]
+
+PRINCIPIA MATHEMATICA.
+
+75
+
+Corol. 9. (·) Ex eadem demonstratione consequitur etiam , quod ar-
+cus, quem corpus incirculo data vi centripetfi uniformiter revolvendo tem-
+pore quovis describit, medius est proportionalis inter diametrum circuli, et
+descensum corporis efidem data vi eodemque tempore cadendo confectum.
+
+ 
+
+ι’* C² c²
+—t—s- Et quoniam (195) v:v=.T= r,
+elitV:v=‚I—l,³'5 ι ἐπὶ τ’ R ς Τ 2 r:
+τ’ Τ2
+
+Τ · n· ’
+reciproce ut quadrata temporum periodioorum
+nd radios homologos applicata- etun· igitur caete-
+η omnia de temporibus, velocitatibus et viribusin
+circulis corollaria, ex superioribus proportionibus
+deducta sint, evidens aet efflem' omnia conve'nire
+teruporibus, velocitafibuS, et yiribuz, quibus cor-
+
+ 
+
+hocoegviresoenffipetoesunt
+
+pora similes m quarumcumque similium,
+
+centa-aque in figuris illis similiter posita haben-
+
+tium, partes describunt. '
+
+(⁸ ) 198. Corpus A A
+
+uniformiter revolvatur iu *g
+
+circuli peripheria A B G
+
+A, et idem vel aliud cor-
+
+pus ex puncto A, per ra-
+
+dium A S, eadem vi cen-
+
+tripeffi qufi corpus A in
+
+circuli peripheria retinetur
+
+continue> ita urgeatur ut
+
+(vi illa centripeffi constan-
+
+ti permanente, quemadmodum fit in ribus
+
+vi gravitatis constante cadeer‘i't‘ilbus) corpus illud
+
+corpusdoA‚ unifofflssrLamff aiectdlrliiorg qllxg
+
+Quoniamvisacoeleratrixper radium A S, con-
+
+· stans est ot continuo agit (per hyp.) corpus per
+
+, Α S, motu mifonniter accelerato cadit (25)
+
+cespati· perclusa sunt ut quadrata temporum
+
+quibus percurruntur (27), ducatur per A, tan-
+
+gens A D, et sumpto areu minimo A B, in tan-
+
+gentem demittatur perpendicularis B D, et com-
+
+pleatur rectangulum CD, eodemtempore quo
+
+corpus A, aequabili motu describit arcum A Β,
+
+per vim cerm-ipetam percurrit D B, seu A C,
+
+(ex Coroll. 3. Prop. 1³.) erit igitur A C, ad A L
+
+ut qradtatum temporis per A B, ad quadratum
+
+mporisperA F,hoeaet,0b motumincirculo
+
+aeziuabilem Ac : AL=AB²= AF²=
+
+A B ² A F 2
+
+Α-ο ² se ³ Μ
+
+tem A Β, suae chordae aequalem, sit A C =
+A B ² A F ² ’
+
+igitur ob arcum2nascen-
+
+ 
+
+-—-, erit quoque AL: atque adeo
+
+AG ,AG
+
+ALxAG=AF²etpmindeAL= Ar
+
+= A F ι A G.
+
+199. Coroll- 1. velocitas quii corpus A, pe-
+ripheriam circuli A F G A, uniformiter describit,
+aequalis est velocitati quam anquireret cadendo
+per dimidium radium A S, si vi centa-ipe& oon-
+stanti contiuua urgeretur aequali illi qufi corpus
+A in peripherizi circuli retinetur: Nam sit A L
+
+altitudo per quamA oedmdebet utaequirat
+velocitatem quii peripheria circuli desa-ibim,
+{2¹22ss ffl‘Lfflfflassm‘fflssmpssm‘mffl ἓ.
+quabili , ΞΑ L per velocitatem eam
+in L acquisitam (30), ade6que erit ‘A‘ F
+z= 2 A L siquidem eodem tempore endem—
+que celeritate aequabili percurruntur, sed est
+semper AF²=AL χ A G (198) cum
+igitursit2 AL= A F ac proinde 4 A L 2
+= AFsserit 4 AL²= A L><AG t
+4AL= A Get AL=J¹4G A}
+200. Coroll- 2. Tempus revolutionis perin-
+Ξῇ-’ἒωωξῖἰῖἰὲῗέωῗπᾚᾱῗέἑίἒέἓ-ῗῖ
+peripheria ad radium. Nam eodem tmpore quo
+dimidius radius motu uniformiter accelerato per-
+curritur, totus radius describeretur cum equa-
+bili velocitate lapsu per dimidium radium acqui-
+sita (30) ea ver& ipsa celeritate corpus circuli
+peripheriam (199) desen-ibit. Ergo cum spatia
+eadem velocitate uniformi percursa, sint ut tem-
+pora (5) patet propositum. ’
+201. Coroll. 3. Hinc dats vi centripeta qui·
+libet in data a centro distantia, facile ωε reperire
+velocitatem qui corpus projici debet ut circa
+praedictum centrum in data distanti} circulum
+uniformiter doecn'bat ; velocitas enim illa aequalis
+est velocitati quam corpus acquireret cadendo
+per dimidiam distantiam a centro, si datii vi cen-
+tripete continuo urgeretur (199). Dato autem
+circuli radio, datur peripheria, et datii aequabili
+in circulo velocitate cum peripheria, invenitur
+tempus pen-lodicum, et arcus dato quovis tem-
+
+pore descriptus habetur.
+
+-B
+
+ 
+
+ 
+
+”-”
+Ν
+
+202. Coroll. 4 Datis circuli radicet veloci-
+tate corporis in eo revolventis», facile colligitur
+proportio vis centripetae in eo cirtulo ad vim
+quamlibet notam, qualisaet vis gravitatis. Pri—
+mum enim inveniatur tempus revolutionis unius
+in eo circulo peractae (5), mox invenietur tempus
+

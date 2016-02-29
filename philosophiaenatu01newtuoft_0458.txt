@@ -1,0 +1,80 @@
+422
+
+PHILOSOPHIAE NATURALIS [Mor. Gomon.
+
+PROPOSITIO XCVIII. PROBLEMA XLVIII.
+
+Iisdem positis, et circa axem A B descriptd superficie qudcunque attractiva
+C D, regulari vel irregulari, per quam corpora de loco dato A exeuntia
+transire debent .- invenire superficiem secundam attractivam E F, quae cor-
+pora illa ad locum datum B convergere saciat.
+
+Juncta A B secet superficiem primam in C et secundam in E, puncto
+D utcunque assumpto. Et posito sinu incidentiae in superficiem primam
+ad sinum emergentiae ex eadem, (d) et sinu emergentiae e superficie se-
+cund& ad sinum incidentiae in eandem, ut quantitas aliqua data M ad
+
+aliam datam N: produc tum A B
+
+ad G, ut sit B Gad C Eut M·—
+Nad N3 tumAD ad H, ut sit
+A H aequalis A G 3 tum etiam
+DFad K,utsitDKadDHut
+N ad M. Junge K B, et centro
+D intervallo D H describe circu-
+lum occurrentem K B productae ln L, ipsique D L parallelam age B F:
+et punctum F tanget 11 neam E F, quae circa axem A B revoluta describet
+superficiem quaesitam. Q. e. f.
+
+Nam concipe lineas C P, C Q ipsis A D, D F respective, et linens
+E R, E S ipsis F B, F D ubique perpendiculares esse, (θ) ideoque Q S
+ipsi C E semper aequalem ς et erit (per Corol. 2. Prop. XCVII.) P D ad
+QDutMad N, (f)ideoqueutD LadD K(g)velFBadFK; (¹¹)et
+divisim utDL—-FBscuPH—PD—FB ad FD seu FQ—
+Q D; et composite ut P H — F B ad F Q, id est (¹) (ob aequales P H
+
+ 
+
+(ὗ) ⁸ Et sinu emergemiae e superficie secunda, (ss)* Vel F B qd F K. Ob parallelas D L,
+διε. Est enim sinus emergentiae e superficie F Β (per constr.)
+secunda E F, ad sinum incidentiae ιη eamdem,
+
+(Β) * Et divisim. Cum sit P D· . Q D=
+
+ut sinus incidentiae m superficiem primam C D, D Η : D K =
+
+ad sinum emergentiae ex efflem. Nam si radius
+incidens A D refrangitur per D F, .⁰b eandem
+
+ι F K, erit divisim D H:
+
+DK‚seuPD· FQ-li}=DH—FB: DK
+
+rationem radius F D, incidens in D refrangetur ‘'Q—g} &DPM H ωῃροέἰῖὲῖ g :BQ gg psit}
+per D A, et qui sinus erat incidentiae in primo - P D 4- P Dte — F Β seu P H - F 133
+
+casu fit sinus emergentiae insecundo.
+
+(⁰ >⁸ Ide6que Q S ipsi C E semper oequalem.
+Cum enim linea Q S, sit semper perpendicularis
+utrique lineae C Q, E S (ex h.yp ) ea nec cres-
+cit, nec decrescit, ob partes curvarum in Q et S
+semper parallelas, ut patet.
+
+(f) '¹¹ Iamque ut D L ad DK. Est enim
+(per constr.) D K ad D H, ut N ad M, et D L
+π D H, per const.
+
+QF-QD-f-QD, SeuQF=M: N.
+
+(¹) ” Ob aequales PH et C G. Nam (per
+constr.) A H = A G, et quoniam punctum A
+datum est, estque A P semper perpendicularis
+ad curvam C Ρ, liquet eam curvam esse circu-
+lum cujus centrum A, unde A P = A C, ct
+hinc P H = C G; et simili modo patet esee
+
+B R = B E, ob datum punctum Β.
+
+——..-.-..-.-.....-... 2
+

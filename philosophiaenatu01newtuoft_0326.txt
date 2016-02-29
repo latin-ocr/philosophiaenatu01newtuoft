@@ -1,0 +1,48 @@
+290 PHILOSOPHIAE NATURALIS [Mo-r. Commu,
+
+PROPOSITIO LII. PROBLEMA XXXIV.
+
+Definire et velocitates pendulorum in locis singulis, et tempora quibus tum os- ²
+s cilloetiones totae, tum singulae oscillationum partes peraguntur.
+
+’ Centro quovis G, intervallo G H cycloidis arcum R S aequante, des·
+cribe semicirculum H K Musemidiarnetro G K bisectum. Et si vis cen-
+
+K
+
+M G *L YH
+
+ 
+
+tripetaedistantiis locorum a centro proportionalis, tendat ad centrum G,
+sitque ea in perimetro H I K aequalis vi centripetae in perimetro globi
+
+“ Simili ratiocinio invenietur aequatio ad epicy- centro V ² z v 2 = 2 H A z B H, et V ε v ==
+cloidem sive cycloidem extra globum descriptam ,ν 2 Η Λ : 4! Β Η. Quare datis in 1⁰00 H
+
+inversis solummodo terminis et signis ut sit p p
+c ² x ² ... a '² c ²
+
+c ² -— a ²
+
+467. Lemma. Ad punctum G tendat vis cen-
+tripeta distantiae ab illo puncto proportionalis
+quam in locis H, L exhibeant lineae H Β, L D
+rectae G H perpendiculares, sitque recta G D B
+locus punctorum B, D, capiatur H A ad H B
+ut vis centripeta constans ad vim variabilem in
+loco dato Η, et agatur A G rectae H G paral-
+lela lineam L D secans in C, de loco H cadant
+corpora duo, quorum alterum vi constante H A,
+alterum vi variabili H B vel L D urgeatur,
+sintque illorum velocitates in eodem loco L, V,
+v, eterit V ² adv ², ut arealH A C L ad are-
+am H B D L, (per Prop. 39. et not. 408.) id
+estV22v²=HL><HA=HL><
+
+BHssDL= HA·BH DL· Et viribusHA‚HB,etvelociiaoeinloooquoffl Ι ⁴
+2 2 ’ ÷ L vel G vi constante acquisita, datur velodtu
+quoniam in centro G evanescit D L erit in illo vi variabili in codem loco acquisita.
+
+ 
+

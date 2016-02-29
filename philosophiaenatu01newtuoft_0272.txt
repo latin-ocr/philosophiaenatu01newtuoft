@@ -1,0 +1,64 @@
+236 PHILOSOPHIAE NATURALIS [Mo'r. Conponss ,
+
+Corol. 1. (¹) Hinc aequalia sunt tempora, quibus corpus unum de loco
+A cadendo pervenit ad centrum S, et corpus aliud revolvendo describit
+arcum quadrantalem A D E. v
+
+Corol. 2. Proinde aequalia sunt tempora omnia quibus corpora de locis ” χ
+
+quibusvis ad (ἵ) usque centrum cadunt. Nam revolventium tempora om-
+nia periodica (per Corol. III. Prop. IV.) aequantur.
+
+PROPOSITIO XXXIX. PROBLEMA XXVII.
+
+Positci cujuscumque generis vi centripetci, et concessis figurarum curvilinearum
+quadraturis, requiritur corporis recta ascendentis vel descendentis tum ve-
+locitas in locis singulis, tum tempus quo corpus ad locum quemvis perveniet.-
+Et contra.
+
+De loco quovis A in rect& A D E C cadat
+corpus E, (Ζ) deque loco ejus E erigatur
+semper perpendicularis E G, vi centripetae
+in loco illo ad centrum C tendenti pro-
+portionalis: Sitque B F G linea curva quam
+
+tem E G ipso motus initio cum perpendicu-
+lari A B, et erit corporis velocitas in loco
+quovis E (⁸) ut recta, quae potest aream cur-
+vilineam A B G E. Q. e. i.
+
+In E G capiatur E M rectae, quae potest
+aream A B G E, reciproce proportionalis, et
+sit V L M linea curva, quam punctum M
+perpetuo tangit, et cujus asymptotos est rec-
+ta A B producta3 et erit tempus, quo corpus Γ
+cadendo describit lineam A E, ut area curvilinea A B T V M E. Q. e. ἰ.
+
+(¹) ⁴' Coroz. 1. Hinc aequalia. Nam per Cor.
+2. Prop. X. tempora revolutionum in ellipsibus
+quibusvis A Ρ ἙχΑ D B, adeoque et tempora
+per ellipseon quadrantes A P F seu A S,
+A D E, sunt aequalia.
+
+d (Υ) * Ad usque centrum. Ex quiete ca-
+unt.
+
+405. AEqualia sunt tempora quibus corpus
+unum de loco A cadendo pervenit ad locum C,
+et corpus aliud revolvendo describit arcum cir-
+culi A D; Cum enim corpus in circulo uni-
+formiter revolvatur, erit tempus per A D ad
+tempus per A E seu ad tempus per A S, ut
+arcus A D, ad quadrantem A E, sed est etiam
+tempus per A C, ad tempus per A S, ut arcus
+A D, ad quadrantem A Ε, ergo tempus per
+A C, aequatur tempori per A D.
+
+(²) ” Deque loco qjus E. Id est, per om-
+nia lincae A C puncta erigantur perpendicula
+ut E G, vi centripetae in singulis iuis punctis
+
+ 
+
+ 
+

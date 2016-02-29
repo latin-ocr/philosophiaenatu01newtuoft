@@ -1,0 +1,111 @@
+erm Pennus] PRINCIPIA MATHEMATICA. 289
+
+initio descriptae ut accelerationes, hoc est, ut totae sub initio describendae,
+et propterea partes quae manent describendae et accelerationes subsequen-
+tes, his partibus proportionaleS, sunt etiam ut totae3 et sic deinceps. Sunt
+igitur accelerationes, atque ideo velocitates genitoe et partes his velocitati-
+bus descriptae partesque describendae, semper ut totae3 et propterea par-
+tes describendae datam servantes rationem ad invicem simul evanescent,
+id est, corpora duo oscillantia simul pervenient ad perpendiculum A R.
+Cumque vicissim ascensus perpendiculorum de loco infimo R, per eosdem
+arcus cycloidalesmotu retrogrado facti, retardentur in locis singulis a vi-
+ribus iisdem a quibus descensus accelerabantur, patet velocitates ascensu-
+um ac descensuum per eosdem arcus factorum aequales esse, atque ideo
+temporibus aequalibus fieri3 et propterea, cum cycloidis partes duae R S et
+R Q ad utrumque perpendiculi latus jacentes sint similes et aequales, pen-
+dula duo oscillationes suas tam totas quam dimidias iisdem temporibus
+semper peragent. Q. e. d.
+
+Corol. Vis (¹³) quii corpus T in loco quovis T acceleratur vel retarda-
+tur in cycloide, est ad totum corporis ejusdem pondus in loco altissimo S
+vel Q, ut cycloidis arcus T R ad ejusdem arcum S R vel Q R. —
+
+evanescat, quod fit dum corpus pendulum T
+pervenitad R, pars arcus t R, simul evanescet,
+ob datam harum partium rationem. Unde cor-
+pora duo oscillantia t et T ex punctis t et T si-
+
+puncto ductam demissum: Dicatur enim globi
+radius C V, a, diameter rotae V W, 8·- 0, erit
+distantia C R sive C W, c; Ducatur ex puncto
+quovis T linea T C ad centrum quae dicatur x,
+
+mul demissa, simul pervenient in R.
+
+(¹¹) * Vis qud corpus T in loco quovis T ac-
+celeratur vel retardatur in cycloide, est ad vim
+quain loco altissimo S, vel Q acceleratur vel
+retardatur in cycloide, ut arcus T R, ad arcum
+S R. (ex demonstr. Prop. 51.) sed vis qua cor-
+pus in loco S vel Q, acceleratur vel retardatur
+in cycloide, est vis tota qua ad centrum C, per-
+pendiculariter urgetur3 radius enim C S
+cloidem S R tangit in S, (458), adeoque direc-
+tio vis in loco S in cycloide coincidit cum direc⁴
+tione vis recta trahentis ad centrum C.
+
+465.Coroz.1. Si centro A radio A R cir
+cadus describatur, cycloidis S R Qarcus nascens
+in loco infimo R cum circuli illius arcu nascente
+coincidit. Quare si longitudo penduli A R
+magna sit, eodem prope modo in exiguis cir
+culi arcubus osciuabitur corpus quo in cycloide
+
+¹ et quo major est longitudo penduli minorque
+
+circuli arcus in quem excurrit, εδ major exit
+motuum in circulo et in cycloide consonantia,
+atque hine, non abludente experientia, oscillatio-
+nes in exiguis circuli arcubus sunt ad sensum
+isochronae.
+
+466. Corol. 2. Ex his deducitur quaenam sit
+aequatio ad hanc cycloidem intra globum des-
+criptam pertinens, sive, invenietur aequatio ex-
+primens rationem distantiae cujusvis puncti T a
+centro ad perpendiculum in tangentem ex eo
+
+· Vor.. Ι. Τ
+
+ducatur tangens T X ex eo puncto T et ex
+centro demittatur in eam tangentem perpendicu-
+lum C X, sit T x=zetcx=p. Erit
+naec—ccxx· N b ,
+88-00 ' am ο ⁹⁶
+milia triangula V T W, W C X est
+CW(c):VW (a—c)=C X (p): TV
+
+ubique p p =
+
+ 
+
+cy- εἷχε-0015
+
+cv(a):w V(a—c)=TX(z):TW
+=÷><a-c; est itaqueTv² -Ι- TW²
+
+ 
+
+=—²><(a—e)² ÷'²— ²><(a—-c>² sed
+Tv²÷Tw²=vw²==(a—c)²ergo
+
+Ξ-ζκω-εν-ι-ζὲ ><(a—c)²=(a—c)²
+
+etdividendo utrumque· membrum aequationis per
+82 p *ii-{- c 2 z ²
+
+(2—0)² eritc——2†a2(sive-——- a ²0² ——)
+
+= 1, et m²ultiplicato 2utroque membro aequatio-
+
+nispera² 0 ²esta2 p2 2-}·-c² z2=a² c²,
+sedestz²=x22—-p2 2(per-const.) Ergo
+
+ 
+
+ 
+
+82 p ²-j-c2 x 2-02 p 2=a² c²etsacta
+transpositionea² p2 ²—c2p² ²=a 2,02-02κ2
+ideoquep2=⁸² 21:2²² ¹². Qad-
+

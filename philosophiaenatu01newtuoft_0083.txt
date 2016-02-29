@@ -1,0 +1,65 @@
+Lmnss anufsr] PRINCIPIA MATHEMATICA.
+
+47
+
+LEMMA IV. γ
+Si in duabusfflris A a c E, P p r T, inscribantur (ut irfia) duce paral-
+
+lelogrammorum series, sitam idem amborum numerus, et ubi latitudines ἐπ’
+infinitum diminuuntur, rationes ultimae parallelogrammorum in undfigura
+ad parallelogramma in altera, singulorum ad singula, sint eaedem ,· dico'
+quod figurae duce A a c E, P p r T, suntad invicem in eadem illd rat-ione.
+
+ 
+
+Etenim ut sunt parallelogramma singula ad singula, ita (componendo)
+fit summa omnium ad summam omnium, et ita figura ad figuram3 exis-
+tente nimirum figura priore (per Lemma III.) ad summam priorem, et
+figura posteriore ad summam posteriorem in ratione aequalitatis. Q. e- d.
+
+Corol. Hinc si duae cujuscunque generis quantitates in eundem partium
+numerum utcunque dividantur3 et partes illae, ubi numerus earum
+'augetur et magnitudo diminuitur in infinitum, datam obtineant rationem
+ad invicem, prima ad primam, secunda ad secundam, caeteraeque suo
+ordine ad caeteras: erunt tota ad invicem in eadem. illa data ratione.
+Nam si in Lemmatis hujus figuris sumantur parallelogramma inter se ut
+
+usurpari potest pro parauelogmmmo A l, aut
+etiam pro figura A B b a, hoc est, pro differen-
+tia arearum curvilinearum A E c a, B E c b·
+
+108. Ex his sequit-ur diversos esse infinitesi·
+morum ordines; nam ostensum est (107) paml-
+lelogrammum K l, infinioesimum ωδε respectu
+parallelogrammi A b, hoc vero parallelogram-
+mum infmitesimum oese respectu areae curvilineae
+A E c a.
+
+109. Figura A E c a, circa axem suum A E,
+revolvatur, et quelibet ordinata A a, B b, de-
+scribet circulum, cujus est, ordinata ipsa radius,
+quodlibet rectangulum evanescens ut K B, a B,
+descn‘bet cylindrum evanescentem, et rectangulm
+K l, L m, M n, D o, singula describent annulos
+solidos, quorum summa :equalis erit cylindro ex
+rotatione rectanguli A l descripto· Quare cum
+
+hic cylindrus sit infinitesimus patet (per Lemma
+Ι.) ultimam rationem solidi ex cylindris omni-
+bus compositi ad solidum ex rotatione figuroe
+curvilineae A E c a, genitum eme rationem
+aequalitatiS.
+
+(¹¹) llo. Nam si singulorum parallelogram-
+morum latitudo aequalis esset lineae A F, figurae
+inscriptae et figurae circumscriptae differentia foret
+parallelogrammum A f, (Lem. 11.); cum igitur
+singulorum parallelogrammorum latitudo minor
+sit latitudine A F, (ex hyp.) praedicta figumum
+differentia minor quoque est parallelogramma
+
+(0) 111. Propterea hae figurae ultimae (quod
+perimetros a c Ε) non sunt recsslineae, seu non
+sunt ex lateribus rectis quocumque numero fini-
+to compositae, sed sunt figurarum rectninoerum
+

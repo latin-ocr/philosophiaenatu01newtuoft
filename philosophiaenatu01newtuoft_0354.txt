@@ -1,0 +1,92 @@
+S
+
+318 PHILOSOPHIAE- Hieromus [Mor. Coum
+
+tur uniformiter in (fluentum, nec> non corporum motus* initiales respectu
+hujus spatii. Mus autem subsequentes (per legum corollarium quintum,
+et theorema nouissimum) perinde fiunt in hoc spatio, ac si spatium ipsun
+un& cum communi illo gravitatis centro quiesceret, et corpora non trahe-
+rent se mutuo, sed a corpore tertio sito in ceum iilo traherentur. Cor-
+poris igitur alterutrius in hoc spatio mobiii, de Ioco dato secundum datam
+rectam, data cum velocitate exeuntis, et vi centripetfi ad centrum illud
+tendente correpti, (⁸) determinandus est motus per problema nonum, et
+vicesimum sextum: et (²) habebitur simul motus corporis alterius circum
+idem centrum. (¹¹¹) Cum hoc motu componendus est uniformis ille syste-
+matis spatii· et corporum in eo gyrantium motus progressivus supra
+inventus, et habebitur motus absolutus corporum in spatio immobili.
+
+Q. e. i.
+
+” (¹²) * Determinandus est motus per Probl. 9. erit trajectoria quam corpus P motu absoluto
+si corpora projiciantur secundum directionem describit; (ut patet ex Prop. 31. et not. 86]).
+quae cum eorum distantia non coincidan et per Ηὲιο enim ratione centrum (J percurret spatium
+Probi. 26. si coincidat directio projectionis cum
+distantia corporum.
+
+(¹) ” Et habebitur simul motus corporis alte-
+rius e regione, si ex corpore cujus locusinventus
+est, per centrum gravitatis commune duorum,
+agatur recta quae it& determinetur ut sit corpus
+cujus locus quaeritur ad corpus aliud ut distantia
+data hujus a centro gravitatis communi ad enm
+rectam, in extremo hujus rectae erit locus corpo·
+ris quaesitus (60).
+
+(¹¹²) 495. Cum hoc motu
+componendus est, διε. ln
+hypothesi hujus problema-
+tis, corpora duo circei com-
+mune gravitatis centrum
+ceu umbilicum sectiones co-
+nicas describunt (per Cor.
+2. Prop. 58.) et satis est
+(ex noui superiori) unius
+corporis motum determi-
+nare. Itaque, exempli gra-
+tia, corpus P circulum
+P A B D uniformiter des—
+cribat intereadum circuli
+centrumC, curn ipsius circu-
+
+C R = G H = semiperipheria rotae G E F,
+eodem ternpore quo punctum P revolvetur per
+totam semiperipheriam P A B; eritque proinde
+velocitas centri C per lineam C R ad velocita-
+tem puncti vel corporis P in peripheria circuli
+P A Β ut semirota ad semicirculum, hoc est. ut
+radius C G ad radium C P. Hinc si velocitas
+centri C aequalis sit velocitati corporis P in cir-
+culo suo revolventis, trochois P L 1 erit cyclois
+vulgaris; si velocitas centri C major extiterit,
+
+Ι
+
+    
+
+li plano aequabiliter movetur
+per rectam C R diametro
+P B perpendicularem, sitque semper circuli pla—
+num mobile in plano hujus schematis immoto.
+ln linea C P capiatur C G ad C P in ratione
+velocitatis centri C per lineam C R progredien-
+tis, ad velocitatem corporis P in circuli periphe-
+τίἓι revolventis, rota G E F centro C et radio
+C G descripta super regulam G H nd G C nor-
+malem progrediatur revolvendo circ& axem su-
+um, et punctum l’ in plano circuli G E F im-
+motum describet intere& trochoic ..ι P L 1 quae
+
+*HR
+
+erit P L I trochois oblongam, si velocitas centri
+C minor, erit P L 1 trocheis decurtata.
+
+Sit nunc A P sectio quaevis conica cujus vee-
+tex A, umbilicus seu virium et gravitatis com-
+mune centrum C, axis transversus A C, centrum
+C uniformiter moveatur in rectit D R positione
+datii, et eum illo planum curvae A P C, iu}
+transferatur in plano hujus schematis immoto, ut
+axis A C, rectae B D, positione dnm sit semper
+parallelus. Dum corpus P in curva A P revoL
+

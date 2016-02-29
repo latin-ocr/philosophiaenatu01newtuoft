@@ -1,0 +1,130 @@
+,Limen Pmuus.] PRINCIPIA MATHEMATICA. 403'
+
+invenienda est vis attractionis in diversis distantiis, et lex attractionis in
+totum inde patefacta dabit rationem decrementi virium partium singula-
+rum, quam invenire oportuit.
+
+PROPOSITIO XCIII. THEOREMA XLVII.
+
+Si solidum ex und parte planum ex reliquis atr-mn⁴ partibus »ι’τῃῖηἱιτιπτ, constet
+ez· particulis aequalibus ecqualz‘ter attractivck, quarum vires in recessu a so-
+lido decrescunt in ratione potestatis cujusvis distantiarum 'plusquam quad·
+raticae, et vi solidi totius corpusctdum ad utramvis plani partem constitutum
+trahatur .- dico quod solidi vis illa attractiva, in recessu ab qius· superficie
+planci, decrescet in ratione potestatis, cujus latus est distantia corpusculi a
+plano, et index ternario minor quam index· potestatis distantiarum.
+
+cas. 1. Sit L Gl planum quo solidum terminatur. Jaceat solidum
+
+ἢ»
+
+nbi x = c, et y = e. Jam vero vis qua eor-
+pusculum P in totum cyiindrum A D E K G
+trahitur, experimentis inventa sit ut b — a -1—
+c -— e, et habebitur aequatiob—a -Ι- c—e=
+b³—¹¹—a 3--“ -1- c³—¹¹—e³‘··-¹¹
+
+3—n
+
+ex qui determinandus est valor indicis generalis
+n. Porro posito n = 2, aequnlia fiunt aequatio-
+nis membra, ergo vis in singulas cylindri parti-
+culas tendens erit reciproce ut quadratum dis-
+tantiae a particula, quemadmodum in Cor. 1.
+Prop. 91. positum est. Verum si haic rati-
+one, vm'os tentando numeros, non potest indicis
+generalis n valor inveniri, ponatur 5 - n = z,
+et vis corpusculi in cylindrum experimentis re-
+perta sit ut quantitasq; et erit qz=b ²—
+α’ -1- c ² — θ’. Fiat a ²=p‚ b²=v,
+
+¹c'·=r,e²²=s‚ eterit (LsignificanteLoga- -
+
+¹rithmum quantitatis cui praefigitur) L. a ² =
+Lp, L.b²=L.v‚
+
+v=L.s‚ adeoquezL a=Lp‚ etzss
+
+-L--v-L--rsk-s
+—L-b—L·c—LeL.a L.b
+
+= 1.. pla-tque adeo L. v L. b = L. p. proin-
+
+‘leffe v L. b = pL et simili modo invenietur
+. c . e
+
+v L. b r, et v L. bL= S. (ῼΙέυευε aequatio
+. a . c
+
+L.c²=L.r, L.e²
+L.p
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+quae ab exponente indeterminata libera est. Ut
+autem tollatur etiam L. v, ponatur v = t 41,
+et(ssss)eritl.. v= L. ¹÷¹ =t—{tt-{-
+ὲιε-ὲιι-ι-ὶι ts -, sm. in infinit. si
+itaque in aquatione modo inventa loco v scriba-
+tun-{- 1,etlocoL. vsei’iest—-}-t²÷-}t³
+—, &a obtinebitur aequatio ab exponentibus et
+logarithmis indetemiinatis libera, ex qua per re-
+versionem serierum invenietur valor quantitatis t,
+et inde reperietur L. v, atque per L. v habebitur
+valor iudicis z. et inde valor ipsius n. Nam
+
+L. v
+
+ 
+
+ 
+
+cumsitz=ffi‚ etLv=Lt-}- 1, eritz
+=kfi-J,etn=3—z=3-Lt-b—1.
+a L.a
+
+ 
+
+si in aequatione vel quantitate exponentiali
+proposita, indeterminata z in solis quantitatum
+datarum exponentibus reperiretur, haec aquatio
+vel quantitas superiori methodo posset ad aliam
+reduci numero terminorum finitam, in qua nulla
+esset amplius exponens vel iogarithmus indeter-
+minata. Namsiq=f22 -f- gb²2÷hc⁴÷
+4‚&c., sitquev=a²eritq=fv÷
+
+2 11· b 4 L· c
+nga†tha ψ, διο. erit enim z =
+
+L.v
+&mb²²=b²saetL.b²²=2l-⁴I·⁴'v><
+»a ⁸
+
+2Lb
+L. v, undeestb²² = viI—a
+
+ 
+
+2L.b
+
+ 
+

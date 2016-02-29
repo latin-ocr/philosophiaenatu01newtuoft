@@ -1,0 +1,53 @@
+176 PHILOSOPHIAE NATURALIS [Mo'r. commu.
+
+toria describenda est. Per eadem vero describi* potest trajectoria illa per
+Problema XVII. Q. e. f.
+
+LEMMA XXIII.
+
+Si rectae duce positione datae A C, B D ad data puncta A, B, terminentur, .
+
+datamque habeant rationem ad invicem, et recta C D, qud puncta inde-
+terminata C, D junguntur, secetur in ratione clatet in K ι dico quod punc-
+tum K locabitur in rectct positione datd.
+
+. (Ἰ) concurrant enim rectae A C, B D in E, et in B E capiatur B G
+ad A E ut est B D ad A C, sitque F D semper aequalis datae E G 3 et
+erit ex constructione E C C
+ad G D, hoc est, ad ,E F
+ut A C ad B D, ideoque
+in ratione data, et propte--
+rea dabitur specie trian-
+gulum E F C. Secetur
+C F in L ut sitCLad
+C F in ratione C K ad
+C D; et ob datam illam
+rationem, dabitur etiam ’ ......
+specie triangulum E F L; E?
+proindeque punctum L locabitur in rectz'i E L positione data. Junge
+L K, et similia erunt triangula C L K, C F D3 et ob datam F D et
+datam rationem L K ad F D dabitur L K. Huic aequalis capiatur E H,
+et erit semper E L K H parallelogrammum. Locatur igitur punctum K
+in parallelogrammi illius latere positione dato H Κ. Q. e. d.
+
+Corol. Ob datam specie figuram E F L C, rectae tres E F, E L et E C,
+id est G D, H K et E C, datas habent rationes ad invicem.
+
+LEMMA XXIV.
+
+Si rectae tres tangant quamcunque coni sectionem, quarum duce parallelae sint
+ac dentur positione ; dico quod sectionis semidiameter hisce duabus parallelo,
+sit media proportionalis inter harum segmenta, punctis· contactuum et
+tangenti terti& interjecta.
+
+  
+
+Sunto A F, G B parallelae duae coni sectionem A D B tangentes in A
+et B 3 E F recta tertia coni sectionem tangens in I, et occurrens prioribus
+tangentibus in F et G3 sitque C D semidiameter figurae tangentibus pa-
+rallela : dico quod A F, C D, B G sunt continue propm·tionaleS. ¹
+
+centro O, ,δε mutuo intersecant. Nam rectoe 27. et 31. Lib. 2. Conic. Apoll. utque sequitur
+quae opposmi contactuum puncta jungunt. sunt ex Lem. lv. de Conic. p. 119).
+sectionis diametri centro Ο bisectae (per Prop- (q) ⁸ Vid. not. 67. pag. 28.
+

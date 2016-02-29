@@ -1,0 +1,62 @@
+mez Paucos] ” · PRINCIPIA MATHEMATICA. 123
+
+PROPOSITIO XIII. PROBLEMA VIII.
+
+Moventur corpus in perimetro parabolae : requiritur lex vis centripetae ten-
+dentisvad umbilicum Izzq'usfigurae. ’
+
+Maneat constructio lemmatis, sitque P corpus in perimetro parabolae,
+et a loco Q, in quem* corpus ‘proxime movetur, age ipsi S P parallelam
+Q R et perpendicularem Q T, necnon Q v tangeriti parallelam, et occur-
+rentem tum diametro P G in v, tum distantiae S Pin Χ. Jam. ob similia
+triangula (t) P Χ v, S P Μ, et aequalia unius latera S M, S P, aequalia
+sunt alterius latera P Χ seu Q R et P v. Sed ex conicis quadratum or-
+dinatae Q v'aequale est rectangulo sub latere recto et segmento diametri
+P v, id est (per Lem. XIII.) rectangulo 4 P S Χ Ρ V, seu 4 P S χ Q R 3
+et punctis P et Q coeluntibus, ratio Q v ad Q Χ (per Corol. 2. Lem. VII.)
+
+fit ratio aequalitatis. Ergo Q Χ
+quad. eo in casu aequale est
+
+rectangulo 4 P S Χ Q R. Est
+autem (ob similia triangula QxT,
+SPN)quadQTqut
+P S qssad S Nq, hoc est (per
+Corol. 1. Lem. XIV.) ut P S
+adSA‚idest‚ut4PS><QR ζ(
+
+ad4SAxQR,etinde M Ab
+
+(per Prop. IX. Lib. V. Elem.) (¹¹) Q T q et 4 S A Χ Q R sequuntur.
+
+Ducantur haec aequalia in {PRQ et fiet S—PAECQXRQ Τ q aequale S P q ><
+
+ 
+
+ 
+
+ 
+
+4 S A: et propterea (per Corol. 1. et 5. Prop. VI.)''{⁷⁴is'centripeta est re-
+ciproce ut S P q Χ 4 S A, id est, ob datam 4 S A reciproce in dupli-
+-catfi ratione distantiae S P. Q. e. i.
+
+Corol. 1. (¹) ΕΧ tribus novissimis propositionibus consequens est, quod
+si corpus quodvis P secundum lineam quamvis rectam P R quficunque
+
+P (t) ⁶ Nam ob paranelas M P et Q v, M S et a centro virium reciproce proportionalia corpus
+G, ent angulus v P x = P S M et P x v = movebitur in aquufi sectionum conicarum.-Dem.
+Q ¹.',T'= M P S. ι 0 Prima pars propositiopis a anmno eleganter
+=(4) A22⁶7 1³33„sz lgm} τδσῗιέιὲ- Ρτὲιὲξώεξὶ demonstmta, potest adhuc aliter et generatim
+etiam in §arabolii ut in caeteris Sese-{onibus 'cozril- demonmafi' Vis centripeta ”t ’ζὶῗ-εΙζ-ῇ,
+ὼ &mmmmm Principale L Q T 2· ‘(212.) sed in³ omni sectione conici), R><=
+. (¹) 268.. Si corpus moveatur in aliqff'a {tec- ’Ῑ-Δῇ-ὃῨ-ξ- (239¹) Ergas Y :ss P ΒΞ
+‘effi ‘mmmfflw Ψ -2 ⁸ Y ³ με 1² --2 ι, Χ ...m
+mus qimam> distantiae locomxffsssseussffii’ssffz} SY³><·¹⁴><SP ³—L Χ ᾗ oe δι’ ob
+
+contr& si vis centripeta fuerit quadrato distantIae Ξ, vis ost ut 3-{5 2 Q. e. 1¹¹⁸.
+
+ 
+
+ 
+

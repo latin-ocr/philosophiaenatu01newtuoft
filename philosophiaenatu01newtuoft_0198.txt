@@ -1,0 +1,76 @@
+PHILOSOPHIAE NATURALIS [ΜοΤ. Com’on.
+
+162
+
+et notentur puncta M, N in quibus altera crura B L, C L casu utroque
+se decussant. Agatur recta infinita M N, et rotentur anguli illi mobiles
+circum polos suos B, C, efi lege ut crurum B L, C L vel B Μ, C M in-
+tersectio, quae jam sit ν
+m, incidat semper in
+rectam illam infinitam
+M N; et crurum B A,
+CA, vel BD, CD,
+intersectio‚ quae jam
+sit d, trajectoriam
+quaesitam P A D d
+B delineabit. Nam
+punctum d (per Lem.
+XXI.) continget sec· ·
+
+’ tionem conicam per
+puncta B, C transe-
+untem3 et ubi punc-
+
+‘tum m accedit ad
+puncta L, M, N, punctum d (per constructionem) accedet ad puncta
+
+A, D,P. Describetur itaque sectio* ‘conica transiens per puncta quinque
+A, B, C, P, D. Q. e. f.
+
+Corol. l. (f) Hinc recta expedite duci potest, quae trajectoriam quaesitam
+,1n puncto quovis dato B continget. Accedat punctum d ad punctum B,
+
+et recta B d‘ evadet tangens qu'aesita.
+Corol. 2. (⁸) Unde etiam trajectoriarum centra, diametri et latera recta
+inveniri possunt, ut in corollario secundo Lemmatis XIX.
+
+ 
+
+donec crurum C D, Β D coneum D, repe-
+
+Ι g) 317. Tangens in B, coincidit cum crure
+B riatur in recti tangenti parallel& vel tandem punc-
+
+anguli mobilis d B m, dum alterius anguli
+
+d C m, crus C d, coincidit cum rectit C Β.
+Nam in hoc casu, chorda B d evanescit et po-
+sitione congruit cum tangente; unde tangens
+per punctum quodvis datum expedite duci potest
+etiam nondum descripta sectione conica, si
+
+punctum illud datum pro polo usurpetur.
+
+(“) 318. Per quodvis punctorum datorum
+puta h, duc trajectoriae tangentem, et per aliud
+quodvis punctum datum C, duc tangenti 'pa-
+rallelam occurrentem trajectoriae jum descriptae
+.in puncto ali uo 3 „aut si descripta non fuerit
+trajectoria cir polos, rotentur anguli mobiles,
+
+tum illud in quo recta tangenti parallela tra'ecto-
+rlae occurrit, geometrice quaeratur per Lem. IX.
+Nain(v1d. fig. et demomtr. Lem. XX.) cum 'da-
+¹? smt quinque puncta C, A, B, D, P, dabitur m-
+no constans rectangulorum P Q >< Ρ R, P S χ
+Ρ Τ, hoc est, rectangulorum D Ε>< Ι) F, D G
+
+. χ D H, adeoque (per Lem. XIX.) inve-
+metur punctum concursus trajectoriae cum linea
+per punctum datum C ductii. Caetera fiant ut
+m Coroll. 20. Lem. XIX. possent etiam tro-
+
+jectoriarum axes et centra inveniri eo modo quo
+
+docuimus num. 514,
+

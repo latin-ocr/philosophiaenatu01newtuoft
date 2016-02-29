@@ -1,0 +1,127 @@
+92
+
+'thesim est AM: D Μ.-..Λο;1)ο, erit
+XE ε DK=AE: DK ideoque in data
+*H othesi X E= A Ε etcum sit
+X1=XE=D82DKobparallelaQen-itxl:
+AE= DS ι D K erat vero ex suppositione
+quod F est in curva,
+AE=A1=DS=DK,forete1-go
+
+XI: AE=AE:AI,etAE²=.-XI><
+
+A Ι. Sed Α Ε ² quadratum dimidii lineae A X
+est semper majus Rectangulo ejus partium XI
+>< A I (per 5. 2. Elvm. )‚ absurdum ergo est ea
+esse aqualia, quod tamen sequitur supposito
+punctum F ad curvam pertinere, ideoque, M P
+curvam tangit in P. Sed ad idem cujusvis cur-
+voe punctum duas Tangentes rectas duci non
+posse ex natura curvarum liquet, ergo Tangens
+in P, ita occurrit Diametro ut sit
+
+AM: DM=AO: Do. (ζιε- (1.
+
+Cor. 1. Si Diameter A D sit infinita, hoc est
+punctum D ad infinitum removeatur, D M et
+D Ο aequalia censenda sunt, cum ergo sit
+DMzAM=D02AOeritA M=AO;
+sive distantia puncti concursus Tangentis cum
+Diametro, ab ejus vertice, aequalis erit abscissae
+ab eodem vertice sumptae (Ap. Lib. l. 35.)
+
+Cor. 2. Si Diameter A D sit terminata, ejus-
+que medium sit C sitque P O ordinata fiatque
+CM²C A=CA : CO, erit PMtangensm
+puncto O; Etenim sumendo summam et dif-
+ferentiam terminorum harum rationum est,
+cM÷CA2 CA÷CO=CM—CA=
+sivein primii ratione ponendo D C pro C A
+est DM:·D O= A M τ A O aut alternando
+D M: A M= D O: A O, ergo (per Lemma)
+M P erit Tangeris in P, eet ergo semidiameter
+media proportionalis inter abscissam a centro
+sumptam, et partem Diametri a centro ad con-
+cursum Tangentis comprehensam (Apol. Lib.
+
+Cor.) 3. In Puncto P Sectionis Conicae du-
+catur* Tangens‚ quae secet Diametrum in M,
+et ducatur ordinata P Ο quae secet Diametrum
+in O factum partium Diametri A Ο Χ 1) O est
+aequale facto C Ο Χ Ο M ex partibus uneae a
+
+Centro ad Tangentem sumptae et per
+ordinatam in O sectae. Cum enim
+sitCM: CA=C A:c 0 toi-
+leudo> terminos secundae rationis a
+terminis primae erit M A ε A Ο =
+C A (sive D C) ι C O, unde com-
+ponendo eritMO: A0= DO:
+co,ideoqueA0><Do=co
+>< Μ Ο : et (per 5. vel 6. 11. Elem.)
+prout Ο est inter A et D vel ultra,
+eritCO>< M0=Ac²—CO²
+vel C Ο ² — A C ², unde deduci-
+ιυι·ΜΟ-ΑΟ2-(3 0²
+
+-Ἳ-ὂ-νεΙ
+002-A02
+
+C Ο ’
+
+PHILOSOPHI'AE NATURALIS
+
+[Μοτ. Conon.
+
+'De Hyperboid.
+
+Theor. 1. Liueoe omues ab Inter-sectione
+Asympwtomm in eorum Angulo ductae et
+utrinque productae, sunt Hyperbolae uti-influa
+Diametri, et earum portio inter utramque y-
+perbolam comprehensa, dicitur Diatneter trans.
+versa, et bifariam dividitur in Intersectione A.
+symptotorum quae ideo centrum Hyperbolarum
+vocatur. Tangentes vero in utroque vertice
+ejusdem Diametri ductae et inter Asymptotoa
+comprehensae sunt inter se Parallelae et εφη-
+les, et bifariam dividuntur ab ea Diametro
+dicunturque ejus Diametri conjugatae. (Apol.
+Lib. 1. Prop. 30. Lib. 2. Ptop. 3. et 19.) μ
+
+Demonst. Ducta enim quomodocumque linei
+S CT in Angulo Asymptowmm Z C Y per
+earum intersectionem C, si crura C Z et C Y
+sumantur reciproce proportionalia sinubus An-
+gulorum adjacentium, ducaturque linea Z Y
+illa per lineam S C T bifariam dividetur3 nam
+in Triangulo CZY est CZ: CY= sin. Y:
+Sin. Z= Sin. Y Co ε Sin. Z Co (per const.)
+et alternando, Sin. Y: Sin. Y C o=⁴Sin. Z ι
+Sin. Z eo. Sed in Triangulo coYest
+
+Sin. Y: Sin. YC 0=C οι Yo,
+etin Triangulo C o Z est ,
+Sin. Z Sin. Z Co=Co: Zo,
+ergo cum duae priores rationes sint aequalea,
+est Co: Yo=002 Zo, ideoque Yo=Zo.
+
+Omnis autem linea H N lineae Z Y parallelis
+similiter bifariam dividetur in O per lineam
+S T, partes autem ejus inter Hyperbolam et
+Asymptotum utrinque contentae sunt aequales,
+per Lem. Ι. cum ergo sit semper H Ο =O N,
+et H P=GN est H o—HP=N0—
+NG sive O P= OG. Ergo linea ST, lineas
+omnes lineae Z Y parallelas, in Hyperbola con-
+tentas bifariam secat, ost ergo ejus Diameter
+per Lemma V.
+
+Sint vero A et D puncta in quibus linea S T
+occurrit Hyperbolis per ea ducantur B A K,
+F D R parallelae lineae Z Y inter Asymptoton
+contentae, ergo bisecantur in A et D, cum vero
+sint parallelae ordinatis Diametro S T sunt Tan-
+
+ 
+

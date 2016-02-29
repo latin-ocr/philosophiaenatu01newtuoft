@@ -1,0 +1,53 @@
+166 PHILOSOPHIAE NATURALIS [Mo-r. Gomon.
+
+data B, C datos angulos M B D, M C D ffcientes ducantur.- dico quod ψ
+lnce duce B D, C D concursu suo D describent sectionem conicum per puncta
+B, C transeuntem Et vice versd, si rectae B D, C D concursu suo D des·
+cribant sectionem conicum per data puncta B, C, A transeuntem, et sit an·
+gulus D B M semper aequalis angulo dato A B C, angulusque D C M sem-
+per aequalis angulo dato A C B: punctum M continget rectam positione
+
+datam.
+
+Nam in recta M N detur punctum N, et, ubi punctum mobile M incidit
+in immotum N3 incidat punctum mobile D in immotum P. J unge C N, “
+
+Β N,CP,BP, et a
+puncto P age rectas
+P T, P R occurrentes
+ipsis B D, CD in T et
+R, et facientes angu-
+lumB P T aequalem
+angulo dato B N M,
+et angulum C. P R
+aequalem angulo dato
+. C N M. Cum ergo
+(ex hypothesi) aequa- β’
+les sint anguli M B c
+D, N B P, ut et an-
+guli M C D, N C P;
+aufer communes N B D et N C D, et restabunt aequales N B M et P B T,
+N CM et P C R: ideoque triangula N B M, P B T similia sunt, ut
+et triangula N C M, P C R. Quare P T est ad N M ut P B ad N B, et
+P R ad N M ut P C ad N C. Sunt autem puncta B, C, N, P immobilia.
+‘Ergo P T et P R datam habent rationem ad N M, proindeque datam
+rationem inter se3 atque ideo [per Lern. XX. (⁰)] punctum D, perpetuus
+rectarum mobilium B T et C R concursus, contingit sectionem conicum,
+per puncta B, C, P transeuntem. Q. e. d.
+
+   
+
+(ο) Atque ideo per Lemma XX. &c- ut pa- P T (si necesse sit) donec secent rectam datam
+teat Lemma XX. ad hanc danuam-ationem M N in X et Ζ, erit angulus B P Z exterior
+applicari, haec sunt supplenda constructioni respectu Trianguli P Z X, ideoque aequalin
+Newtoniana. angulis X et P Z X, et angulus B N M erit
+
+Concurrunt lineae B M, C M in puncto exterior respectu Trianguli Β N X ideoque
+lineae N M infinite distanti, hoc est, sint illae aequalis angulis Χ et X B N. anguli vero B ΡΖ
+lineae N M parallelae, et ducantur lineae B A et B N M aequales sunt per construction-
+C Afacientee cum inis lineis B M. C M an- Newton. ergo anguli X et P Z X equales sunt
+gulo-MBA, McAdatis MBD, MCD angulisXetXB N, unde angulus P Z X,
+aequales. Dico lineas B A, C A fore paral· quem facit linea P T cum recta N M est ιο-
+lelns lineis P T, P R secundum constructionem qualis angulo X B N sive angulo dato M B D
+Newtonianam descriptis: Productis enim B P et quem facit linea B A cum linea Β Μ ipsi N M
+

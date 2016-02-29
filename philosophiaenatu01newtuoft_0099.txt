@@ -1,0 +1,153 @@
+Lmsn' Peuma] ' 'PRINCIPIA MATHEMATJCA.
+
+tnnguloPTxCEseuob evanescen-
+tem ET‚dimidiorectanguloP C><CE
+Lem. 1.
+( 157. similinus argumentis ex fluentibus cal-
+culo expressis fluxiones inveniri possunt, in quan-
+titatibus finitis aalysim instituendo, et finitarum
+nascentium vel evanescentium rationes primas
+vel ultimas investigando. Haec autem sunt cal-
+culi fluxionum principia. Nimirum, 10. cum
+fluxiones sint in prima ratione incrementorum
+nascentium et ultima evanescentium (146), fluxi-
+ones iis incrementis primo nascentibus vel ulti-
+mo evanescentibus possunt exprimi—20· Quan-
+- fitates quae nonnisi suo incremento nascente aut
+evanescente differunt, sunt aequales (Lem. 1.)—
+30. Quantitatum constantium nullae sunt fluxio-
+nes, nulla incrementa vel decrementa-40. Si in-
+ter quantitates indeterminatas aliquae decrescant,
+dum aliae crescunt, decrescentium fluxiones sunt
+negativae, sunt enim ut inm-emente. negativa, seu
+ut decrementa.
+
+158. .Quantitatos fluentes designantur ultimis
+alphabeti litteris z, y, tc, v ,- constantes indican-
+tur aliis a, b, c, διο. fluentium fluxiones primas
+aut ipsis proportionalia incrementa nascentia vel
+evanescentia Nzwmonus notat iisdem litteris qui-
+bus fluentes exponuntur, scd iis punctuatis sic
+x, y, ω. υς Leibnitius litteram d, incrementi
+nascentis vel evanescentis notam characteristicum
+fluentibus praeponit sic ἀπ, dy, dx, dv. F luxiones
+
+necundae designantur sic z, js, i, ⁸1³2, vel sic ddz,
+
+dely, «idn, ddv ,- fluxiones tertiae sic z, y, ετ, v,
+vei sic aaz, dddy, addc, adan, vel sic 11³2, azy,
+‹1³oe, em, et ita deinceps in infinitum.
+
+159. Fluxio quantitatis ex pluribus terminis
+per additionem vel subtractionem compositae,
+aequalis est omnibus singulorum teminorum
+fluxionibus per eadem signa -}- vel - junctis;
+ita fluxio quantitatis compositae a 4- z - y, erit
+τί z -d y.—Dem. Totius quantitati? a ÷ z
+- y, incrementum tempore dato genitum aequale
+est differentiae incrementorum ipsarum z et y,
+cum nullum sit constantis a, incrementum (156)
+ade6que incrementum nascens vel evanescens
+quantitatis a -Ι- z —y ‚ aequale est diffmntiae
+incrementorum nascentium vel evanescentium
+ipsarum z et y, sed fluxiones sunt in prima rati-
+one incrementorum nascentium (145) ergo fluxio
+totiusquantitatisa-l-z—y, estdz—dy. Q.e.
+d. Si crescente quantitate z, decresceret y, ipsius
+{affl :zar eves 2¹⁵3ss
+
+⁶- 5
+d y. Quod in sequentibus semper est obses·-
+vandum.
+
+160. Fluxio quantitatis fluentis ex pluribus
+variabilibus per multiplicationem compositae,
+aqualis eet summae factorum ex singularum vari-
+abilium componentiumfluxionibus in aliarum va-
+tiabilium facta ductis, hoc est fluxio quantitatis
+z y, est z d y -ξ- y d z, fluxio quantitatis ι z ost
+a'd z, fluxio quantitatis z yx estyoed2422dy
+
+-1- zy d :n—Dem. Recta C B, fluens super .
+
+recti A B cui norma· f
+lis estprogrediatur, il-
+liusque punctum extre- , ,
+mum C, describat cur- i!
+vam A C c, perveniat
+B C in locum b c, et
+compleantur rectangu·
+la B F, b f, B E, Css
+E G ; A Β, dicamz,
+B C dicatur y, ade6que
+rectangulum B Ferit
+z. y. Dum Β C, per- Α
+
+   
+
+venitianincnementum ‘BFseu
+zy, &quale estsummae lorum B Ε,
+EG‚Cf; astantem umE G‚adrectan-
+
+gtssum=EB,utEcadBc‚etad um
+efutCE‚ve113 b, adFC‚·seuAB; quare
+redeunte b c, in locum suum priorem B C, et
+decrescentibus continuessq etE Catquetan-
+dem ultim& evanescentibus, decrescit quoque et
+tandem evanescit, seu fit inassignabilis ratio rec-
+tanguhEG,adrectangulaEBeth;adefique
+(Lem. 1.) summa duorum recmngulorum B Ε,
+cf, fit ultimo aequalis summae trium rectmgu-
+lorutn Β Ε, Ε G, C f; ergo incrementum nas-
+{eff migne ,⁵3¹ {effes essse,
+1 )
+
+seu summm factorum ex z, in incrementum nas-
+cens 1psius y, et ex y, in inaementum nascens
+ipsius z, adet'xque fluxio facti :cy (146) est z dy
+4-de Unde etiam fluxioaz est, adaquiaa,
+constans nunamhabetfluxionem. Q. e. d.
+
+Jaminfactozyoeponaturzy=v,eteritz><
+yoe=v τ, adedque fluxiofacti z y ςι· aqualia
+fluxioni facti v 23· fluxio autem factiv τ, est 2· d n
+-Ι-υάτ, etfluxio facti ἴμεν, est zdy†ydz
+=dv, idoetsiinfluxionezdv,÷vdoe‚ pro
+vetdvscribnnturzy‚etzdy÷yd z, fluxio
+factizyoe‚nempeoedv÷vdae, αἰεὶ-κάμὴ-
+ῃτιίκ-ξ-κμιίτ,· etparestmtioaliorum fac-
+torum quorumcumque. Q. e. d.
+
+161. Cor. 1. Ponantur singulae fluentes z, y,
+τ, ὅτε. sibi mutuo semper aequalae et ipsius z z,
+fluxioeritzdz†zdz= ‘lzdzz fluxiocubi
+z³eritzzdz÷zzdz÷zzdz=3zzdz
+=3z³—¹dz: fluxiopoteutiaez⁴erit4z³dz
+= 4z ⁴—¹·dz: et eodem argumento fluxio
+potentiae cujuscumque z ¹¹¹ erit m z ¹¹¹ -- ¹ d z.
+
+162- Cor· 2. Fluxio quantitatis z ᾗ, est
+ἀν,
+
+et erit z=yy,35‡2ydy (161) dy=
+d(z{)=dz=2y=dz:2z}etgenernliter
+
+fluxioquanfitatiszsm==aet⁷2z÷-¹dz='÷><
+
+n
+
+m—²²⁸dz. ‘¹
+165. Cor-3. Fluxio fractionisz: yseu azy-¹
+estydz—zdy:yy. Nam fiat τεμεῖ,
+entz=yoe,dz=ydz·-{-z·dyet dae=dz=
+
+9-ωά939-ἕᾱκῇμ-κάμιμῃερατ-κάμε
+yy:flux10quantitntisaz¹¹¹y⁸esta my'zm-1
+dz÷anzmy”—¹dy(160.)
+
+ 
+
+ξεξ-ῑιίκξ nam ponaturzff=y
+
+ 
+

@@ -1,0 +1,68 @@
+Lmen Pennus-3 PRINCIPIA MATHEMATICA. “ 201 '
+
+SECTIO VI.
+
+De inventiohe motuum in orbibus datis,
+
+PROPOSITIO XXX. PROBLEMA XXII.
+
+Corporis in datci trajectorid parabolica moti invenire locum ad tempus
+assignatum. (⁵)
+
+(²) Sit S umbilicus et A vertex princi-
+palis parabolae, sitque 4· A S Χ Μ oequale
+areae parabolicae abscindendae A P S, quae ······ ·‘
+radio S P, vel post excessum corporis de
+vertice descripta fuit, vel ante appulsum
+ejus ad verticem describenda est. Inno-
+tescit quantitas areae illius abscindendae
+ex tempore ipsi proportionali. Biseca A S
+in G, erigeque perpendiculum G H ae-
+quale 3 M, et circulus centro H, intervallo A G S - 0
+H S descriptus secabit parabolam in loco quaesito P. Nam, demissa ad
+axem perpendiculari P O et ductfi P H, (⁰) est A G q ¹}- G H q (ε
+(¹)HPq= Ao—AG: quad. -Ι- POTG—H: quad.) = AOq
+4- ΡΟᾳ--ΞῦΑΟ-2ΘΗ >< PO†AGq÷GHq, (5)Unde
+-2GH xPO(=AOq÷ POq--2G AO) = AO q-f-{Poq
+
+   
+  
+
+,,,,Ρ
+
+ 
+
+ 
+
+Pto A O q scribe A O Χ ῑξί ἐς et applicatis terminis omnibus ad 3 Ρ Ο
+
+ductisquein 2As‚fiet3GHxAS(=}AO><PO÷-}A S><
+
+Po=A056—³AS><P0=3‘—4-q—{—3—S-9 >< Po :areae
+
+ffoss-‘s-P‘b') = areaeAPs. sedGHerats M,et1nde:3,G Η
+
+(⁸) 888. Newtonus in hac tota sectione sup- (ἴ) ” Sit S umbilicus, et A, vertex principalis
+ponit corpusin trajectoriii conici dat& iti moveri, parabolae, datumque sit tempus quo corpus in
+utradiis ad traJeqmriae umbilicum ductis areas parabola motum, ut modo exposuimus (358.)
+seu sectum describat temporibus proportionales; ex vertice A ad punctum P, aut ex puncto P ad
+efienhn lege planetas omnes iu orbitis conicis verticem A pervenit, seu datum sit tempus quo
+revolvi ex phenomenis lib. 5⁰ ostendit. Praete— sector quilibet A P S describitur.
+rezmpponitnommaesetempusquocomusex (⁰)·EstAG2÷GH²=HP²;nam
+puncto injectoriae dato v.g.ex vertice iuius AG=GS‚HP=HS=HA‚etangu.
+principali ad aliud ejusdem mjoetodae punctum lus G rectus (per constr.) quare H A ² = H P ²
+datumpervmigdatamqueesseareamseum- =AG²÷GH2.
+jectm'iae sectorem huic tempori coi-respondentem, (¹) * H Ρ 2=(Ao-AG)² (P 0-G ΗΡ.
+ῗηυεξι lus datis quantit-locum mobilis in tran Nam ex puncto H, ad rectam Ο demis& in-
+ροισι-ξε adjshud quodus tempus datum, aut telligatur perpendicularis, haec erit aequalis ipsi
+coum quaent tempus quo mobnle datum quodws G 0 = Α 0 ..- A G, et pass ηοω Ρ 0 inter
+trajectonae punctum ataugit; nam cum sint areae perpendicularem et punctum P intercepta aequa÷
+{leamponbushpwpomoualeis dato tempore quovis 113 erit P ο -. G H.
+
+tur area oc tem re escri et vicissim dats ’ ⁵ · · admn-
+area descripta datii? tmnpuspttss’o describitur. (y) u Unde sumans numque qu ⁸ A G ²
+
+ 
+
+ 
+

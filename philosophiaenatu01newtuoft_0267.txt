@@ -1,0 +1,45 @@
+Lau-:R Pinnos] PRINCIPIA MATHEMATICA. 231
+
+cadendo describere> et interea corpus aliud K, uniformiter in circulo
+O K k circa centrum S gyrando, 'arcum K k describere. Erigantur per..
+
+ 
+
+pendicula C D, c d occurrentia figurae D E S in D, d. Jungantur S D,
+S d, S K, S k et ducatur D d axi A S occurrens in T, et ad eam de-
+
+mittatur perpendiculum S Y.
+
+Cas. 1. Jam si figura D E S circulus est vel hyperbola rectangula,
+bisecetur ejus transversa diameter A S in O, et erit S O dimidium Ia-
+teris recti· (¹) Et quoniam est T C ad T D ut C⁴c ad D d, et (¹¹¹)
+TD adTS ut CDadSY, erit ex aequoT‘ C ad T S ut C D Χ
+C c ad S Y Χ D d. Sed (per Corol. 1. Prop. XXXIII.) (¹²) est T C
+ad T S ut A C ad A O, puta si' in coitu punctorum D, d capiantur li-
+nearum rationes ultimae. Ergo A C est ad A O seu S K ut C D Χ C c
+ad S Y Χ D d. Porro corporis descendentis velocitas in C est ad veloci-
+tatem corporis circulum intervallo S C circa centrum S describentis in sub-
+duplicata ratione A C ad A Ο vel S K (per Prop. XXXIII.) Et haec velo-
+citas ad velocitatem corporis describentis circulum O K k in subduplicatfi
+
+ratione S K ad S C (per Corol. VI. Prop. IV.) et ex aequo velocitas prima
+ad ultimam, hoc est lineola C c ad arcum K k in subduplicatfi rationeA C ad
+
+SC, (⁰) id estinrationeA C ad CD. Quare est C D Χ Ccaequale A C
+Χ Kk,et(¹¹)propterea ACadSKutAC ka adSYx
+
+(¹) ⁰ Ee quoniam est Tead TD ut ec ad (0) ’⁴In ratione A C'ad S (Γ, id esc in ratione
+D d. Quia in Triangulo T C D, est c d pa· A ead 01)- Est enim S E D, circulus, vel
+rallela basi‘C D, ideoque T C ε Τ D ut partes hyperbola aequilatera cujus vestices S et A, sed
+correspondentes C c, D d. in circulo et hyperbola aequilaterfi ob axium
+
+(¹²¹) ⁸ Et TDad TSut CDadSY. Sunt aequaliiatem est C D² = A C Χ S C, et
+enim propter angulos Y, et C, rectos et angulum proinde A C ε C D = C D : S C, et hinc A C
+T, communem, triangula T C D, T S Y, similia. ad C D, in ratione subduplioetfi A C ad S C.
+
+(¹¹) ⁸ Est T C.- ΤΕ. Nam punctis D, d, (Ρ) · Et promereti.¹ Nam ex superius de-
+tangens; ade6que(396.) moBstgatisA028K=CD><Cc28Y
+
+co'e'untibus, fit T D,
+TC: TS=AC:
+

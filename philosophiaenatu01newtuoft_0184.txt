@@ -1,0 +1,48 @@
+148 PHILOSOPHIAE NATURALIS [Mo'r. Gauron.
+
+LEMMA XVIII.
+
+Iisdem positis, si rectangulum ductarum ad opposita duo'latera trapezii P Q
+Χ Ρ R sit ad rectangulum ductarum ad reliqua duo latera P S Χ Ρ Τ in
+data ratione ,· punctum P, a quo lineae ducuntur, tanget conicam sectionem
+circa trapezium descriptam.
+
+Per puncta A, B, C, D et aliquod infinitorum punctorum P, puta p,
+concipe conicam sectionem describi: dico punctum P hanc semper tan·-
+gere. Si negas, junge A P
+secantem hanc conicam
+sectionem alibi quam in P,
+si fieri potest, puta in b.
+Ergo si ab his punctis p et
+b ducantur in datis angulis
+ad latera trapezii rectae p q,
+pr, ps, pt et bk, bn,
+bf, bd; eritutbk >< bn
+ad b f >< b d ita (per Lem.
+XVII.) pqxprad ps
+>< p t, et ita (per hypoth.)
+PQxPRadPSxPT. ., 3³.
+Est et propter similitudi· Α (ὲ kst B
+nem trapeziorum b k A f,
+P Q A S, ut b k ad b f ita P Q ad P S. Quare, applicando terminos
+prioris proportionis ad terminos correspondentes hujus, erit b n ad b d ut
+P R ad P T. (†) Ergo trapezia aequiangula D n b d, D R P T similia
+sunt, et (²) eorum diagonales D b, D P propterea coincidunt. Incidit
+itaque b in intersectionem rectarum A P, D P ideoque coincidit cum
+puncto P. Quare punctum P, ubicunque sumatur, incidit in assignatam
+conicam sectionem. Q. e. d. (ὓ)
+
+ 
+
+:bfxdb= les3 quaeetduotriangulandn, RTD.
+aequiangula erunt ob angulum D, communem,
+· P S. · P Q, et angulos adTet t. R ct n, oequnles, erit igitur
+erit bn. bd=PR. PT. bn. nD= PR. RD adeoqueductudn-
+( ³) Ergo tr rapeziu aeqm'avugula D n b d, gonalibus D b, D P. duo triangula b D n,
+D R P T, similia sunt, et eorum diagonazes D d, P D R, erunt similia, ac proinde angulus PDR:
+D P, pro pter νειὶ οοίποίάιιηι,· nam jungantur nd‚aequa1is’ angulo b 1⁹) n, quod esse ιιοιι potest,
+
+s R Τ, et duo triangula n d b, R T P, aequian- nisi dingonales D b, D Ρ(1 coincidunt.
+gula erunt ob late era bn, b d, et P Raeq P T, (ὓ) 802. . Lemma XVIII. peranalyu 'mftdle
+proportionalia, et angulos ιι b d, R P Τ, mque· demonstran potest. Productus emm P S. donee
+

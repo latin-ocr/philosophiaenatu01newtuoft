@@ -1,0 +1,50 @@
+196 PHILOSOPHIAE NATURAvLIS [MonCom’on.
+
+P Q.R K figurae a b c K aequiangula et similis, et propterea a b est ad b c ut
+PQ ad Q R, id est, ut A B ad Β C. Angulis insuper F a G, F b H,
+F c Ι aequantur f A g, f B h, f C i per constructionem. Ergo figurae
+a b c F G H Ι figura similis A B C f g h i c‘ompleri potest. Quo facto tra-
+pezium f g hi constituetur simile trapezio F G H 1, et angulis suis 13 g,
+h, i tanget rectas A B C, A D, B D, C E. Q. e. f.
+
+Corol. Hinc recta duci potest eujus partes, rectis' quatuor positione da-
+tis dato ordine interjectae, datam habebunt proportionem ad invicem. Ι
+Augeantur anguli F G H, G H Ι usque e0‚ ut rectae, F G, G H, H l
+in directum jaceant, etin hoc casu construendo problema ducetur recta
+f g h i, cujus partes fg, g h, h i, rectis quatuor positione datis A B ,et
+A D, A D et Β D, B D et C E interjectae, erunt ad invicem ut lineae
+F G, G H, H I, eundemque servabunt ordinem inter se. Idem vero sic
+'fit expeditius.
+
+Producantur A Β ad K, etB D ad L, ut sit Β K ad A B ut H I ad
+G H; et D L ad B D ut G I ad F G3 et jungatur K L occurrens rectae
+C E ini. ProducaturiL ad M, ut sit L M ad iLut G H ad H Ι, et
+agat ur tum M Q 1psi L Β parallela, rectaeque A D occurrens in g, tum
+g i secans A Β, Β D m f, h. Dico factum.
+
+Secet enim M g rectam A B in Q, et A D rectam K L in S, et
+agatur A P quae sit ipsi B D parallela et occurrat i L 1n P, et erunt g M
+adLh(giadhi, (¹¹) Mi ad L i, GIadHI, AKadBK)etAP
+ad B L in eadem ratione. Secetur D L in R ut sit D L ad R L in efi-
+dem illa ratione, et ob proportionales g S ad g M, A S ad A P, et D S
+adD L; erit,(⁰)ex aequ0‚ ut gs adLhita A S ad B LetDSad RL;
+etmixtim, BL— RLadLhO-BLutAS— DSadgs—AS. Id
+estB R ad Bh ut ADad A g, ideoque ut B D ad g Q. Et vicissim BR
+ad B D ut Β h ad g Q, seu f h ad f g. Sed ex constructione linea
+B L eadem ratione secta fuit in D et -R atque linea F Ι in G et H:
+ideoque est B Rad B D utF H ad F G. Ergo fhest ads g ut
+F H ad F G. Cum igitur sit etiam g iad hi ut M i 'ad L i, id est,
+ut G I ad H Ι, patet lineas F Ι, f i in g et h, G et H similiter sectas esse.
+
+Q. e.f.
+
+(¹¹)* Nam(perco nstr.)LM: iL= GH: patetaeseogS: Lh= AS: BL= DS.
+H1= AB. BK acp med componendo RL‚cet onuseqenter A—S. Lh
+
+nsueeq enctes um anect eed ntilbus Mi ‚iL = B =nAS— DS: BL— RL- gs. Lh-
+G12H1=AK.BK=APBLbundmndpnntdwmotltrndnl.
+p Illas. -RL. Lh— BL=As-Dszgs
+() Q menim —AS ied stBR:Bh.-.=AD=A =
+ΕΜ Lh=AP2BL=DL RL BD: gQ, b imilia triangulnAlfB,
+th gM=A82AP=DS DL AgQ.
+

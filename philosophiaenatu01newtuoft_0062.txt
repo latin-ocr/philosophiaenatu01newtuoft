@@ -1,0 +1,110 @@
+ἑ
+
+26
+
+PHILOSOPHIAE NATURALIS
+
+[Anom. ειη
+
+tq concursus: dein corporis utriusque motus (per Corol. 11.) distinguen-
+dus est in duos, unum huic plano perpendicularem, alterum eidem paralle-
+lum: motus autem paralleli, propterea quod corpora agant in se invicem
+secundum lineam huic p‘lano perpendicularem, retinendi sunt iidem post
+reflexionem atque antea3 et motibus perpendicularibus mutationes aequales in
+partes contrarias tribuendae sunt sic, ut summa conspirantium et differentia
+contrariorum maneat eadem quae prius. Ex hujusmodi reflexionibus oriri
+
+etiam solent motus circulares corporum circa centra propria.
+
+Sed hos ca-
+
+sus in sequentibus non considero, et nimis longum esset omnia huc spectan-
+
+tia demonstrare.
+
+COROLLARIUM IV.
+
+Commune gravitatis Centrum (⁰), corporum duorum vel plurium, ab actionibus
+corporum inter se non mutat statum suum vel moltis vel quietis ; et propterea
+corporum omnium in se mutuo agentium (exclusis actionibus et impedimen-
+tis externis) commune Centrum gravitatis vel quiescit vel movetur unffor-
+
+miter in* directum.
+
+ad A It, ut celeritas globi B, ad celeritatem
+globi A; globus A in R, et B in M, eodem
+tempore pervenient (6); Cumque sit M R=
+E Η, globi in puncto C, se mutu& contingent,
+et planum F L, ad radium R C, in puncto C,
+perpendiculariterductum utrumque globum con-
+tinget. Q, e. d.·
+
+(ο) 58. Centrum gravitatis corporis cujusque,
+est punctum intra vel extra corpus positum, circa
+quod undique partes in aequilibrio consistunt, ita
+ut per hoc punctum ducatur planum figuram
+‘utcumque secans. corporis segmentaquae utrinque
+sunt circa planum illud libram aequiponderent3
+si igitur ex centro gravitatis corpus aliquod
+suspendatur, datum quemcumque situm reti-
+nebit, et semper quiescet. si centri gravitatis de-
+scensus impediatur-3 unde totam corporis gravi-
+tatem in centro gravitatis locatam fingunt Me-
+chanicL et pro corpore gravi solum gravitatis
+centrum in suis demonstrationibus surrogare so-
+lent. Planum gravitatis est figura plana per
+centrum gravitatis transiens3 Diameter vero gra-
+vitatis est recta per centrum gravitatis ducta.
+Quare planorum gravitatis, communis intersec-
+tio diametrum gravitatis efficit, et in diametro-
+rum gravitatis concursu centrum gravitatis posi-
+tum est. . Centrum magnitudinis vocatur punc-
+tum illud, per quod divisa magnitudo relinquit
+duas partes utrinque aequales3 ut in circulo et
+ellipsi, ductis utcumque per centrum lineis rec-
+tis. lineae 111ae totaque figura ἱιιι partes aequales
+dividuntur ; ac proinde si gravia homogenea, id
+est, quorum gravitates sunt voluminibus propor-
+
+, aonides, secundum longitudinem in partes Sl-
+
+miles et aequales secari possint, centrum gravita-
+tis a centro magnitudinis non differt.
+
+59. Ex hisce definitionibus facile colligitur,
+omnium circulorum, ellipsium, sphaerarum et fi-
+gurarum quarumvis regularium, centrum gravi-
+tatis idem esse cum centro magnitudinis, modo
+tamen gravia supponantur homogenea. In fi-
+guris autem irregularibus, communi duorum gru
+vitatis diametrorum intersectione determinari
+potest centrum gravitatis (58). Sic in quolibet
+parallelogrammo. centrum illud in duarum dia-
+gonalium concursu positum est5 in triangulo re-
+peritur in intersectione duarum rectarum quae ι
+duobus angulis ductae‚ latera angulis illis oppo-
+sita, totumque proinde triangulum bifariam, ade-
+oque in partes aequiponderantes secant. inpris-
+matibus et cylindriS, centrum gravitatis est punc-
+tum medium rectae basium oppositarum centra
+conjungentis ; et generaliter in omnibus corpori.
+bu's quantumvis difformibus centrum gravitatis
+mechanici} invenitur, si corpus ab aliqua sui parte
+libere suspendatur, et ab eadem parte a qufi pen-
+det, demittatur perpendiculum ita ut in corpore
+linea quam fecerit perpendiculi filum notetur3
+deinde ab alia parte corpus idem libere suspen.
+datur ut prius, noteturque iterum linea perpen-
+diculi ab hac parte super corpus demissi; con-
+cursus enim duorum filorum perpendiculi (quae
+sunt diametri gravitatis) erit centrum grav-itatis
+corporis dati.
+
+60. Centra gravitatis a et b, corporum A et B,
+rectii seu vecte inflexibili et gravitatis experte,
+a b jungantur-3 et ita dividatur a b, in C, ut sit
+pondus A, ad pondus B, ut C b, ad C a, punc-
+tum C, erit centrum gravitatis commune duo-
+rum corporum A et B... Dem... punctum C,
+fixum maneat, sitque 1⁰. a b, horizonti parallela,
+

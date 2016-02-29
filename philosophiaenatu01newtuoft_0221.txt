@@ -1,0 +1,137 @@
+Lrnmt Paruum]
+
+conio.- apon.) 1x><1Ysiverz 2'=1›G2‚
+
+asymptoti efitooI²moG²=IX><IYz
+(perCor.2. Lem.111. de Conic. p. 90.)
+sedeum ω Iet ω Gsintlineaeinfinitaequan-
+titate finita G I differentes, pro aequalibus ht„-
+bentur, ergo etiam IX><IY siveI Z²=
+PG2, atqueade612= PG, etoonsequenter
+junctaP Z, parallela est asymptoto G 13 recta
+Z rproducta secetrectam 1 L, iu puncto aliquo
+S, et ob similia triangula S 1 Z, S L P, erit
+122: LP2= I S2: L s2;ven*1m (vid.
+Not. ad Probl- XVI. aut Lem. ΙΙΙ. de Conic-
+p.89.) X 1 Χ IY (142²):LP2=C Ι
+xID:CL><LD;erg‹3 18²:Ls2=
+cI><1D20L><LD‚quamsirecta1Lita
+seceturinsutsitls22LS²=c 1><1D2
+CLXLD,etagaturSP,asymptotoGIparal-
+lela, erit P punctum contactus. Datis autem tri-
+bus punctis C, P, D, hyperbola describitur (549).
+
+ 
+
+tin'ZICDCl-,lsffi et puncto A, hyperbolam munem A aliarum tangentium A F, A H aga-
+
+ptote Ο L, duabus tangen-
+
+describere3 (solutio facile deducitur ex Proble-
+mate XVII).
+
+Per coneursum O asymptoti Ο L cum tan-
+gente O C, et concursum R tangentis alterius
+R D cum recta R A quae per punctum datum
+A et punctum contactus asymptoti transit, eeu
+quae est asymptoto parallela3 age rectam infini-
+tam Ο R, eaque adhibita pro radio ordinato
+prime, Ο L vero pro radio ordinato novo usur-
+pata, sumptisque ordinatis novis asymptoto pa-
+rallelis (ad majorem constructionis facilitatem),
+transmutetur figura per Lem. XXII. in figuram
+novam, nimirum ‚linea B A in lineam B a,
+(550), punctum A in a, linea R D in i k ipsi
+Β Lparallelam (529) O Cinih, Ο LinkL
+ipsi i h parallelam (827) et punctum contactus
+§ffipssiaffi‘jnffiffl mssfflzfffcffmssss
+nis intersectio linearum R A, Ο L infinitarum,
+et ideo transfertur in L comunem intersectio-
+nem rectarum k L, Β L parallelogrammi h i
+k L; Triaergolaterahi, ik, kL tanguntno-
+vam sectionem conicum quae nansire debet per
+punctuma, dicantur c et d puncta contactuum li.
+neamm h i, ik, sic invenietur punctum c, sumatur
+Radix a facti h L χ h a etaddatur lineae
+ik, illa summa erit ad duplum lineae hi ut ea ipsa
+Radix quadrata ad portionem h c. Hoc est i k
+
+PRINCIPIA MATHEMATICA.
+
+punctum contactus hyperbolae et h c· Nm (per Cor. 2. et 3.
+
+ 
+
+Lem. 111. de Cno-
+nic. p.90.) ast dk22kL2=d1²ic2=
+hL><ha2thindeoetdk=kL=di ic
+
+=4th><ha2hc,etsumendosummam
+Anteaetconseq. eetdk†di-{-
+thxhasz-ff-ic-l-hcsiveik-ff-
+Vthh22kL÷hi(2hi)=
+V—h—'Lxhazhct Invento autern punctae
+invenitur punctum d, si quidem estdi: ic =
+
+ffbeh a:h c: Construitur autem haec
+solutio capiendo h f, aequalem mediae propor-
+tionali inter Lh et a h, et producta L k ad P,
+ut sit kP=kL, agendo pei-set P rectam fP,
+illa f P latera h i, i k secabit in punctis quaesitis
+c,d; namobparallelasch. PLetik, fLest
+Lf(ik÷4t ahth): LP (2k Lsive
+2ih)=hf(4lah><hL):hc‚ ethc2hf
+=i c:id; per inversas
+operationes Lem. XXII.
+(381), transferantur punc- ’
+ta c, d, in figuram primam,
+nimirum in C, D, et data
+erunt tria hyperbolae punc-
+ta D, C, A, cum asymptoto
+Ο L, quare describetur hy..
+perhola (549).
+
+852. Data asymptoto Ο a,
+Ι Vid. Fig. prim. pag. seq-s
+et tribus tangentibus O C,
+A F, A H hyperbolam des-
+cribere, solvitur ut Proble-
+ma XVIII. Ab intersec-
+tione communi Q asymptoti
+Ο a, et tangentis Ο C, ad intersectionem com-
+
+ 
+
+ 
+
+ 
+
+tur recta infinita Ο A, et eadem pro radio
+ordinato primo adhibita, Ο a vero asymptoti
+parte pro radio ordinato novo sumpta, transmu-
+tetur figura in figuram novam, nimirum tangens
+Ο C et asymptotus in parallelasi h, k lpunctum
+contactus asymptoti in a, et duae tangentes A F,
+A H in parallelasi k, hl, et parallelogrammi
+h lk i, latera singula novam sectionem conicam
+tangunt, et quidem latus k l, in a, per a, et pa·-
+rallelogrammi centrum m, agatur a q, tangenti,
+i h, occurrens in q, et erit q, punctum alterum
+quo i h, novam sectionem tangit. Per Lem-
+matis XXII. operationem inversam transfera-
+tur hoc punctum in figuram primam, nempe in
+C, et erit C, punctum contactus tangentis O C,
+quare datis asymptota Ο a, duabus tangentibus
+A Ε) A H, et puncto C, describetur hyperbola.
+
+853. Datis asymptoto, axium ratione, ‹luo-
+bus punctis vel puncto et tangente aut binis
+tangentibuS, byperbolam describere. Sunto
+hyperbolae asymptoti C E, C G, centrum
+C, vertex principalis A, semiaxis transver-
+sus C A, semiaxis conjugatus A E adCA,
+normalis; in triangulo rectangulo Cj A E
+dats ratione crurum C A, A E, datur angu-
+lus-E C A,-est enim C A, ad E A, ut sinus
+totus ad tangentem anguli E C A, quare dati
+

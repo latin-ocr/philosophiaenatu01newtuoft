@@ -1,0 +1,131 @@
+met Parmos]
+
+377. Lemwm Si per puncta qumvis asymp-
+agautur duae rectae G F, H D alteri
+
+toti C L,
+asymptoto C P parallelae, et hyperbolae occur-
+rentes in F et D, jungamurque semidiametri
+c F, C D, trapezium hyperbolicum G F D H
+aequatur sectori C F D. Nam, ex natura hyper-
+bolae inm· asymptotos, triangula C H D, C‘G F,
+uantur ob aequales angulos G et H et latera
+recnproca (per Theon· IV. de Hyp. p. 9¹.)
+adeoque sublato communi triangulo C G A,
+raeiduaspatiaG A ΒΗ, C AFeruntaequalia,
+quibus si addatur idem spatium hyperbolicum
+DARsummae GFDH‚C F Derane
+aequalae. Q„ e. d. . .
+
+878. Corol- 1. Hinc iisdem postus quae
+(num. 376.) trapezia hyperbolica G F D H,
+K B E L sunt aequalia.
+
+:379- Corol. 2. Si asyrnptoti partes C G, C H,
+C K fuerint continue proportionales, duo sec-
+tomC FD, C D B etduo trapezia hyperbo-
+lim G F D H, H D B K, aequanmr. Eidem
+enim ratione qua num. 576. ostendetur rectam
+B F tangenti per punctum D ductae eze paral-
+lelum. Unde si super asymptoto C L sumantur
+parus quotcumque C G, C H, C K, C L, &e-
+iu continui progressione geometricfi, et ex
+punctis G, H, K, L, &c- agantur rectae G F,
+H D, K Β, L E, &c- alteri asymptoto pnrallelae,
+trapezia} hyperbolica G F D H, H D B K,
+KBEL eruut aequalia;etvicissim si tra-
+pezia issa aequantur, erunt rectae C G, C H,
+C K, C L, &c. in continui progresdone geo-
+metncfi.
+
+380. carol. 3. Sit hyperbola F D B E ae-
+quilatera, cujus nentrum C, asymptotus C L,
+semiaxis 'transversus C F, cupiantur in asymp-
+toto partesCG, CH, CK, CL, ὅτε. incon-
+, tinufi progressione geometrica, agunturque G F,
+H D, K B, L E, δια, alteri asymptoto C P
+parallelae, trapezia hyperbolica G F D H,
+HDBK,KBEL‚&c.e1-unt aequalia3
+quare eorum summae, scilieet ο, G F D H,
+GFBK, G FEL. &c- erunt in continua
+progressione arithmetici. Si itaque C G sit
+unitas, C H, C K, C L, διο. numeri, erunt
+o‚G F ΒΗ, GFBK, GFEL, illorum
+numerorum logarithmi.
+
+381. Ουτοι. 4. Itaque per logarithmonm
+hyperbolica-um tabulas, inveniri possunt trape-
+:iorum quorumvis-G F D H, B G F K, διο.
+areoe3 Sumpta enim C G pro unitate, quaemn-
+tur-innumeris valores rectarum C H, C K,
+&a et horum numerorum logarithmi exhibebunt
+'tt-apetiahyperbolicaGFDH, GFBK‚&c.
+
+882. Corol- 5. sit C G=1, GH=1, C H=
+
+1 ψ’), Η D = y, et erit, exuam-5 hyperbolae
+interas'ymptotos 141>< y=l, adeoquey=
+*1———,4¹- ι et tmpaii G F D H elementmn
+
+DHQMseuydx=l‘³-÷¹·X;siigitur1⁴.l †x,
+
+denotet logarithmum numeri l -1- x, erit
+· L(1÷x)=G F D 11, et elementum logan-immi
+
+ 
+
+ 
+
+PRINCIPIA MATHEMATICA.
+
+ 
+
+21 7 ’
+ςειιᾶῘῙι.ἷ”-1Τῖεγᾶιει [il-¹¹. Et εἰ-
+militet elementum lugat-immi numeri cujusvis
+
+{L
+
+:seu d. L.z=
+
+ 
+
+P
+
+383. cord. s. eum sit γεῖ-ῙΤ-Χ, si pe.
+
+regatur divisio, erit y= l—x ÷x2—x³
+† x ⁴, &c- in infinitum, ac proindeyd x =
+dx—xd14x2dx-13dx,&c. ininfi-
+nitum, etsumptis utrinque fluentibus S. y d x
+
+=GFHD=LL x=x—-{x²-{-
+
+,ἐκ ³- { ¹⁴ -}-}x ⁵, &c- in infinitum. Si au-
+tem numerus'proposims sit unitate minor, seu 1
+— x, eodem modo invenietur ipsius legarithmuz
+S. —yd x=L.l—x=— κ-ᾗιῑ-ὲχ
+χ3-ὲχ 4—}x5‚&c·
+
+384. Scholium. Observandum est logarithmos
+hyperbolicos Neperi a logarithmis Briggii qui-
+bus vulgo utimur differre; verum cum hyper-
+bolici sint semper ad Briggianos seu vulgares in
+efidem constanti ratione, nimirum logarithmus
+hyperbolicus numeri denarii 2. 802585 est ad
+logarithmum Briggianum numeri denarii
+1. 000000, ut quilibet logatithmus hyperbolicas
+nd ejusdem numeri logarithmum Briggianum,
+facile est hyperbolicos ad Briggianoget contr&
+Briggianos ad *hyperbolicos reducere, adedque
+
+quadraturam per lognrithmos
+etiam vulgares invenire. Si dividatur 1. (ὈΟΟΟΟ,
+per 2. 302585, δια, quotienso. 4:342948, ἃς.
+per logarithmum quemvis hyperbolicum multi-
+plicatus, dabit logarithmum vulgarem, et vioe·
+
+ 
+
+hyperbolarum
+

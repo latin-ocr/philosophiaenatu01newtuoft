@@ -1,0 +1,131 @@
+100
+
+Cor. 11. Si Ellipsis sit data, sic inveniuntur
+centrum et Axes: ducantur ut lubet duae Pa-
+ralleloe P p, F s, per earum medium O, o,
+ducatur linea, erit Diameter‚ ejus medium C
+erit Centrum ex quo describatur circulus qui
+secet curvam in duobus punctis R, r ducatur-per
+centrum linea perpendicularis in lineam R r quae
+cam bifariam dividet (per 3. 5. Elem.) erit ergo
+Axia alter axis habetur erigendo lineam huic
+perpendicularem in Centro ad curvam usque.
+
+Ix. De Parabola-
+
+leeor. Ι. Omnes Diametri Parabolae sunt
+infinitae et inter se Parallelae: quadrata ordina-
+tarum sunt inter se ut Abscissae Diametrorum,
+et cum tertia proportionalis abscissae et ordinatae
+dicatur Latus Rectum, factum lateris Recti per
+abscissam est aequale quadrato ordinatae, hincque
+derivatur nomen hujus curvoe. (Apol. Lib. 1.
+
+Dem. Ducatur in basi coni chorda parallela*
+
+plano Parabolae, et infinite parva, per verticem
+coni et eam chordam ducatur Pitinum> et
+aliud ilh parallelum per unam e lineis Para.
+bolae in hoc plano formabitur Hyperbola, sed
+quam proxima Parabolae, et cujus centrum
+tanto magis a vertice coni removetur quo minor
+est chorda per quam transit planum per verti-
+cem coni ductum, evanescat haec chorda, cen-
+
+trum ejus Hyperbolae in infinitum abibit, et ut<
+
+Planum verticale fiet tangens cono, coincidet haec
+Hyperbola cum Pmabola, sed omnes ejus Diame-
+tri a puncto infinite remoto divergentes erunt Pa-
+rallelae et infinstae, tales ergo etiam erunt Diome-
+tri Parabolae. Praeterea er casu 2⁶⁰· Lem. 111.
+constat, quod si secans infinita plures lineas Paral-
+lelas in Sectione Conicz‘i secet, abseissae erunt
+inter se ut facta partium linearum Parallelarum‚
+
+sed hae bifariam dividuntur a Diametm, sunt er- -
+
+go Diametri abscissae sicut quadrata ordinatarum.
+
+ 
+
+FiatAO: OP=OP: L erit Ο P²=
+A Ο >< L; esto vero quaevis alia abscissa A ο
+et ordinata op erit A O: A ο = O 1³2: 0ορ’,
+et multiplicando primam rationem per L ent L
+Χ AO: L>< A0=OP²:o p²‚ sed-per
+Hypothesim A O >< L = Ο P ² ergo etnam
+L >< A o == o p² hoc est factum Lateris recu
+per quamvis abscissam aequale est ‘quadrato or-
+dinatae ipsi respondenti.
+
+Cor. Ι. Si in Diametrum productam sumatur
+a vertice longitudo aequalis lateri Recto, et ab
+ejus extremo ad extremum abscissae describatur
+aemi-circulus, et in vertice diametri Parabolae
+erigatur Perpendicularis ad circulum usque, erit
+
+-PHILOSOPHIAE N ATURALIS
+
+‘4AO
+
+[Mo'r. Conpon.
+
+haec perpendicularis aequalis ordinatae ad cam
+abscissam pertinenti.
+
+Cor. 11. Si in Diametro quavis sumatur a
+vertice quarta pars ejus Lateris recti, ordinatini
+applicata illi puncto erit aequalis lateri recto.
+Sitenim Ao=35>12estffi LL=0p22 ergo
+L L = 4op2 etL=2 op. sivetotiordinatim
+applicatae in ρ
+
+ 
+
+Cor. ΙΙΙ. Latus Rectum Diametri cuju-wia-
+est aequale Lateri recto axis et quadruplo abscis-
+sae axis determinatae per ordinatam e vertice Dia-
+metri in axem ductam. Ducatur ex vertice a
+Diametri tangens a M quae axi occurrat in Met
+a O ordinata axi, per corollarium Lemmatis V. 1
+
+distantia verticis axis A ad M est aenualis dis.
+tantiae ejusdem verticis ab 0, ergo M O = 2 A 0,
+
+et(per47. I.Elem.) estaM²=M0²
+(sive4 A O²)··}-a 02 (sive L ><A0)=
+÷L>< AO;averticeAaxisducatut
+ordinata A o ad Diametrum propositam, evidens
+est ob parallelas a o, A O, et Tangentem or-
+dinatae parallelam. esse a o = A M sive A Ο
+eto A = a M; sit verdllatus Rectum Dia·
+metri ao, erit0A2. siveaM=2=1><a0=
+1><A Ο sed erataM²=4AO4==L><
+A 0 ergol>< A0=4A0÷L>< Ao,
+unde1=1144AQ Q.e.d.
+
+Tlaeor. 11. Si in axe sumamraverficequarta
+
+pars ejus lateris recti, id punctum vocatur Pa-
+rabolae focus, si verb ultra verticem eadem feratur
+
+ 
+
+longitudo et per punctum in quo cadit ducatur li-
+nea axi perpendicularis, dicetur DirectrixParab'o-
+laez si autem producatur quaevis Diameterad Di-
+rectricem, portio ejus inter verticem et Direc-x
+tricem comprehensa est quarta pars lateris Recti
+ejus Diametri, et est aequalis distantiae ejus ver-
+ticis a foco. ἱ
+Demomt. Ut enim Diameter et axis sunt ρι’
+mucii, ducta perpendiculari a T a vertice dia-
+metri ad directricem eritaT=O D= DA
+4· A 0, est verd D A, quarta pars lateris recti*
+principalis et A O abscissa axis quae respondet
+ordinatae a Ο a vertice DIametri ducta, est veffi'
+per Corol. 2. Theor- praeced.) latus rectum
+'ametri oequale quadruplo lateris recti ct
+dmploAQhocest=4 D A ÷4 A 0
+

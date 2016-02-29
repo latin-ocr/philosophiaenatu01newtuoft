@@ -1,0 +1,49 @@
+78 PHILOSOPHIAE NATURALIS [Mo‘r. Conrou.
+
+PROPOSITIO V. PROBLEMA Ι.
+
+Data quibuscunque in locis velocitate, qud corpus figuram datam viribus ad
+commune aliquod centrum tendentibus describit, centrum illud invenire.
+
+Figuram descriptam tangant rectae tres P T, T Q V, V R in punctis
+totidem P, Q, R, concurrentes in T et V. Ad tangentes erigantur per-
+pendicula P A, Q B, R C velocitatibus corporis in punctis illis P, Q, R,
+a quibus eriguntur, reciproce proportionalia3 id est, 'lta ut sit P A ad
+Q Β ut velocitas in Q ad velocitatem in P, et Q B ad R C ut velocitas m
+R ad velocitatem in Q. Per perpendiculorum terminos A, B, C ad angu-
+los rectos ducantur A D, D B E, Ε C, concurrentes in D et E: Et actae
+
+T D, V'‘E concurrent in centro quaesito S.
+
+Nam perpendicula a centro S in tangentes P T, Q T demissa (per CO—
+rol. l. Prop. Ι.) sunt reciproce
+Ι ut velocitates corporis in punc-
+tis ,P et Q; ideoque per con-
+structionem ut perpendicula
+ΑΡ, Β Q directe, idest ut per-
+pendicula ἑ puncto D in tan-
+gentes demissa. (θ) Unde fa·-
+cile colligitur quod puncta S,
+D, T sunt in una rectfi. Et
+simili argumento puncta S, E,
+V sunt etiam in una recta3 et ,
+propterea centrum S in concursu rectarum T D, V E versatur. Q. e. d·
+
+ 
+
+( ⁰ ) 206. Puncta S, D, T, sunt in unii tec-
+ta. Demissis enim ex centro S, in tangentes
+T V, T F, perpendiculis S G, S F, et ex punc-
+to D, perpendiculis D K, DH, patet angulos
+F S G, H D K, lineis parallelis contentos esse
+aequalesct propter laterum S F, S G, D H, D Κ,
+analogiam, triangula F G S, H K D, esse
+similia, adeoque angulos S F G, D H K, aequari,
+ac proinde lineas F G, H K, esse parallelas, et
+triangula F T G, H T K, similia, erit erg&
+TH:TF=HK=FG=DH: S F, et
+TK: TG=HK: FG=DK2 SG· Quarti
+linea T D, producta transibit per centrum S.
+
+ 
+

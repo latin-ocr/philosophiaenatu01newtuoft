@@ -1,0 +1,67 @@
+206 PHILOSOPHIAE NATURALIS [Mor. Convon.
+
+fieret, reducere liceret, problemata omnia solida ad plana, et plusquam
+solida, ad solida. (ὴ) Loquor hic de curvis potestate irreducibilibus. Nam
+si aequatio, per quam curva definitur, ad inferiorem potestatem reduci
+possit: curva non erit unica, sed exduabus vel pluribus composita, qua-
+rum intersectiones per calculos diversos seorsim inveniri possunt. Ad
+eundem modum intersectiones binae rectarum et sectionum conicarum
+prodeunt semper per aequationes duarum dimensionum, ternae rectarum
+et curvarum irreducibilium tertiae potestatis per aequationes trium, quater-
+nae rectarum et curvarum i'rreducibilium quartae potestatis per aequationes
+
+dimensionum quatuor, et sic in infinitum. Ergo rectae et spiralis inter-i
+sectlones numero infinitae, cum curva haec sit simplex et in curvas plures„
+irreducibilis, requirunt aequationes numero dimensionum et radicum infi-'
+nitas, quibus intersectiones omnes possunt simul exhiberi. Est enimv
+
+eadem omnium lex et idem calculus. (¹) Nam si a polo in rectam illam
+
+Quare si hujusmodi intersectiones vel ordinatae Ex punctis S, s, ad rectam P M infinitam et
+communes generaliter possent per aequationem positione datam demittantur perpendicula S F,
+quadraticam inveniri, problemata solida per ae- sf ; manente secantis S 1, 1 1, positione, con-
+quationes duarum dimensionum solvi ac construi stantes sunt rectae S F, F P, S P, quibus ina
+possent, atque its ad plana reducerentur, efidem- positio determinatur, et demissi ex 1 ad P M
+
+que ratione plus quam solida ad solida, indeque perpendiculari 1 m datur aequatio aliqua inter
+
+ad(¹,’‚¹)²¹¹{1f‚⁰nv1{'gsss;{fffx¹ff P m vel lm et datas s P, F P, s F, qua inter.
+
+proposita fad curvam
+aequatio ad inferio-
+rem potestatem aut
+in duas aequatio-
+nes inferioris po-
+testatis resolvi potest.
+Sic aequatio a x ³ -
+a ² x ² —- b x ² y 4-
+a x y ² -1- a b x y —
+by³ — oresolvipo- [A
+test in duas x x —
+a x -1- y y = o, et
+ax - b y = ο qua-
+rum prior est ad cir-
+culum, posterior ad
+parabolam. Parabolae '“
+autem et circuli cum
+lineri quevis inter-
+sectiones per calculos
+diversos seorsim in· ,
+veniri possunt.
+
+(i) ὕ Sit polus P, secans S ·1, 1 1, nd eam sectio I exhibetur3 ubivero secans SI,1 Lperve.
+ex polo normalis P· s, lntersecno prima in I, se- nit ad situm si 2, manente secantiss i 2 positione,
+eunde m Ι Ι, δρα. cuca polum P, revolvatur per· datur aequatiointer i m vel Pm etdatas s P, seu
+pendnculum P S, unzi cum secante S 1, Ι Ῑ ad SP, Pf, sfiet aquatio haecapriori diversa non est,
+illud semper normah, ubl perpendiculum pesve· nisi ratione quantitatum F P F S, qum mutatoet
+nit ad situm ¹'.⁵· et secans S Ι, Ι 1 ad situm' sunt inf P, f s, per quas secantis si 2, positio de-
+s 1 2, interseptio prima Ι, percurso arcu Ι i, terminatur, cum utraque aequatio in situ SI‚1 1,
+pervenit ad 1, et post integram revolutionem et situ s i2, ab aequatione adspiralem quae ea·
+cum s ¹. 2, redit ad sxtum S 1, 1 Ι, prima dem semper manet et ab aequatione secantis pos
+intersecuo Ι, seu 1, 'pervenitad 11, et fit secunda, sitionem determinante diducantur. Quoniam
+et post duas revolutiones fit tertie et sic deinceps. igitur lineae f s, f P post primam revolutionem ‚.
+
+ 
+
+t. -„-—.-·;—‘; . .
+

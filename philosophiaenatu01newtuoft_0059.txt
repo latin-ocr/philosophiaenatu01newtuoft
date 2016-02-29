@@ -1,0 +1,125 @@
+Lusi-:s Morus] PRINCIPIA MATHEMATICA.
+
+COROLLARIUM ΙΙΙ.
+
+Quantitas motus quoe colligitur capiendo summam motuum sactorum ad eandem
+partem, et dtffirentiamsactorum ad contrarias, non nmtatur ab actione cor-
+porum inter se. , ,
+Etenim actio eique contraria reectio aequales sunt per Legem 111,
+
+adeoque per Legem 11 aequales in motibus efficiunt mutationes versus
+
+contrarias partes. Ergo si motus fiunt ad eandem partem3 quicquid addi-
+tur motui corporis fugientis, subducetur motui corporis insequentis sic, ut
+summa maneat eadem quae prius. Sin corpora obviam eant 3 aequalis erit
+subductio de motu utriusque, ideoque differentia motuum factorum in
+contrarias partes manebit eadem. (k)
+
+23
+
+percurret diagonalem C F; etcum-in ictus idem in iisdem corporibus omui elaterio
+
+parallel ogr-smmis DB, DE, omnia sintpana,
+eritFC=AC. etangulusFCE‚=ACB.
+Tandem si corpora imperfecte fuerint elastica,
+'manebit quidem post impactum velocitas A D,
+eeu C E, plano paralleln. sed velocitas perpendi-
+cularis C H, minor erit velocitate D C, seu A Β,
+et completo parallelogrammo H E, globus per
+diagonalem C G, resiliet.
+
+52. si globi non elastici in se mutud directe
+impingant, queritur illorum motus post conflic-
+tum. ..10 Globi ιιι eundem plagam ferantur,
+subsequens fugientem impellet, donec anxbo si-
+
+ult-nquam unum corpus eidem directione ac
+velocitate incedant, eritque (coroll. 3. Neam.)
+sumna quantitatum motus eadem ante et post
+conflictum3 communis crgo post conflictum
+velocitas invenitur, summa quantitatum mo-
+tus ante conflictum per summam massarum
+divisi (6). .20 Globi contrariis direc-
+tiom'bus sibi motuo occurrant, si aequalis in
+utroque fuerit motus quantitas, post conflictum
+ambo quiescunt (50). Si vero inaequalcs sint mo-
+tus quantitates, per conflictum extin guiturin sin-
+gulis quantitas motus globi debilius moti Ε(50),
+et ambo simul post impactum communi v
+tate nc directione quasi unicum corpus progredi-
+untur, estque quantitas motus in utroque simul
+residua, differentiae quantitatum motus ante con-
+flictum equalis (coron. 3. Newt.) Hinc commu-
+nis post conflictum velocitas habetur, si differen-
+tia illa. quantitatum motus ante conflictum ad
+summam massarum applicetur (6). In hoc u-
+troque casu communis post conflictum velocitas
+
+mglobi cujusque massam ducta, est illius quan- . . . .
+
+titas motus post impactum (6), ex quii et quanti-
+tate motus ejusdem globi ante con persub-
+uactioneminveuitur quantitas motus m conflictu
+acquisita. vel nnrissae quia vero in omni globo-
+rum non elasticonun conflictu directo, vel motus
+omnis cessat, vel globi post impactum communi
+celeritate feruntur, manifestum est, raepectivm
+globorum velocitatem per conflictum extingui.
+53. Globi elastici' m se invicem directe“ meur-
+rant, quaeritur eorum motus post conflictum .
+. 10. Mutatio quae ex mutuo corporum
+
+dezn'tutis produceret, (in corporibus imperfecte
+tantum elastic1s mutatio major est quam in non
+dasdcis, sed dupla minor.) Nam partes in
+utroque corpore vi ex ictu comprimuntur
+(Leg 3.) Siccrpora οιιιιιι elateriodettituerentur
+post conflictum vel quiescerent, vel in eandem
+plagam veloeitnte communi progrederentur (52)
+nec partes flexae restituerentur, si autem acce-
+dat vis elastica, partes flexae sese restituent vi
+et directione (50) quae suuper contraria
+erit vi compressivae, et in corporibus perfecte
+elasticis huic aequalis„ in aliis minor3 actio
+igitur corporum in se mutuo ex elaterii recti·
+tutione orta, actioni ex impactu nascenti aequalis
+est in corporibus perfecte elasticis, minor in aliis,
+ex quibus et Lege 2⁸ constat quod erat primo pro-
+positum.. 2⁰ Corpora perfecte elastica
+endem veracitate respectiva post conflictum rece-
+dunt, qua ante conflictum ad se invicem accede-
+bant3 in corporibus vero imperfecte tantum elas-
+ficis, velocitas respectiva ua post ictum disce-
+dunt, est ad velocitatem qu} ante ictum ad se mu-
+tuo accedebant, in ratione vis restitutivae ad vim
+comprensivam; nam cum ιιι conflictu corporum
+non clasticorum omnis velocitas respectiva, qua
+ad se mutuo accedebant, destruatur ex ictu (52),
+sitque vis restitutiva elaterii perfecti vi compres-
+εἰναι aequalis et contraria, manifestum est in cor-
+porum perfecte elasticorum conflictu, velocitatem
+respectivam ex solo impactu amissam, con rarin
+directione restitui, in corporibus vero imperfecte
+elasticis eam tantum restitui velocitatis respecti
+vae partem, quae est vi restitutivae proportionalis
+30. Ut igitur corporum perfecte elastico-
+rum motus post conflictum directum* mveniatur,
+considerentur corpora tanquam omni elaterio des-
+tituta, et in ea hypothesi quaeratur (52) quanti..
+tas motus ex conflictu ιιι unoquoque corpore ac-
+quisita vel amissa secundum eam directionem
+qua corpus ante conflictum movebatur, eadem
+motus quantitas duplicata, erit quantitas mo.
+tus in corpore perfecte elastico aqquis sita vel
+amissa, quae proinde quantitati motus corporis
+ante conflictum addita vel dempta, dat quantita-
+tem motus illius corporis post conflictum . .
+
+perfec-te elasticorum conflictu in utriusque cor· 40. Corporum imperfecteelasncomm motus post
+
+poris motu nascitur, dupla est mutationis quam
+
+conflictum invenitur, si data sit ratio vis restitu-
+
+Β4
+

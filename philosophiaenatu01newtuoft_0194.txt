@@ -1,0 +1,127 @@
+158
+
+PHILOSOPHIAE NATURALIS [Mow.'CoRPon.
+
+‘conicae transibunt per eadem quinque puncta, contra Corol. &Lemmatss
+XX. Igitur punctum M versari in line& curvfi absurdum est. Q. e. d. (⁴¹)
+
+verb latera duo B n, et C n, B N, et C N,
+sese intersecant in n, N, aliorum laterum B p,
+et C p, B P et C Pintersectiones p, P, sunt
+111 eadem sectione conica ex demonstratis.
+
+(²) 510. In hac organica sectionum conica-
+rum descriptione, angulorum circa polos mobi-
+lium crura utrinque producantur, ut cum duo
+crura v. gnC Ρ, Β P supra lineam C B diver-
+gunt, infra} eandem producta convergant.
+
+Sirrecta N M, per polorum alterutrum C,
+vel B, transeat, aut si anguli B C D, C B D,
+simul evanescant, punctum D describet lineam
+rectam. Nam in 10. casu angulorum datorum
+unus immobilis manet, dum alter cited polum
+suum rotatur et crurum suorum cum immobilis -
+anguli cruribus intersectione lineam rectam des-
+cribit; Si enim recta N M cum anguli dati
+D C M crure altero C Μ (101ηεί1131, immobili
+manente angulo D C M, alterius D B M crura
+rectas M C, C Dperpetuo intersecabunt ; deinde
+si crure B M, coincidente cum C B, ut rectam
+C M positione datam perpetuo secet in C, im-
+mobilis maneat angulus D B M, alterius D C
+M circ& polum C rotati crus C D rectam B D
+perpetuo intersecabit.
+
+In 20 casu anguli BCN, CBN eirca
+polos C, B mobiles, crurum duorum C N, B N
+concursu, rectam N M L positione datam et
+aliorum crurum C B, B C seu C D, B D con-
+cursu D lineam quamlibet percurrant, sintque
+N punctum fixum M et D puncta mobilia, duc-
+tis ex puncto L dam ad latera data C N, B N
+perpendicularibus L F, L K ex puncto mobili
+M ad easdem perpendicularibus M G, M H
+et ex puncto D ad rectam C B, perpendiculari
+DE, sitCE=x, DE=y, CB=a, ac
+proinde E B==a-1‚MN=2, LN=b,
+LF=c‚ FN=-d, CN=e, LK=f,
+NK=11, NB=g ;etobtriangulaNMG,
+NFLsimilia, NL(bN: LF(c)= MN(z)·
+
+6ΜΞΞ,ει1,Ν(1)). FN(d)=MN
+
+b
+
+(z). G N=ssd-²‚ade?2queCG=CN— GN
+
+b’
+=-. b e ζ d z ; porro ob angulos aequales D C E,
+
+MCG,etD EC‚MG C,triang ulaDcE,
+MCGsimiliasunt3quareCG(b⁸ - d --²)=
+
+D E (y). Uide
+
+bey ἰ ob
+‚1'4dy
+triangulaNLK, NMH, similiaNL (b)-
+LK(f)=N Μ(ι)·”ΜΗ-,-έῑ, et N L
+hz
+
+(1,)- NK(h)=MN(z)· N11=-b-‘-.
+
+ 
+
+ 
+
+GM(‘-³-b-²) = c E (ης
+
+czx=bey—dzy,et z·-
+
+ 
+
+ 
+
+—132 ; ob similia triangula
+
+gb— hz
+
+undeB H = gb-
+
+ 
+
+b
+BED, BHM, BH(
+
+ 
+
+)=MH
+
+(b²)=B E (ει-ψ D Eb(y)q13are fu
+
+-fzx = gby—hz y, etz—-
+
+gby bey
+fa÷hy —fx= cx-ff-dy’
+gdy=yfae4hey— fye x. Cum igitur
+aequatio sit unius dimensionis, locus punctorum
+D, estlinearecta.
+
+ 
+
+,adeoque g c x -Ι-
+
+ 
+
+311. Si angulorum mobilium M C D, M B D
+crura C M, B M sibi invicem paralleh ma-
+neant, seu, si recta N M ad distantiam infinitam
+abeat, crura alia C D, Β D concursu suo D
+circulum describent, et contrzi. Concurrunt
+enim C M, D Μ, Β Μ ad distantiam infinitam,
+et angulus M C D aequalis erit angulo M D F,
+ae M B D aequalis M D E; quoniam igitur
+dati sunt anguli M C D, M B D dabuntur
+quoque anguli M D F, M DE nc etiam cn-
+

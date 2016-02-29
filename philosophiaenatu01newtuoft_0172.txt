@@ -1,0 +1,57 @@
+136· PHILOSOPHIAE NATURALIS [Mor. conmu-
+
+PROPOSITIO XVIII. PROBLEMA X.
+
+Datis umbilieo et axibus principalibus describere trajectorz‘as ellipticas et hy-
+, per-bolicas, quae transibunt per puncta data, et rectas positione datas con-
+
+cingent.
+
+Sit S communis umbilicus figurarum, A B longitudo axis principalis
+trajectoriae cujusvis; P punctum per quod trajectoria debet transire ; et
+T R recta quam debet tangere. A„ ’
+
+Centro P intervallo A B-S P,
+si orbita sit ellipsis, vel A B -ξ-
+S P, si ea sit hyperbola, descri-
+
+ι
+batur circulus H G. Ad tan· NS GHEI!
+
+gentem T R demittatur perpen-
+
+diculum S T, et producatur GE
+idem ad V, ut sit T V aequalis
+S T; centroque V et intervallo A B describatur circulus F H. Hac
+methodo sive dentur duo puncta P, p, sive duoe tangentes T R, t r, sive
+punctum P et tangens T R, describendi sunt circuli duo. Sit H eorum
+intersectio communis, et umbilicis S, H, axe illo dato describatur trajec-
+toria. Dico factum. Nam trajectoria descripta (reo quod P H -Ι- S P in‘
+ellipsi, et P H — S P in hyperbola aequatur axi) transibit per punctum P,
+et (per Lemma superius) tanget rectam T R. Et eodem argumento vei
+
+ 
+
+   
+
+YT
+
+ 
+
+transibit eadem per puncta duo P, p, vel tanget rectas duas. T R, t r.
+
+⁸ &Qafi
+
+PROPOSITIO XIX. PROBLEMA XI.
+
+Circa datum umbilicum trajectoriam parabolicam describere, quoe transibit per
+puncta data, et rectas positione datas continget.
+
+Sit Sx umbilicus, P punctum et T R tangens trajectoriae describendae.
+Centro P intervallo P S describe circulum F G. Ab umbilico adtangen-
+tem demitte perpendicularem S T, et produc eam ad V, ut sit T V aequalis
+S T. Eodem modo describendus est alter circulus f g, si datur alterum
+punctum p 3 vel inveniendum alterum punctum v, si datur altera tangens
+
+⁰ (ι ) Si orbita sit Hypabola, focus H, erit in rect& H S, ultra S, producta.
+

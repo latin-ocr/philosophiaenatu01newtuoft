@@ -1,0 +1,115 @@
+34 PHILOSOPHIAE NATURALIS , [AxioM. mvn
+
+projectilium fieri in parabola ; conspirante experientia, nisi quatenus mo-
+tus illi per aeris resistentiam aliquantulum retardantur. Corpore cadente
+gravitas uniformis, singulis temporis particulis aequalibus aequaliter agen-
+do imprimit vires aequales in corpus illud, et velocitates aequales generat:
+
+A rectum, tempus per H =B, aequale tempori per.
+
+ 
+
+hoc ωερε), ad tempus per A B, ut A C, ad A B.
+
+80. Coroll. 5. Cum sit A C, ad A B, ut
+tempus per A C, ad tempus per A B, et A c,
+ad A B, ut tempus per A c, ad tempus per A B,
+(79), tempora quibus percurruntur diversa plana
+A C, A c, ejusdem altitudinis A B, sunt ut
+planorum longitudines.
+
+81. Coroll. 6. Celeritates gravium in plano
+quovis inclinato A C, et in perpendiculo A B,
+aaedlualaed sunt, ubi glravia egl efidegi ἓὶῑίωᾶὶηε
+
+ean em rectam orizon em , perve-
+nerint, adeoque velocitates in planis inclina-
+tis A C, A c, ejusdem altitudinis in C et c,
+sunt aequales; est enim velocitas in B, ad ve-
+locitatem in H, ut A B ad A H (ea enim
+spatia eodem tempore descripta sunt) et ob
+similitudinem triangulorum A H B, A B C,
+sicut A C ad A B ι velocitas autem in C, est
+ad velocitatem in H, in ratione subduplicata
+Ac‚*adA H, hoc est, ob continuam analogiam
+rectarum A C, A B, A H, in ratione A C,
+ad A B; quare velocitas in B, est ad velocita-
+tem in H, ut velocitas in C, ad eandem velo..
+citatem in H, adeoque velocitas m C, aequalis
+est velocitati in' B. »
+
+82. Coroll. 7. Tempus de-
+scensus per chordas quaslibet
+A H, H B, circuli cujus
+diameter, A B, est ad hori-
+zontem perpendicularis, εε-
+quale est tempori descensus
+per totam diametrum A B, . ,
+ac proinde tempora descensus II}
+per omnes chordas sunt aequa-
+lia; Cum enim angulus
+ι ΑΗΒ, in semicirculo rectus
+sit, tempus descensus per ξ
+A H, aequale est tempori de·
+scensas per A B, (78), et
+ducta H C. diametro A B, . .-
+aequali et parallel& junctaque
+CB. erit ob angulum H B C, Ci'
+
+   
+
+H C, seu per A Β. ’
+
+85. Si corpus in curva immota incedit, vis
+qufi singula curvae puncta premit, cum vi finita
+qua movetur corpus comparata, major non est
+quantitate infinitesima primi< ordinis3 vis seu
+celeritas quam in singulis curvae punctis amittit,
+ma'or non est quantitate infinitesima secundi
+ordini& tandem vis seu celeritas per finitum
+curvae arcum amissa major non est quantitate
+infinitesima primi ordinis, adeoque corpus in
+curva progreditur eisdem celeritate finita ac si
+nihil omnino virium amitteret . . . .
+
+ 
+
+Dem.—Curva quaelibet, ut· notum est, con-
+siderari potest tanquam polygonum A B C D,
+ex innumeris atque infinitesimis lateribus rectis
+A B, B C, C D, compositum, quorum duo
+quaevis B C, C D, angulum comprehendunt a
+duobus angulis rectis, nonnisi quantitate infl-
+nitesima deficientem, ita ut producto latere
+C D, in E, angulus externus B C E, sit infi-
+nitesimus. Centro C, et radio C B, describa-
+tur semicirculus E B G L, ex puncto B vei-6
+demittatur in rectam E D, perpendicularis B K,
+et completo rectangulo K F, motus corporisleu
+tere Β C, expositus, in binos B K, B F, ⁸²¹²
+K C, resolvitur (Coroll. 1. Newt.) His posi-
+tis manifestum est 51) vim seu celeritatem qui
+corpus in latus C , incurrit, illudque premit
+seu percutit, perpendiculari F C, sive B K,
+repraesentari3 celeritatem post ictum, suppo-
+nendo corpora esse elaterio destituta) recta K C,
+seu C H, exhiberi, et celeritatem ex impactu
+
+in C, amissam recta E K, exponi, cum E K, ν
+
+sit differentia rectarum B C, K C ; hoc est, ce-
+leritatum ante ct post impactum. Jamsi angu-
+lus B C K, finitae quantitatis esset, :ecta B K,
+finitam haberet ad rectas B C, K C, rationem,
+quae decrescente angulo B C K, semper minu-
+itur adeoque infinitesima evadit, dum angulus
+B C K est infinitesimus3 est igitur B K, seu
+¹vis qufi corpus curvam premit in C, quantitas
+non major infinitesimii primi ordinis3 verum
+quiain circulo E 14:13 K=B K: K L,
+erit Ε Κ, uantitas infinitaeima respectu B K,
+quemadm um, ex demonstratis B K, infini-
+tesima est respectu B C, aut K C, ndecque
+
+ 
+

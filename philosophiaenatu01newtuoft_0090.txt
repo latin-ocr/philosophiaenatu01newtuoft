@@ -1,0 +1,72 @@
+54· PHILOSOPHIAE NATURALIS [Mor. Coum.
+
+(⁸) ubi puncta D, Β accedunt usque ad A. , Mani- ἆ 1)
+festum est quod distantia G I minor esse potest ἆ
+
+quam assignata quaeviS. Est autem (ex natura cir-
+
+,culorum per puncta A B G, A b g transeuntium)
+
+A B quad. aequale A G Χ Β D, et A b quad. ae- O
+quale A g >< b ἃς ideoque ratio A B quad. ad A b
+quad. componitur ex rationibus A G ad A g et Β D
+ad b d. Sed quoniam G I assumi potest minor
+longitudine qufivis assignata, fieri potest ut ratio
+
+A G ad A g minus differat a ratione aequalitatis quam I
+pro differenti& qufivis assignasti, ideoque ut ratio .
+
+A Β quad. ad A b quad. minus differat a ratione ·‘
+B D ad b d, quam pro differenti& qu5vis assignatfi.
+Est ergo, per Lemma I. ratio ultima A B quad. ad A b quad. eadem cum
+ratione ultima Β D ad b d. Q. e. d.
+
+Cas. 2. (b) Inclinetur jam B D ad A D in angulo quovis dato, et ea-
+
+dem semper erit ratio ultima Β D ad b d, quae prius, ideoque eadem ac
+A B quad. ad A b quad. Q. e. d.
+
+Cas, 3. (⁰) Et quamvis angulus D non detur, sed recta B D ad datum
+
+radii A C circuli osculantis. Si ergo finitus sit puncto aliquo A habente ducantur chordae eva-
+radius osculi A C, finita quoque erit curvatura nescentes A b, A B, ad easque agantur perpen-
+in A; sivero radius sit infinitus, curvatura erit diculares B G, b G, hae lineae convenient in
+infinitesima; ac tandem si radius sit infinitesi- puncto G, junctisque punctis A et G, recta
+mus, curvatura erit infinita. Quoniam autem A G ad tangentem A d perpendicularis erit, et
+eo mpgis curva a tangente A J). deflectit, quo finitam habebit magnitudinem, ut pote quae ae-
+circuli osculantis radius A C mmor est, et con· qualis est duplo radio finito A (ἶ, circuli cur.
+gra, patet angulum contactus crescere et decres- vam osculantis in A.
+
+cere cum curvatura et in eddemrrmione inversa ν’ (a) 123, Ubi punem-1), B. accedunt usqu„
+‘adii- · Α - ad A, linea A I (122) est diameter circuli cur-
+122· Ducantur efi‘Offlae Α Β» Β G; angulus vam A b B osculantis in A, et quoniam acce-
+A B G, in semicirculo rectus est; ac proinde dente puncto B, ad A, accedit punctum G, ad
+ni in curva quacumque curvaturam finitam in I, atque evanescente arcu A B. evanescit quo-
+que distantia G I, manifestum est quod distan-
+tia G I minor esse potest quam assignata quaevis;
+quia vero anguli A b g, A B G, recti sunt
+(per hyp.) circuli duo diametris A g, A G, de-
+scripti per puncta b, B, transeunt, ade6que
+horum circulorum chordae A b, A B, sunt me-
+diae proportionales inter suas respective abscis-
+sas A c. A C. seu aequalesdb, D B, etdia.
+metros A g, A G, ac proinde A 1³2: A G
+x-BDetAb2=Ag><bd&c.2 ι .
+(b) 124. Inclinentur jam B D, b d, ad A D,
+in angulo quovis dato B D F, b d f, eadem
+semper. erit ratio ultima B D. ad 1) d, quo
+prius. · Ductis enim B F, b fvnd A C, pural-
+ldis, erit ob triangula aequiangula B F D, 1) fd,
+BD2bd=Bsz f; sed(123) BF=bf
+= AB =A*b2; est igitur BDtbd=
+A B ² t A 1) ².
+n
+
+  
+    
+
+(c)*125. Et quamvis angulus D, no ,
+ned rectae, D B, d b, ad datum punctum Η,
+
+ 
+

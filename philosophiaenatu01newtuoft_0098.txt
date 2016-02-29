@@ -1,0 +1,137 @@
+62·
+
+rat in T et V; linea b c in locum suum prio-
+rem B C redeat, et ultima forma triangulorum
+evanescentium C E c, C E c, C E T, est simi-
+litudinis et ultima ratio aequalitatis (Lem. vlu.)
+ideoque fluxiones primae ipsarum A B, B C,
+A C, sunt (146.) ut trianguli C E T, latera
+
+c E» Ε Τ, et C Τ, et per eadem latera exponi
+possunt, vel quod perinde est, per latera V B,
+¹0 lc3, et'IY C, trianguli V B C, similis triangu-
+o E .
+
+151. Quoniam areae B b c C, B b d D, eo-
+dem tempore describuntur communi ordinata-
+rum B C, Β D motu, erunt areae illae nascentes
+vel evanescentes ut fluxiones arearum A C B,
+A B D G, (146); sed area nascens B b c C,
+non differt a parallelogrammo B E, (107); ergo
+fluxiones arearum A C B, A B D G, sunt in rap
+tione prima parallelogrammorum B E, Β d
+
+nascentium, seu ob commune latus B b, in ra- ’
+
+tione ordinatarum C B, B D.
+
+152. Si circulus centro B, radio fluente B C,
+descriptus 'per longitudinem abscissae A B. ad
+angulos rectos progrediatur, describet solidum
+idem quod ex rotatione figurae A C B, circa
+axem A B generaretur, et fluxio solidi geniti
+erit ut factum ex area circuli illius in incremen-
+tum nascens B b, abscissae A B, et fluxio super-
+ficiei solidi geniti erit ut factum ex perimer
+ejusdem circuli in'arcum C c, vel tangentem C
+T, nascentem-Dm. Rectangulum nascens
+BE, nondiffertafigura. B b c C nascente (107),
+adeoque incrementum nascens solidi ex rotatione
+figurae A C B, geniti aequale est solido ex ro-
+tatione rectanguli B E, circa latus B b, genito;
+hoc autem solidum est cylindrus aequalis facto
+ex area circuli radio C B descripti in altitudi-
+nem Β b; solidi igitur motu circuli C B per
+
+“ axem A B geniti incrementum nascens adeoque
+
+et ipsius fluxio (146) est ut factum ex area cir-
+culi in incrementum nascens B b, abscissae A B.
+Similiter cum arcus nascens C c, cum tangente
+C T coincidaa (Lem. 7.) superficies nascens ex
+rotatione figurae B b c C, genita aequalis est su-
+perficiei coni truncati, adeoque aequalis facto ex
+semisumma peripheriarum, quarum sunt radii
+B C, b c, in latus C T, seuob. bc= B C (107)
+aequalis facto ex peripheria circuli, cujus radius
+B C, in latus C T, vel arcum C T, nascentem3
+ergo factum istud est incrementum nascens su-
+perficiei curvae ex rotatione A C descriptae,
+adeloque est ut illius superficieifluxio (146) Q.
+e.
+
+155. Anguli rectilinei A P B, E' P F sunt
+
+ 
+
+PHILOSOPH 1AE NATURALIS
+
+VAPBexprimipossearcuAB
+
+[Mor. conma-
+
+inter se directe ut arcus A B, E F, qui angulos
+subtendunt et reciproce ut arcuum radii 'A P,
+E P.-—Dem. Est angulus A P B, ad angulum
+B P c.seuE PF, utarcusAB. *ad arcum
+BC,ade6queutAB: AP,adBc= AP;
+sed obas-cussimilae BC, Ε F, esth ι A P==
+E F: E P; ergoangulus A P B,estadangulum
+EPF,utAB=AP,adEF=EP. aad.
+
+154. Hinc sequitur 10. quemlibet angulum
+qui ipsum sub.
+tendit diviso per radium A P. 20. Quemlibet
+arcum circuli A B, esse. ut factum ex angulo A
+P B in radium A P,
+primi posse. 50. lucrementum nascens anguli
+fluentis A P B, adeoque et illius anguli fluxio-
+nem (146) esse in ratione directa arcus circula-
+ris nascentis et inversa radii illius.
+
+atque adeo hoc facto ex-
+
+ 
+
+155. Recta P C fluens circa datum polum P
+revolvatur, et punctum illius extremum C, cur.
+vam A C c, describat quam tangit in C recta
+V C H in quam ex polo P, demissa sit perpen-
+dicularis P V. Sit A punctum in curva A C
+
+fixum, progrediaturque recta P C de loco suo
+P C, inlocum novum.P c, et producta P c,
+tangentem secet in T. capiatur P E = P C,
+seu radio P C describatur circuli arcus C E, ut
+habeantur E c, incrementum rectae P C, C c.
+incrementum curvae, A c, P C c, incremen-
+tumareaePACP, angulus C Pqincre-
+mentum anguli A P C, eodem tempore ge-
+nita. Redeat jam P ofin locum suum prio-
+rem P C, ut incrementa illa omnia evanescant
+et horum incrementorum evanescentium ratio
+ultima en't ratio fluxionum quantitatum fluen-
+tium quarum sunt incrementa (146).
+
+156. Quoniam autem perveniente P c, in lo-
+cum P C, triangula C Ε c, C E T, evanescen-
+tia sunt ultimo similia et aequalia (Lem. 8.) cir-
+culi arcus C E, cum chorda ipsius coincidit, 1⁶5.
+sique aequalis est (Lem. 7. ), et praeterea evanes-
+cente angulo C P E, anguli P C Ε, Ρ Ε C,
+
+sunt mter se et duobus rectis aequales, adeoque γ
+
+C E, ad'P T, normalis. Manifestum est, 10.
+
+- Triangulum T V P esse triangulo T E C, adeo-
+
+que et triangulo evanescenti c E C, simile, ao
+proinde fluxiones arens A C, et rectae P C, esse ’
+inter se ut duo latera V T, T P seu V C, P C.
+20. Fluxionem anguli A P C, esse ut C E z P C
+(154.)—-30. Fluxionem areae A C P,esse ut fao-
+tum ex recta C P, in normalem C E evanescentemg
+
+nam area trianguli P C T, aequalis dimidio rect·
+

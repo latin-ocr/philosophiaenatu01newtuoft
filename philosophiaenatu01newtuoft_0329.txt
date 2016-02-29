@@ -1,0 +1,82 @@
+PRINCIPIA MATHEMATICA.
+
+met Palmum] 29³
+
+si (¹) erigatur normalis Y Z circumferentiae occurrens in Z, arcus nascens
+H Z denotabit datum illud tempus. Est autem arcus hic nascens H Z
+
+in subduplicatz‘i ratione rectanguli G H Y, ideoque ut V G H Χ C Ο Χ V.
+Unde tempus oscillationis integrae in cycloide Q R S (cum. sit ut semi-
+peripheria H K Μ, quae oscillationem illam integram denotat, directe3
+utque arcus H Z, qui datum tempus similiter denotat, inverse) fiet ut
+
+G H directe et xl G H Χ C O Χ V inverse, hoc est, ob aequales G H
+
+S R ‚ A R
+et S R, ut xl -C—O-R-V, swe (per Corol. Prop. L.) ut ⁴! W·
+Itaque oscillationes in globis et cycloidibus omnibus, quibuscunque cum
+viribus absolutis factae, sunt in ratione quae componitur ex subduplicat&
+ratione longitudinis fili directe, et subduplicata ratione distantiae inter
+punctum suspensionis et centrum globi inverse, et subduplicatfi ratione vis
+absolutae globi etiam inverse. Q. e. i.
+
+Corol. 1. Hinc etiam osculantium, cadentium et revolventium corpo·
+rum tempora possunt inter se conferri. Nam si rotae, quii-cyclois integra
+globum describitur, diameter constituatur aequalis semidiametro globi cy·
+clois (Υ) evadet linea recta per centrum globi transiens, et oscillatio jam
+erit descensus et subsequens ascensus in haic rectz'i. Unde datur tum
+tempus descensus deloco quovis ad centrum, tum tempus huic aequale
+quo corpus uniformiter circa centrum globi ad distantiam quamvis revol-
+vendo arcum quadrantalem describit. Est (²) enim hoc tempus (per ca-
+sum secundum) ad tempus semioscillationis in cycloide qufivis Q R S ut
+
+AR
+ladxlff.
+
+Corol. 2. Hinc etiam consectantur quae Wrennus et Hugenius de
+
+(¹) ⁶ Et si erigatur normalis, διε. Areus
+
+. (Υ) ⁰ cyclois evadet linea recta (461). ¹
+H Z erit ad semipenpheriam H K M, ut tem-
+
+(Ζ) ⁰ Est enim hoc tempus, &a Quoniam
+
+pus datum quo describitur H Y, ad tempus uni-
+us osc-illationis (Prop. 38.) quod proinde erit
+ut semiperipheria H K M, seu ut radius G H
+directe, et arcus H Z inverse. Est autem arcus
+nascens H Z aequalis‘chordae H Z (per Lem.
+7.) adquue (ex nature circuli) H Z ² ..τ- Η Y
+><MH=2G H Χ ΗΥ; Quarecfim sit
+HwYutcoxv, erit H Z² ut2GH><
+coxv,seu‚utGH><co><V; ethinc
+
+tempus unius osculationis ut *ώ-τ-ἣᾘΙἯ-ῗῆ
+-G H S R
+
+'² V δῆῖν = ν W =
+ffffioben=smet ἓ-Ῑὲεέ-ἓ.
+
+(pet Cor. Prop. 50.)
+
+cycloide Q R S in rectam mutata fit A R =
+A C, erit (per Cas. 2.) tum tempus descensus
+deloco quovis ad centrum, tum tempus huic
+aequale (Prop. 38.) per circuli quadrantem ut
+
+γ ὲ. Unde erit hoc tempus ad tempus semi-
+oscillationis in cycloide quevis Q R S in rectam
+
+non mutati ut γ -ἰῖ ad ν &gg—'fr hoc est,
+
+ob datam V, ut 1 ad 4! ἕ-Ῑ-ἑ. Quareiiato tem-
+
+pore unius osculationis in cycloide quivis Q, R S
+circa centrum C, dabitur tempus descensus de
+loco quovis ad idem centrum, et tempus huic
+aequale perquadrantem circuli ad quamvis dis·
+tantiam descn’pti.
+
+ΤΕ
+

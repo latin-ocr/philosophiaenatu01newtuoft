@@ -1,0 +1,65 @@
+ann Primus]
+
+· PRINCIPIA MATHEMATICA.
+
+131
+
+peudicula, erit (per'Corolss 1. Prop.1XV1.) latus r'ectum principale coni
+sectionis ad latus rectum principale orbitae in ratione composita& ex dupli-
+catae'i ratione perpendiculomm et duplicata ratione velocitatum, atque ideo
+
+ 
+
+‹latur- (“) Sit L coni sectionis latus rectum. Datur praeterea ejusdem coni
+sectionis umbilicus S. Anguli R P S complementum ad duos rectos fiat an-
+gulus R P H 3 et dabitur positione linea P H, in-qufi umbilicus alter H lo-
+catur. Demisso ad P H perpendiculo S K, erigi intelligatur semiaxis conju-
+
+(“) 286. Solutio hujus problematis duas
+continet partes3 Sit enim corpus e puncto P
+secundum lineam P R dati cum velocitate pro·
+jectumet retineam,- circa punctum S pervim
+centripetam quae sit reciproce proportionalis
+quadrato distantiae locorum a centro cujusque
+quantitas absoluta in puncto P sit cognita. id
+corpus desmibet (per Cor. 1. Prop. XIII.) sec-
+tionem aliquam conicam cujus 1⁰. quaeritur
+latus rectum principale, 20. Dato umbilico
+S illius sectionis, puncto P, tangente P R,
+et latere recto quaeritur alter umbilicus, quo
+nempe invento et ex ‘caeteris datis describetur
+sectio conica quam corpus propositum per-
+cim-it.
+
+Adprimam solutionis partem, fingitur sectio
+qualibet oonioe cujus umbilicus sit S, et alter
+umbilicus et latus rectum ad arbitrium sumuntur,
+unde in quovis ejus puncto P duci poterit tan-
+gens, et quantitas vis in eo puncto erit cognita,
+est enim ad vim in puncto P quae dam eet reci-
+prooeutquadratalineammsp, SP31nvenie-
+
+tur etiam velocitas in eo puncto μς Nam velo-
+oimscorporis gyrantis in circuload distantiam
+S p (sive arcus in eo descriptus tempore quo
+arcus P Q describitur) est media proportionalis
+inter vimoentfipetam in p, quae inventa est, et
+duplam distantiam S p (per naturam circuli), r
+haec vero est ad velocitatem in hic sectione
+conici, ut perpendiculum ab S ad tangentem
+communem demissum ad mediam proportionalem
+interdistantiam spetsemizsemlatefisrecti
+istius sectionis. ·
+
+Cum-ergo (per Cor, 1. Pmp.xvl.) Latera
+recta principalia sectionum circ& umbilicum
+communem dem—iptorum sint in ratione composita
+a· duplicat& racione perpendimdommee duplicata
+ratione velocitaeum et ob datas tangentes in p
+ethenturper-pendicula ex S inem ungentes
+demissa, deturque velocitas corporis moti in P
+et inventa sit velocitas in puncto p, datur mtio
+lateris recti sectionis assump'tae ad latus ree-
+tum sectionis quam eorpus P describit5 Quod
+ergo invenitur, eratque primum
+

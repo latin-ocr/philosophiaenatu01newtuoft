@@ -1,0 +1,101 @@
+Lmen Plutum] PRINCIPIA‘ MATHEMATICA.
+
+puncta S, P et‘A sunt in una rectfi.
+
+1⁸67
+
+' Et (⁸) eodem argumento probabitur
+
+quod puncta R, P et A sunt in unii rectss. Jacent igitur puncta comae--
+tuum A et P in recta R S. Hisce autem inventis, trajectoria describetur
+
+ut in casu primo problematis superioris (b).
+
+tionem conicam tes et inter se concur-
+rentes in punctis 1, g, h, facta ex tribus tangen-
+tium partibus inter eonem-suum et oonmctuum
+
+ 
+
+puncta alvanatimmmptisA 1, Cg,dh, et
+A h, Ι C, gd, sunt
+(²)Eritae00nicisrect. XIYad LP² ut
+rect. CID adrect. CLD. Scilicetcum P sup-
+ponatur punctum contactus alicubi in Tangente
+KLsitum et cumlineaI Y sit (per const.)
+arauelaTange nnKLet utraqueseoemr per
+'neamILange illzinI haeeinL erit (pm-Lem.
+111.de Conic p. 117. ) rect. partium Parallelae
+I Y ab intersectione I ad curvae puncta X et Y
+sumptarum ad Rectang. partium Parallelae L P
+ab inoemectione L ad curvae puncta (quae
+co‘e’unt in uno P quia L P debet esse Tangens,
+ide6que illud reetangulum ωε quadratum L P)
+sicutrect. CI D, ad rect. CLunianempe
+haec rectangula sunt facta partium lineae secantis
+Ι L factis partium singu 1ae Parallelae corres-
+pandentia, ideoque (per guconst.) I Z ²· .L P 2
+=SI²:SL2atqpeade01zz LP=SI=
+sL‚ eum igitur sit IZparallela L P (per
+ῗέὲ)ιὲἒέζὲῗηηῗ’ω3ἑοῖἑέἔίῗωῗ ῑΐέ, ‘effi
+
+supponatur punctum contactus alicubi situm in ,
+
+Tang ente GA erit (per Cor. 2. ejusdem Lem.
+ΙΙΙ. gdeCon. p.118.)X1Y(sivelz²)·
+1A²=GP22GA2ideoque‚&c.
+
+(3) Ee eodem a? gumemo probabitur quod
+puncta R, Pet A. sunt in unii recta, si per
+punctum K, agaturrectaK V, tangenti G H,
+pmllela, quaeoocurrat curvaeinTetV‚ etin
+msumathQmediapn-opomonalis interKT
+etKV, eum rectaKH seoetParallelasKV
+et AHerit (perLem. 111. de Con. p. 117.)
+
+Q. e. f.
+
+rectanVKT (siveK Q²)ad AH2 sicut
+rect. BKDad rect.BHDhoceetutKR²
+adHR²(perconst.)ade6quee1itKQ:AH
+=K R:RH,quare puncta Q, R‚et A
+erunt in eadem rectfn. Ροιτό Tangentibus con-
+currentibusin G etit (per Cor. 2. Lem. 111. de
+Conic.) V K T (K Q2). PK²= G A 2·
+GP² et KQ. PK=G Α· G P, unde
+eruntP, QetAineademrecta, ideoqueP‚ R,
+etAineademrecta.
+(b)322.corol.1.HincsiduaerectaeHG‚
+P G (vid. fig. Newt. ) concurrentes in G, sec-
+tionem conicum tangant in A et P, jungaturque
+A P et produoetur, et ex punctis quibusvis let*
+
+ 
+
+Η, in un& tangentium G H, sumptis agantur'
+ad idem sectionis conicae punctum D, duae
+rectae 1 D, H D, quarum altera 1 D secet sec-
+tionem conicum in C, rectam A Pin S, et tan-
+gentem G Pin L, altera vero H D secet seo-
+tionem in B, rectam A P, in R, et tangentem
+GP, in K, eritsempe rHR'2: KR2=
+BHD: BKD. et IS2. LS2=CID·
+C L D, quomodocumque inflectantur rectae·
+ID, HD, et tangentesGA‚ GP.
+
+323. Corol. 2. Si puncta D et C, coeant,
+(vid. fig. Newt.) ut I L S, tangens evadat in
+D. seuC, erit C 1=D1,etCL=DL,
+adeoque Ι S 2· D L ²,e
+IS: oqLS=DI: DL. h. e. siTangensIL,
+terminata per duas alias Tangentes, secet in S
+lineam A B jungentem puncta contactus earum
+Tangentium, ejus panesa sectione S ad utram-
+que Tangentem sumptae, aunt inter se sicut
+ejus partes a puncto 00an nd easdem Tan-
+gentes terminatae-n
+
+.LS2 =D12.
+
+L4
+

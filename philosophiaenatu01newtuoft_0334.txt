@@ -1,0 +1,112 @@
+298
+
+Casus 1¹¹¹. Vis gravitatis directio T Z semper
+sit parallela axi E R curvae S T R, sint S E,
+‘t d, T D ad axem R E ordinatim applicate,
+punctum Ε datum puncta ¹D, d infinite propin.
+
+S Ε
+
+ 
+
+qua, tangens T Y aequalis &cui T R, Y Z ad
+T Y perpendicularis secet T Z in Z, et Z T
+producta sece't t d in n. Dicuntur R E = a,
+vis gravitatis in E vel S = g, in D vel T = v,
+pars lineae verticalis per S ductae determinata
+ad modum verticalis T Z, sit = b, R D = x,
+D T=y, T R= T Y=s. Ob triangula
+TnuTYZshnilia, Tn(dx):Tt(ds)=
+TY(s) ε TZ= ⁵:¹⁵3 ob angulum Tn t
+rectumds²=dx² -1-d523 et (per Prop.
+53.) gzv=b= T Z (⁵ddxs),ideoque s ds
+
+-P- v d x, et sumptis fluentibus ᾗ s s= -P- S.
+
+v d Ξ ; fluens autem S. v d x ita sumi debet, ut
+
+evanescente x, ea fluens evanescat. Erit igitur
+ss= 2—b S. v'd x, s=4l({-l—' S. v d x)‚et
+
+g bvdx
+
+sumptis fluxionibus d s = m,
+
+proindeque d s ² = 2212ng dv¹d²¹ = d x ² 4-
+
+dy²,ethincdx4l-————bvv2‘{ssvsdld ¹ -
+
+d y aequatio ad curvam tauto{hronam S T R, in
+
+quss data lege vis gravitatis exterminabitur v.
+Exemplum. Sit gravitas constans, seu v =
+
+g,et eritvdx=gdx, S. vdx=gx‚quae
+
+evanescit, ubi x = ο. Quare aequatio ad cur-
+
+b —- 2 x
+2 x
+
+ 
+
+ 
+
+ 
+
+ 
+
+vamSRfietdxv =dy. Quo-
+
+ 
+
+PHlLOSOPHIAE NATURALls
+
+[Mori conton-
+
+niamveros==3=¹380 vdx='2bx, sipo-
+
+naturb= S Rutgvertioeiis per S ducta cun-⁸
+vam tangat in S, et loco s scribatur b, ac loco x
+scribatur a, erit b b = 2 b a, et proinde b =
+Qa,atquess= 4ax‚hocest, S R=2REf
+etTR²=4RE>< RD; porro si diame-
+tro R E describatur circulus E M R. secans D Τ
+inM, erit MR²=RE>< RD, 4MR²
+=4 RE >< RD,ideoqueT R²=4MR²,
+et T R = 2 Μ R, quae πὶ proprietas cycloidia
+vulgaris circulo genitore E Μ R descriptae.
+Casus 2. Tendat vis centripeta ad punctum
+datum C. Centro C, vadiis C E, C D, Cd
+descripti sint arcus circulares E S, D T, d t n,
+
+ 
+
+curvaesnooeurrentesins,·1',t,etreeta0'r
+in n, sintque E punctum in axe C E datum.
+D, d puncta infinite propinqua, tangentis T X
+peeructae parsTY aequalis arcui ΤΒ, ot
+Ζ Y, C X adtangentem perpendiculares. Di-
+cantur CE=a‚ C R=c, S L panndii
+C S eodem modo determinata ac T Z parsi-adii
+C Tsit=b, vis cenffipeta in EvelS-zg, in
+D vel T=v, CDvel CT=x, T R vel
+TY=s, CX=p. Ob similitudinem tri-
+angulorum T n t, TYZ, TXC‚ est T n
+(dx)=Tt(ds)=r‚Y(s)=Tz=÷}-⁸ee
+TC(1): CX(p)=Tt(ds)2tn=
+
+wls, ideoque ob anguluantrectuni δι’
+
+ 
+
+x
+κάκ’-Ι-Ρ-Ῑ-’ῖῖῨ-ἑμεε proinde du²=
+xxdx²
+
+ 
+
+ 
+
+ιιι-ιη’·
+

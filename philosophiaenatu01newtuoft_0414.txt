@@ -1,0 +1,172 @@
+378
+quaesita A N B.
+
+blematis constructio.
+
+quaesitam A N B.
+
+PHILOSOPHIAE NATURALIS
+
+(¹) Unde talis emergit pro· 1 a
+Ad puncta L, A, S, B
+erige perpendicula L l, A a, S S, B b, quo-
+rum S s ipsi S I aequetur, perque punctum s
+asymptotis L l, L B describatur hyperbola
+a s b occurrens perpendiculis A a, Β b in a
+et b3 et rectangulum 2 A S I subductum de
+area hyperbolica A a s b B relinquet aream
+
+ 
+
+Exempl. 3. Si vis centripeta, ad singulas sphaerae particulas tendens, de-
+
+1²qu
+
+ 
+
+crescit in quadruplicat& ratione distantiae a particulis-3 scribe ΠΒ cub·
+
+(¹) 526. ἢ* Unde talis emergit problematis con-
+structio. Sit, ut supra A D = x, D d = d x,
+erit areae AN D, fluxio D N >< D d, ut
+
+ 
+
+ 
+
+ 
+
+ 
+
+LSIde-LSIde-Qgs—dex
+LD ² 2LA÷x2‘
+LSIde
+
+J am ut primi termini —LD---
+
+beatur, describatur hyperbole a s b, eo modo
+quo jubet Newtonus, erectisque perpendiculis
+D F,df,sitAD=x‚ Dd=dx, etquoni-
+am (per Theor. 4. de Hyperbolti) L S >< S Ι
+
+ 
+
+=LDxDF,eritDF=1L{I,etDF<
+><Dd=¹⁴s¹><d¹. Patet igitur (ut in
+
+ 
+
+ 
+
+not. 522.) aream Hyperbolicam A a s b Β, aequa.
+lem esse fluenti primi termini, dum A D seu x
+= A B; secundi termini ἑ S Ι χ d x, fluens
+est{-SIXAD= {sleR dum fit
+A D = A B ; tertii tandem termini fluens hoc
+
+dx
+(LA÷x)2fl¹¹·
+
+ens (165) est — m ÷ Q constans; et
+
+quoniam fluens illa evanescere debet ubi x = ο,
+1
+
+L Α·
+
+l l 1 l .
+ffi-r-fi=ffl-L-fi’⁰b¹¹=²³¹³·
+Est igitur tertii termini ᾖ A L B >< S 1 χ
+
+dx fluens -· l-x—I-A-B———ssx S I -·
+- 2LA
+
+ 
+
+modo invenitur. Quantitatis
+
+ 
+
+erit Q = Quare fluens accurata est
+
+ 
+
+ 
+
+ 
+
+LA÷x2
+ALB><SI
+
+ 
+
+21,ss ἦιΒχεΙ-ξιᾼχ
+I,
+
+r S 1= ἑ A B >< unde summa 2¹ et 3¹. ter-
+miniestABxsl=2AS>< SI. Quare
+rectangulum 2 A S 1 subductum de area hy-
+perlgalgfi A a s b B relinquet aream quaesitam
+Α527. cor. l Si corpus P sphaeram tangat in
+
+A, attractio evadet infinita, nam in hoc cadi
+L A = o et A a cum asymptoto L 1 coincidit,
+ac proinde attractio per aream hyperbolae infini-
+tam B L l a s b exponitur.
+
+528. Corol. Ω. vis qui corpusculum P in
+sphaerae portionem convolutione superficiei ΑΕΒ·
+
+-’ genitam,trahitur‚ est utAaFD—AESIX
+
+A L B >< S 1
+2 L D ’
+nota 526. manifestum est. Quare in contactu
+ubi Lv A = o, erit vis illa ut area infinita
+A a F D, cujus respectu aliae finitae quantitates
+evanescunt.
+529. Cor. 3. Et quoniam corpusculi Pattmo-
+
+AD—{LBXSI-ff- utex
+
+tio in sphaeram totam est ut areu hyperbolica,
+
+Aasb B—-2 A SI, ejusdemattractioversun
+portionem concavo-convexam, convolutione su·
+perficiei F E e B, genitam, erit ut A a s b B
+-AaFD-2A814- {ADx81-1-
+
+{Lnxsr-ALBX⁸¹=DF1›B
+
+-ι-ἑιΑ-ξΒἛχ s1- ΑῙΞΞΞΞΜ
+ponendoA BprossA s,{LA÷5ABpu-o
+{LB,et{BDproag·AB—{AD.
+
+550. Cor. 4. Simili modo inveniri potest viu
+qufi corpus P trahitur versus sphaeram concavum
+A a H Β K a, si ex attractione in sphaemn to-
+tam solidam detrahatur attractio in sphm in-
+teriorem a h b k. Patet autem corpusculi P in
+A, seu in contactu positi attractionem vers&
+sphaeram cavam A a H B K a, interiori eorr-
+centa-icam, infinitam esse3 Nam si ex vi infinita
+quii versus sphaeram solidam A H Β K S, tru-
+bitur, subducatur vis finita qu& versus spir-mm
+interiorem a h b k s urgetur, relinquetur attrac-
+tio infinita versus sphaeram concavam AaHBK23
+quin imo, si ex sphaera concava deu-abatur
+quaevis a contactu remota ut Η h B K k, nt-
+tractio corpusculi in contactu A positi vennere-
+siduam H h A a K k, adhuc infinita erit, ut
+patet (per Cor. 2. et 3).
+
+ 
+
+ 
+
+ 
+
+[Mor. Conrom
+
+ 
+

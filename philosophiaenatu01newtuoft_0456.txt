@@ -1,0 +1,102 @@
+420 PHILOSOPHIAE NATURALIS
+
+[Mor. Gomon,
+
+diminuitur, (5) ratio ultima erit eadem, quae sinus incidentiae ad sinum
+emergentiae. Datur ergo ratio incrementi lineae A D, ad decrementum
+lineae D B 3 et prop-
+terea si in axe A B
+sumatur ubivis punc-
+tum C, per quod cur-
+va C D E transire
+debet, et capiatur ip-
+sius A C incremen-
+tum C M ad ipsius
+B C decrementum C N in data illa ratione, centrisque A, B, et intervallis
+A M, B N describantur circuli duo se mutuo secantes in D; (ὃ) punc·
+tum illud D tanget curvam quaesitam C D E, eandemque ubivis tangendo
+determinabit. Q. e. i.
+
+Corol. 1. Faciendo autem ut punctum A vel B, nunc abeat in infinitum,
+nunc migret ad alteras partes puncti C, (ι’) habebuntur figurae illae omnes,
+
+ 
+
+A
+
+C NM
+
+(Υ) ⁸ Ratio ultima erit eadem. Nam lineola
+D E pro radio seu sinu toto usurpata, lineolae
+D F, D G sunt sinus angulorum D E F,
+DE G; sed angulus D E F est complemen-
+tum ad rectum anguli E D F, seu A D C,
+ideoque aequalis est angulo incidentiae, et angu-
+lus D E G est complementum ad rectum anguli
+E D G, ideoque aequalis est angulo emergentioe
+(558). Ergo lineae D F ad lineam D G ratio
+ultima erit eadem quae sinus incidentiae ad sinum
+emergendae, ide6que data. Et hinc (per Cor.
+Lem. 4.) datur ratio incrementi totius finiti
+lineae A D, ad decrementum totum finitum li-
+neae D B.
+
+(²) ¹' Punctum illud D. Atque eodem mo-
+do, assumendo varia incrementa C M, et decre-
+menta C N, puncta diversa lineae C D E deter-
+minabuntur. Si vero centro B et radio quovis
+describatur circulus curvam C E secans in E,
+et lineam A B in N, et inde convolutione su-
+perficiei C E N, circa axem C N solidum cor-
+pus conficiatur, corpusculum ex D, per lineam
+D B ad centrum B circuli descripti tendens, non
+refrangetur, dum ex superficie circulari concava.
+E N egreditur, quod corpusculi directio D B,
+sit ad illam superficiem perpendicularis, atque
+ilt? corpusculum semper perveniet ad punctum
+(δ) ⁸ Habebumur figurae illae omnes. Quas
+enim lineas Cartesius Geometriae lib. 20.
+50. et seq. dicitA5,A6, vel A7,A8, eas
+Newtonus hic vocat C M, C N, et de caetero
+eadem est utriusque authoris constructio. Unde
+manifestum est, si punctum C, inter puncta A
+et B, et punctum N inter C et M, sita sint,
+
+primmn Cartesii ovalem Newtoniana consti-uc.
+tione describi3 si manentibus punctis A, C, Β,
+
+M, punctum N, inter C et A locetur, 2⁸¹³. ova· -
+
+lem Cartesianam' obtiner1; si vero punctum B
+ad alteras partes puncti C migret ultra A, et
+punctum C sit inter A et N, atque M, 3⁸³¹.
+Cartesii ovalem haberi, iisdemque positis, si
+punctum N sit inter C, et A, 4⁸¹⁰. evalem Car-
+tesii delineari. Porro, si punctum A vel B in
+infinitum abeat ut radii incidant vel restinguatur
+paralleli, tum per punctum M vel N erigendum
+erit perpendiculum, quod circulus centro B vel
+
+A, et radio Β N, vel A M, demptus secabit iu ⁴ '
+
+puncto quaesito D, curvae C D E, quae erit el·-
+lipsis vel hyperbola, ut calculo inito facile patet,
+atque hae, sunt figurae quibus cartesius cap. 80.
+dioptrices usus est.
+
+   
+
+KA BMCN
+
+Eadem est demonstratio, si superficies C D E
+
+pag· incidentes radios reflectit, quo casu fit C N =
+
+C M, ob angulum incidentiae aequalem angulo
+emergentia* (per Prop. 96.) et curva C D E
+erit sectio conica, videlicet hyperbola, si puuctum
+C inter A et Β situm ; ellipsis, si extra positum
+εἰη Parabola, si ellipseos focus B in infinitum
+
+ 
+
